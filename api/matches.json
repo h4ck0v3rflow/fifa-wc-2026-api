@@ -278,9 +278,9 @@
       "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
       "highlights": [
         {
-          "label": "Match recap",
-          "url": "https://www.fifa.com/watch/6qvmyR3k0BcpuPrSmer7Mf?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_6)",
-          "duration": "02:15"
+          "label": "Match Highlights",
+          "url": "https://www.youtube.com/watch?v=lwCKjEM0EGg",
+          "duration": null
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Australia vs Turkiye&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456942&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"

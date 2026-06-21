@@ -2,10 +2,8 @@ name: Scrape FIFA World Cup 2026
 
 on:
   schedule:
-    # Every 10 minutes during World Cup hours (12:00-23:59 UTC)
-    - cron: '*/10 12-23 * * *'
-    # Every 30 minutes overnight
-    - cron: '*/30 0-11 * * *'
+    # Every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:  # Allow manual trigger
   push:
     branches: [main]
