@@ -1,0 +1,3051 @@
+{
+  "tournament": {
+    "name": "FIFA World Cup 2026",
+    "season": "2026",
+    "hosts": [
+      "USA",
+      "Canada",
+      "Mexico"
+    ],
+    "format": "48 teams, 12 groups, round of 32 knockout",
+    "date_start": "2026-06-11",
+    "date_end": "2026-07-19",
+    "data_provider": "SportRadar (via Bing Sports)"
+  },
+  "groups": [
+    {
+      "name": "Group A",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66456904",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456904",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group A",
+          "home_team": {
+            "name": "Mexico",
+            "flag_url": "https://www.bing.com/th?id=OSB.%7ch1pa8vGs9kIEqxF2je4Zw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4781"
+          },
+          "away_team": {
+            "name": "South Africa",
+            "flag_url": "https://www.bing.com/th/id/OSB.0rHoxVTldzoIjS7pJ1PdsQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4736"
+          },
+          "home_score": 2,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-south-africa-highlights-match-report",
+              "duration": "02:13"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Mexico vs South Africa&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456904&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Thu, Jun 11",
+          "date": "2026-06-11"
+        },
+        {
+          "id": "66456906",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456906",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group A",
+          "home_team": {
+            "name": "Korea Republic",
+            "flag_url": "https://www.bing.com/th/id/OSB.ZalNIX_B85wZrZrTb5tebA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4735"
+          },
+          "away_team": {
+            "name": "Czechia",
+            "flag_url": "https://www.bing.com/th?id=OSB.x66yZcxCboJe%7cT1fMlpPKQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4714"
+          },
+          "home_score": 2,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/korea-republic-czechia-highlights-match-report",
+              "duration": "02:16"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Korea Republic vs Czechia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456906&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4735&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4714&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Fri, Jun 12",
+          "date": "2026-06-12"
+        },
+        {
+          "id": "66456910",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456910",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group A",
+          "home_team": {
+            "name": "Czechia",
+            "flag_url": "https://www.bing.com/th?id=OSB.x66yZcxCboJe%7cT1fMlpPKQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4714"
+          },
+          "away_team": {
+            "name": "South Africa",
+            "flag_url": "https://www.bing.com/th/id/OSB.0rHoxVTldzoIjS7pJ1PdsQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4736"
+          },
+          "home_score": 1,
+          "away_score": 1,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/8zfEoeCcUxu8wn5usWw5U?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_25)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Czechia vs South Africa&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456910&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4714&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Thu, Jun 18",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "66456908",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456908",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group A",
+          "home_team": {
+            "name": "Mexico",
+            "flag_url": "https://www.bing.com/th?id=OSB.%7ch1pa8vGs9kIEqxF2je4Zw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4781"
+          },
+          "away_team": {
+            "name": "Korea Republic",
+            "flag_url": "https://www.bing.com/th/id/OSB.ZalNIX_B85wZrZrTb5tebA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4735"
+          },
+          "home_score": 1,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401",
+          "highlights": [
+            {
+              "label": "Highlights | Mexico 1-0 Korea Republic | FIFA World Cup 2026™",
+              "url": "https://www.youtube.com/watch?v=o_AAtfdVp3Y",
+              "duration": "02:11"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Mexico vs Korea Republic&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456908&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4735&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Fri, Jun 19",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "66456912",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456912",
+          "status": "scheduled",
+          "label": "Thu, Jun 25 1:00 AM",
+          "stage": "group",
+          "group": "Group A",
+          "home_team": {
+            "name": "Czechia",
+            "flag_url": "https://www.bing.com/th?id=OSB.x66yZcxCboJe%7cT1fMlpPKQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Mexico",
+            "flag_url": "https://www.bing.com/th?id=OSB.%7ch1pa8vGs9kIEqxF2je4Zw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jun 25",
+          "date": "2026-06-25"
+        },
+        {
+          "id": "66456914",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456914",
+          "status": "scheduled",
+          "label": "Thu, Jun 25 1:00 AM",
+          "stage": "group",
+          "group": "Group A",
+          "home_team": {
+            "name": "South Africa",
+            "flag_url": "https://www.bing.com/th/id/OSB.0rHoxVTldzoIjS7pJ1PdsQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Korea Republic",
+            "flag_url": "https://www.bing.com/th/id/OSB.ZalNIX_B85wZrZrTb5tebA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jun 25",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66456916",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456916",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group B",
+          "home_team": {
+            "name": "Canada",
+            "flag_url": "https://www.bing.com/th/id/OSB.C_GWZ4rWtoW2rCVBo2RJGQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4752"
+          },
+          "away_team": {
+            "name": "Bosnia and Herzegovina",
+            "flag_url": "https://www.bing.com/th/id/OSB.SQUmOkV2XKJhDGOg0K8otw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4479"
+          },
+          "home_score": 1,
+          "away_score": 1,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/en/watch/5ekSKA6XJZqv9Fag9pI7sH?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_3)",
+              "duration": "02:18"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Canada vs Bosnia and Herzegovina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456916&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Fri, Jun 12",
+          "date": "2026-06-12"
+        },
+        {
+          "id": "66456918",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456918",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group B",
+          "home_team": {
+            "name": "Qatar",
+            "flag_url": "https://www.bing.com/th/id/OSB.GRSUQMV2UoXCkLdjfcfKsQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4792"
+          },
+          "away_team": {
+            "name": "Switzerland",
+            "flag_url": "https://www.bing.com/th/id/OSB.e1rIq5qxwaltge_EWvPYUw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4699"
+          },
+          "home_score": 1,
+          "away_score": 1,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/NdoxOQqn5cnkmfioABvsL?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_8)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Qatar vs Switzerland&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456918&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4792&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sat, Jun 13",
+          "date": "2026-06-13"
+        },
+        {
+          "id": "66456922",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456922",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group B",
+          "home_team": {
+            "name": "Switzerland",
+            "flag_url": "https://www.bing.com/th/id/OSB.e1rIq5qxwaltge_EWvPYUw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4699"
+          },
+          "away_team": {
+            "name": "Bosnia and Herzegovina",
+            "flag_url": "https://www.bing.com/th/id/OSB.SQUmOkV2XKJhDGOg0K8otw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4479"
+          },
+          "home_score": 4,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/4xMCS0fOjrGIgHyv1ks6Tz?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_26)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Bosnia and Herzegovina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456922&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Thu, Jun 18",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "66456920",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456920",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group B",
+          "home_team": {
+            "name": "Canada",
+            "flag_url": "https://www.bing.com/th/id/OSB.C_GWZ4rWtoW2rCVBo2RJGQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4752"
+          },
+          "away_team": {
+            "name": "Qatar",
+            "flag_url": "https://www.bing.com/th/id/OSB.GRSUQMV2UoXCkLdjfcfKsQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4792"
+          },
+          "home_score": 6,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/2aUGsEuBEIsCLXNrzkbo4m?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_27)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Canada vs Qatar&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456920&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4792&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Thu, Jun 18",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "66456924",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456924",
+          "status": "scheduled",
+          "label": "Wed, Jun 24 7:00 PM",
+          "stage": "group",
+          "group": "Group B",
+          "home_team": {
+            "name": "Switzerland",
+            "flag_url": "https://www.bing.com/th/id/OSB.e1rIq5qxwaltge_EWvPYUw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Canada",
+            "flag_url": "https://www.bing.com/th/id/OSB.C_GWZ4rWtoW2rCVBo2RJGQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jun 24",
+          "date": "2026-06-24"
+        },
+        {
+          "id": "66456926",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456926",
+          "status": "scheduled",
+          "label": "Wed, Jun 24 7:00 PM",
+          "stage": "group",
+          "group": "Group B",
+          "home_team": {
+            "name": "Bosnia and Herzegovina",
+            "flag_url": "https://www.bing.com/th/id/OSB.SQUmOkV2XKJhDGOg0K8otw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Qatar",
+            "flag_url": "https://www.bing.com/th/id/OSB.GRSUQMV2UoXCkLdjfcfKsQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jun 24",
+          "date": "2026-06-24"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66456940",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456940",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group D",
+          "home_team": {
+            "name": "USA",
+            "flag_url": "https://www.bing.com/th?id=OSB.d21n1cS%7cBfaLp3L_cMfLAg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4724"
+          },
+          "away_team": {
+            "name": "Paraguay",
+            "flag_url": "https://www.bing.com/th?id=OSB.nVVQfE%7cU_RKHbx3VcNaY7w--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
+          },
+          "home_score": 4,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/en/watch/6jzgitUqP6YyXpwwuY6VRc?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_4)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=USA vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456940&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sat, Jun 13",
+          "date": "2026-06-13"
+        },
+        {
+          "id": "66456942",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456942",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group D",
+          "home_team": {
+            "name": "Australia",
+            "flag_url": "https://www.bing.com/th/id/OSB.lxJo7gGxzH18Hsoo4STb9Q--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4741"
+          },
+          "away_team": {
+            "name": "Turkiye",
+            "flag_url": "https://www.bing.com/th/id/OSB.GlMMoa5k0JqZw07r96vNug--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4700"
+          },
+          "home_score": 2,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/6qvmyR3k0BcpuPrSmer7Mf?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_6)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Australia vs Turkiye&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456942&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sun, Jun 14",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "66456944",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456944",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group D",
+          "home_team": {
+            "name": "USA",
+            "flag_url": "https://www.bing.com/th?id=OSB.d21n1cS%7cBfaLp3L_cMfLAg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4724"
+          },
+          "away_team": {
+            "name": "Australia",
+            "flag_url": "https://www.bing.com/th/id/OSB.lxJo7gGxzH18Hsoo4STb9Q--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4741"
+          },
+          "home_score": 2,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/1uOCG5cpsR45kemo4IdCO3?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_32)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=USA vs Australia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456944&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Fri, Jun 19",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "66456946",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456946",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group D",
+          "home_team": {
+            "name": "Turkiye",
+            "flag_url": "https://www.bing.com/th/id/OSB.GlMMoa5k0JqZw07r96vNug--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4700"
+          },
+          "away_team": {
+            "name": "Paraguay",
+            "flag_url": "https://www.bing.com/th?id=OSB.nVVQfE%7cU_RKHbx3VcNaY7w--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
+          },
+          "home_score": 0,
+          "away_score": 1,
+          "winner": "away",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/6gtrw3fGvuONahHQd4yE67?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_31)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Turkiye vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456946&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Yesterday",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "66456948",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456948",
+          "status": "scheduled",
+          "label": "Fri, Jun 26 2:00 AM",
+          "stage": "group",
+          "group": "Group D",
+          "home_team": {
+            "name": "Turkiye",
+            "flag_url": "https://www.bing.com/th/id/OSB.GlMMoa5k0JqZw07r96vNug--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "USA",
+            "flag_url": "https://www.bing.com/th?id=OSB.d21n1cS%7cBfaLp3L_cMfLAg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jun 26",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "66456950",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456950",
+          "status": "scheduled",
+          "label": "Fri, Jun 26 2:00 AM",
+          "stage": "group",
+          "group": "Group D",
+          "home_team": {
+            "name": "Paraguay",
+            "flag_url": "https://www.bing.com/th?id=OSB.nVVQfE%7cU_RKHbx3VcNaY7w--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Australia",
+            "flag_url": "https://www.bing.com/th/id/OSB.lxJo7gGxzH18Hsoo4STb9Q--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jun 26",
+          "date": "2026-06-26"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66456928",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456928",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group C",
+          "home_team": {
+            "name": "Brazil",
+            "flag_url": "https://www.bing.com/th?id=OSB.5sVvejNkKv%7cw9yAjdaCTmw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4748"
+          },
+          "away_team": {
+            "name": "Morocco",
+            "flag_url": "https://www.bing.com/th/id/OSB.xB3RXweWTn_1fhPZXKgPzg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4778"
+          },
+          "home_score": 1,
+          "away_score": 1,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/1e8ayUzYWGZDbZUEU42bgQ?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_7)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Brazil vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456928&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sat, Jun 13",
+          "date": "2026-06-13"
+        },
+        {
+          "id": "66456930",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456930",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group C",
+          "home_team": {
+            "name": "Haiti",
+            "flag_url": "https://www.bing.com/th?id=OSB.kU1cnkSZw%7cIFDOTL7%7ceEWQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_7229"
+          },
+          "away_team": {
+            "name": "Scotland",
+            "flag_url": "https://www.bing.com/th/id/OSB.sB_adkQAr7Y7PkJY6AnMmQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4695"
+          },
+          "home_score": 0,
+          "away_score": 1,
+          "winner": "away",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/1amePIIN9Rt7kvMwQGMPke?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_5)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Haiti vs Scotland&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456930&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_7229&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4695&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sun, Jun 14",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "66456934",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456934",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group C",
+          "home_team": {
+            "name": "Scotland",
+            "flag_url": "https://www.bing.com/th/id/OSB.sB_adkQAr7Y7PkJY6AnMmQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4695"
+          },
+          "away_team": {
+            "name": "Morocco",
+            "flag_url": "https://www.bing.com/th/id/OSB.xB3RXweWTn_1fhPZXKgPzg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4778"
+          },
+          "home_score": 0,
+          "away_score": 1,
+          "winner": "away",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/lLPqiMKeKkrKkEqOj9dxU?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_30)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Scotland vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456934&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4695&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Fri, Jun 19",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "66456932",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456932",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group C",
+          "home_team": {
+            "name": "Brazil",
+            "flag_url": "https://www.bing.com/th?id=OSB.5sVvejNkKv%7cw9yAjdaCTmw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4748"
+          },
+          "away_team": {
+            "name": "Haiti",
+            "flag_url": "https://www.bing.com/th?id=OSB.kU1cnkSZw%7cIFDOTL7%7ceEWQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_7229"
+          },
+          "home_score": 3,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/4B1cORLHftHRri3QzyPvng?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_29)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Brazil vs Haiti&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456932&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_7229&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Yesterday",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "66456936",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456936",
+          "status": "scheduled",
+          "label": "Wed, Jun 24 10:00 PM",
+          "stage": "group",
+          "group": "Group C",
+          "home_team": {
+            "name": "Scotland",
+            "flag_url": "https://www.bing.com/th/id/OSB.sB_adkQAr7Y7PkJY6AnMmQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Brazil",
+            "flag_url": "https://www.bing.com/th?id=OSB.5sVvejNkKv%7cw9yAjdaCTmw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jun 24",
+          "date": "2026-06-24"
+        },
+        {
+          "id": "66456938",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456938",
+          "status": "scheduled",
+          "label": "Wed, Jun 24 10:00 PM",
+          "stage": "group",
+          "group": "Group C",
+          "home_team": {
+            "name": "Morocco",
+            "flag_url": "https://www.bing.com/th/id/OSB.xB3RXweWTn_1fhPZXKgPzg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Haiti",
+            "flag_url": "https://www.bing.com/th?id=OSB.kU1cnkSZw%7cIFDOTL7%7ceEWQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jun 24",
+          "date": "2026-06-24"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66457070",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457070",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group E",
+          "home_team": {
+            "name": "Germany",
+            "flag_url": "https://www.bing.com/th?id=OSB.UBWG4ftM%7cmxTpOuQWWQYxg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4711"
+          },
+          "away_team": {
+            "name": "Curacao",
+            "flag_url": "https://www.bing.com/th/id/OSB.KgiCh8mIEkMEtHykKRj8PA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_55827"
+          },
+          "home_score": 7,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/en/watch/3MSlsbd2rcnTGlcG4jhpdR?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_10)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Germany vs Curacao&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457070&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_55827&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sun, Jun 14",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "66457072",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457072",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group E",
+          "home_team": {
+            "name": "Ivory Coast",
+            "flag_url": "https://www.bing.com/th?id=OSB.knUzbhzw%7cjf9SAffhihZyQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4768"
+          },
+          "away_team": {
+            "name": "Ecuador",
+            "flag_url": "https://www.bing.com/th/id/OSB.2I7ZpJczX6qQT_PO9zVuLg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4757"
+          },
+          "home_score": 1,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/4P79SuyJHO3ZGVuRYxjots?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_9)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Ivory Coast vs Ecuador&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457072&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sun, Jun 14",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "66457074",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457074",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group E",
+          "home_team": {
+            "name": "Germany",
+            "flag_url": "https://www.bing.com/th?id=OSB.UBWG4ftM%7cmxTpOuQWWQYxg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4711"
+          },
+          "away_team": {
+            "name": "Ivory Coast",
+            "flag_url": "https://www.bing.com/th?id=OSB.knUzbhzw%7cjf9SAffhihZyQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4768"
+          },
+          "home_score": 2,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
+          "highlights": [
+            {
+              "label": "Alt Cast Highlights: Germany v Côte d'Ivoire | FIFA World Cup 2026™",
+              "url": "https://www.youtube.com/watch?v=0SR4xt1SzOg",
+              "duration": "01:01"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Germany vs Ivory Coast&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457074&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Yesterday",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "66457076",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457076",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group E",
+          "home_team": {
+            "name": "Ecuador",
+            "flag_url": "https://www.bing.com/th/id/OSB.2I7ZpJczX6qQT_PO9zVuLg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4757"
+          },
+          "away_team": {
+            "name": "Curacao",
+            "flag_url": "https://www.bing.com/th/id/OSB.KgiCh8mIEkMEtHykKRj8PA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_55827"
+          },
+          "home_score": 0,
+          "away_score": 0,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/6lI7ddpjskKW6dYr7nB7I4?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_34)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Ecuador vs Curacao&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457076&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_55827&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Today",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "66457080",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457080",
+          "status": "scheduled",
+          "label": "Thu, Jun 25 8:00 PM",
+          "stage": "group",
+          "group": "Group E",
+          "home_team": {
+            "name": "Curacao",
+            "flag_url": "https://www.bing.com/th/id/OSB.KgiCh8mIEkMEtHykKRj8PA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Ivory Coast",
+            "flag_url": "https://www.bing.com/th?id=OSB.knUzbhzw%7cjf9SAffhihZyQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jun 25",
+          "date": "2026-06-25"
+        },
+        {
+          "id": "66457078",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457078",
+          "status": "scheduled",
+          "label": "Thu, Jun 25 8:00 PM",
+          "stage": "group",
+          "group": "Group E",
+          "home_team": {
+            "name": "Ecuador",
+            "flag_url": "https://www.bing.com/th/id/OSB.2I7ZpJczX6qQT_PO9zVuLg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Germany",
+            "flag_url": "https://www.bing.com/th?id=OSB.UBWG4ftM%7cmxTpOuQWWQYxg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jun 25",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66456968",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456968",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group F",
+          "home_team": {
+            "name": "Netherlands",
+            "flag_url": "https://www.bing.com/th/id/OSB.YUQM52kTjwke2cIVMy1MyA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4705"
+          },
+          "away_team": {
+            "name": "Japan",
+            "flag_url": "https://www.bing.com/th?id=OSB.iI1Qa%7cWIQ%7cVTfmFQOxpilw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4770"
+          },
+          "home_score": 2,
+          "away_score": 2,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/hfEd1R54PslEMX4Rqb0EP?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_11)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Japan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456968&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Sun, Jun 14",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "66456970",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456970",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group F",
+          "home_team": {
+            "name": "Sweden",
+            "flag_url": "https://www.bing.com/th?id=OSB.tbWmN9P6aX%7cztWkoPc1wFQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4688"
+          },
+          "away_team": {
+            "name": "Tunisia",
+            "flag_url": "https://www.bing.com/th/id/OSB.yuquxTYQqKNML8kspAHjYA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4729"
+          },
+          "home_score": 5,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/en/watch/1xJ82g9ocfLQaweWUFgFMw?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_12)",
+              "duration": "02:15"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Sweden vs Tunisia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456970&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4729&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Mon, Jun 15",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "66456972",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456972",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group F",
+          "home_team": {
+            "name": "Netherlands",
+            "flag_url": "https://www.bing.com/th/id/OSB.YUQM52kTjwke2cIVMy1MyA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4705"
+          },
+          "away_team": {
+            "name": "Sweden",
+            "flag_url": "https://www.bing.com/th?id=OSB.tbWmN9P6aX%7cztWkoPc1wFQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4688"
+          },
+          "home_score": 5,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/oQAXWFfSFtgXIEhnTdrE6?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_35)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Sweden&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456972&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Yesterday",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "66456974",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456974",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group F",
+          "home_team": {
+            "name": "Tunisia",
+            "flag_url": "https://www.bing.com/th/id/OSB.yuquxTYQqKNML8kspAHjYA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4729"
+          },
+          "away_team": {
+            "name": "Japan",
+            "flag_url": "https://www.bing.com/th?id=OSB.iI1Qa%7cWIQ%7cVTfmFQOxpilw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4770"
+          },
+          "home_score": 0,
+          "away_score": 4,
+          "winner": "away",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/1nNMGQHe2Ar9v5mv1Q6drf?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_36)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Tunisia vs Japan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456974&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4729&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Today",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "66456978",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456978",
+          "status": "scheduled",
+          "label": "Thu, Jun 25 11:00 PM",
+          "stage": "group",
+          "group": "Group F",
+          "home_team": {
+            "name": "Japan",
+            "flag_url": "https://www.bing.com/th?id=OSB.iI1Qa%7cWIQ%7cVTfmFQOxpilw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Sweden",
+            "flag_url": "https://www.bing.com/th?id=OSB.tbWmN9P6aX%7cztWkoPc1wFQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jun 25",
+          "date": "2026-06-25"
+        },
+        {
+          "id": "66456976",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456976",
+          "status": "scheduled",
+          "label": "Thu, Jun 25 11:00 PM",
+          "stage": "group",
+          "group": "Group F",
+          "home_team": {
+            "name": "Tunisia",
+            "flag_url": "https://www.bing.com/th/id/OSB.yuquxTYQqKNML8kspAHjYA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Netherlands",
+            "flag_url": "https://www.bing.com/th/id/OSB.YUQM52kTjwke2cIVMy1MyA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jun 25",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66456994",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456994",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group H",
+          "home_team": {
+            "name": "Spain",
+            "flag_url": "https://www.bing.com/th/id/OSB.hgUSGNppUx4Tm_rgtMI_yw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4698"
+          },
+          "away_team": {
+            "name": "Cape Verde",
+            "flag_url": "https://www.bing.com/th/id/OSB.xMgA8woRhAhgvw33oG8I3g--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4753"
+          },
+          "home_score": 0,
+          "away_score": 0,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/jLS5YXPMr0XAd5lMHtbiJ?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_14)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Spain vs Cape Verde&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456994&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4753&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Mon, Jun 15",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "66456996",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456996",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group H",
+          "home_team": {
+            "name": "Saudi Arabia",
+            "flag_url": "https://www.bing.com/th?id=OSB.whALab8IBz2SUiuKayr6%7cA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4834"
+          },
+          "away_team": {
+            "name": "Uruguay",
+            "flag_url": "https://www.bing.com/th?id=OSB.I%7cNF_E_xKggTWwzM%7cB3c%7cw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4725"
+          },
+          "home_score": 1,
+          "away_score": 1,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/2OO54UvFW7GK8vnsarneGk?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_13)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Saudi Arabia vs Uruguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456996&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4834&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4725&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Mon, Jun 15",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "66456998",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456998",
+          "status": "scheduled",
+          "label": "Today 4:00 PM",
+          "stage": "group",
+          "group": "Group H",
+          "home_team": {
+            "name": "Spain",
+            "flag_url": "https://www.bing.com/th/id/OSB.hgUSGNppUx4Tm_rgtMI_yw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Saudi Arabia",
+            "flag_url": "https://www.bing.com/th?id=OSB.whALab8IBz2SUiuKayr6%7cA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Today",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "66457000",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457000",
+          "status": "scheduled",
+          "label": "Today 10:00 PM",
+          "stage": "group",
+          "group": "Group H",
+          "home_team": {
+            "name": "Uruguay",
+            "flag_url": "https://www.bing.com/th?id=OSB.I%7cNF_E_xKggTWwzM%7cB3c%7cw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Cape Verde",
+            "flag_url": "https://www.bing.com/th/id/OSB.xMgA8woRhAhgvw33oG8I3g--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Today",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "66457002",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457002",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 12:00 AM",
+          "stage": "group",
+          "group": "Group H",
+          "home_team": {
+            "name": "Uruguay",
+            "flag_url": "https://www.bing.com/th?id=OSB.I%7cNF_E_xKggTWwzM%7cB3c%7cw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Spain",
+            "flag_url": "https://www.bing.com/th/id/OSB.hgUSGNppUx4Tm_rgtMI_yw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        },
+        {
+          "id": "66457004",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457004",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 12:00 AM",
+          "stage": "group",
+          "group": "Group H",
+          "home_team": {
+            "name": "Cape Verde",
+            "flag_url": "https://www.bing.com/th/id/OSB.xMgA8woRhAhgvw33oG8I3g--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Saudi Arabia",
+            "flag_url": "https://www.bing.com/th?id=OSB.whALab8IBz2SUiuKayr6%7cA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66456982",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456982",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group G",
+          "home_team": {
+            "name": "Belgium",
+            "flag_url": "https://www.bing.com/th/id/OSB.PYa4fSExdzdU76dO25jORQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4717"
+          },
+          "away_team": {
+            "name": "Egypt",
+            "flag_url": "https://www.bing.com/th/id/OSB.RoOU7SV9u4T1YKtsFZd5_g--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4758"
+          },
+          "home_score": 1,
+          "away_score": 1,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/2XSqobMgEwKFuhEozWztJl?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_16)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Belgium vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456982&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Mon, Jun 15",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "66456984",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456984",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group G",
+          "home_team": {
+            "name": "IR Iran",
+            "flag_url": "https://www.bing.com/th/id/OSB.Z8Npo2TGgl8T9xMsWpYB4Q--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4766"
+          },
+          "away_team": {
+            "name": "New Zealand",
+            "flag_url": "https://www.bing.com/th/id/OSB.vLzeEQzVTl0R_yEkrii4PA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4784"
+          },
+          "home_score": 2,
+          "away_score": 2,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/5c6T3T7Y1XfKrT3aXzJRqL?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_15)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=IR Iran vs New Zealand&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456984&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4766&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4784&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Tue, Jun 16",
+          "date": "2026-06-16"
+        },
+        {
+          "id": "66456986",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456986",
+          "status": "scheduled",
+          "label": "Today 7:00 PM",
+          "stage": "group",
+          "group": "Group G",
+          "home_team": {
+            "name": "Belgium",
+            "flag_url": "https://www.bing.com/th/id/OSB.PYa4fSExdzdU76dO25jORQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "IR Iran",
+            "flag_url": "https://www.bing.com/th/id/OSB.Z8Npo2TGgl8T9xMsWpYB4Q--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Today",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "66456988",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456988",
+          "status": "scheduled",
+          "label": "Tomorrow 1:00 AM",
+          "stage": "group",
+          "group": "Group G",
+          "home_team": {
+            "name": "New Zealand",
+            "flag_url": "https://www.bing.com/th/id/OSB.vLzeEQzVTl0R_yEkrii4PA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Egypt",
+            "flag_url": "https://www.bing.com/th/id/OSB.RoOU7SV9u4T1YKtsFZd5_g--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tomorrow",
+          "date": "2026-06-21"
+        },
+        {
+          "id": "66456992",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456992",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 3:00 AM",
+          "stage": "group",
+          "group": "Group G",
+          "home_team": {
+            "name": "Egypt",
+            "flag_url": "https://www.bing.com/th/id/OSB.RoOU7SV9u4T1YKtsFZd5_g--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "IR Iran",
+            "flag_url": "https://www.bing.com/th/id/OSB.Z8Npo2TGgl8T9xMsWpYB4Q--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        },
+        {
+          "id": "66456990",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456990",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 3:00 AM",
+          "stage": "group",
+          "group": "Group G",
+          "home_team": {
+            "name": "New Zealand",
+            "flag_url": "https://www.bing.com/th/id/OSB.vLzeEQzVTl0R_yEkrii4PA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Belgium",
+            "flag_url": "https://www.bing.com/th/id/OSB.PYa4fSExdzdU76dO25jORQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        }
+      ]
+    },
+    {
+      "name": "Group I",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66457006",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457006",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group I",
+          "home_team": {
+            "name": "France",
+            "flag_url": "https://www.bing.com/th/id/OSB.uZpnWUovQu5UlpGjW05T1w--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4481"
+          },
+          "away_team": {
+            "name": "Senegal",
+            "flag_url": "https://www.bing.com/th/id/OSB.zyAotVjDnyGpNlGa5vf2wA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4739"
+          },
+          "home_score": 3,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/3EKjirmmC6D2Ss29rPdDph?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_17)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=France vs Senegal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457006&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Tue, Jun 16",
+          "date": "2026-06-16"
+        },
+        {
+          "id": "66457008",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457008",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group I",
+          "home_team": {
+            "name": "Iraq",
+            "flag_url": "https://www.bing.com/th/id/OSB.jSlxaTo7VprpGqRtJiatbg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4767"
+          },
+          "away_team": {
+            "name": "Norway",
+            "flag_url": "https://www.bing.com/th?id=OSB.ItXxev_86DE69gQa%7cDqwgw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4475"
+          },
+          "home_score": 1,
+          "away_score": 4,
+          "winner": "away",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/SsQRwgoouokLgVYDKitmB?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_18)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Iraq vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457008&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4767&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Tue, Jun 16",
+          "date": "2026-06-16"
+        },
+        {
+          "id": "66457010",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457010",
+          "status": "scheduled",
+          "label": "Tomorrow 9:00 PM",
+          "stage": "group",
+          "group": "Group I",
+          "home_team": {
+            "name": "France",
+            "flag_url": "https://www.bing.com/th/id/OSB.uZpnWUovQu5UlpGjW05T1w--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Iraq",
+            "flag_url": "https://www.bing.com/th/id/OSB.jSlxaTo7VprpGqRtJiatbg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tomorrow",
+          "date": "2026-06-21"
+        },
+        {
+          "id": "66457012",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457012",
+          "status": "scheduled",
+          "label": "Tue, Jun 23 12:00 AM",
+          "stage": "group",
+          "group": "Group I",
+          "home_team": {
+            "name": "Norway",
+            "flag_url": "https://www.bing.com/th?id=OSB.ItXxev_86DE69gQa%7cDqwgw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Senegal",
+            "flag_url": "https://www.bing.com/th/id/OSB.zyAotVjDnyGpNlGa5vf2wA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 23",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "66457014",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457014",
+          "status": "scheduled",
+          "label": "Fri, Jun 26 7:00 PM",
+          "stage": "group",
+          "group": "Group I",
+          "home_team": {
+            "name": "Norway",
+            "flag_url": "https://www.bing.com/th?id=OSB.ItXxev_86DE69gQa%7cDqwgw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "France",
+            "flag_url": "https://www.bing.com/th/id/OSB.uZpnWUovQu5UlpGjW05T1w--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jun 26",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "66457016",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457016",
+          "status": "scheduled",
+          "label": "Fri, Jun 26 7:00 PM",
+          "stage": "group",
+          "group": "Group I",
+          "home_team": {
+            "name": "Senegal",
+            "flag_url": "https://www.bing.com/th/id/OSB.zyAotVjDnyGpNlGa5vf2wA--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Iraq",
+            "flag_url": "https://www.bing.com/th/id/OSB.jSlxaTo7VprpGqRtJiatbg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jun 26",
+          "date": "2026-06-26"
+        }
+      ]
+    },
+    {
+      "name": "Group J",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66457018",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457018",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group J",
+          "home_team": {
+            "name": "Argentina",
+            "flag_url": "https://www.bing.com/th/id/OSB.FgTVzvAJp_zjIKdIxE02sg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4819"
+          },
+          "away_team": {
+            "name": "Algeria",
+            "flag_url": "https://www.bing.com/th/id/OSB.lubDsejD8EyJxWAy05qaFw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4691"
+          },
+          "home_score": 3,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/7w5eTQ8xbmnSNHypyuYhdG?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_19)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Argentina vs Algeria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457018&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Wed, Jun 17",
+          "date": "2026-06-17"
+        },
+        {
+          "id": "66457020",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457020",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group J",
+          "home_team": {
+            "name": "Austria",
+            "flag_url": "https://www.bing.com/th/id/OSB.mD7FPVMPoHNxhZ7cksvsvg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4718"
+          },
+          "away_team": {
+            "name": "Jordan",
+            "flag_url": "https://www.bing.com/th?id=OSB.n6dsC8is8oT9iaR%7cI4f20g--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4771"
+          },
+          "home_score": 3,
+          "away_score": 1,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/77P4VoHiQj3RG3yEQVhGpH?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_20)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Austria vs Jordan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457020&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4771&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Wed, Jun 17",
+          "date": "2026-06-17"
+        },
+        {
+          "id": "66457022",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457022",
+          "status": "scheduled",
+          "label": "Tomorrow 5:00 PM",
+          "stage": "group",
+          "group": "Group J",
+          "home_team": {
+            "name": "Argentina",
+            "flag_url": "https://www.bing.com/th/id/OSB.FgTVzvAJp_zjIKdIxE02sg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Austria",
+            "flag_url": "https://www.bing.com/th/id/OSB.mD7FPVMPoHNxhZ7cksvsvg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tomorrow",
+          "date": "2026-06-21"
+        },
+        {
+          "id": "66457024",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457024",
+          "status": "scheduled",
+          "label": "Tue, Jun 23 3:00 AM",
+          "stage": "group",
+          "group": "Group J",
+          "home_team": {
+            "name": "Jordan",
+            "flag_url": "https://www.bing.com/th?id=OSB.n6dsC8is8oT9iaR%7cI4f20g--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Algeria",
+            "flag_url": "https://www.bing.com/th/id/OSB.lubDsejD8EyJxWAy05qaFw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 23",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "66457026",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457026",
+          "status": "scheduled",
+          "label": "Sun, Jun 28 2:00 AM",
+          "stage": "group",
+          "group": "Group J",
+          "home_team": {
+            "name": "Jordan",
+            "flag_url": "https://www.bing.com/th?id=OSB.n6dsC8is8oT9iaR%7cI4f20g--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Argentina",
+            "flag_url": "https://www.bing.com/th/id/OSB.FgTVzvAJp_zjIKdIxE02sg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sun, Jun 28",
+          "date": "2026-06-28"
+        },
+        {
+          "id": "66457028",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457028",
+          "status": "scheduled",
+          "label": "Sun, Jun 28 2:00 AM",
+          "stage": "group",
+          "group": "Group J",
+          "home_team": {
+            "name": "Algeria",
+            "flag_url": "https://www.bing.com/th/id/OSB.lubDsejD8EyJxWAy05qaFw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Austria",
+            "flag_url": "https://www.bing.com/th/id/OSB.mD7FPVMPoHNxhZ7cksvsvg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sun, Jun 28",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    {
+      "name": "Group K",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66457030",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457030",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group K",
+          "home_team": {
+            "name": "Portugal",
+            "flag_url": "https://www.bing.com/th/id/OSB.oNV73VCix78iUirbUGbRxw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4704"
+          },
+          "away_team": {
+            "name": "Congo DR",
+            "flag_url": "https://www.bing.com/th/id/OSB.NNasrLxtwj2yKvbmcNDTew--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4823"
+          },
+          "home_score": 1,
+          "away_score": 1,
+          "winner": "draw",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/3phBNopGuBvaow9DPBc2D?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_23)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Portugal vs Congo DR&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457030&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Wed, Jun 17",
+          "date": "2026-06-17"
+        },
+        {
+          "id": "66457032",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457032",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group K",
+          "home_team": {
+            "name": "Uzbekistan",
+            "flag_url": "https://www.bing.com/th/id/OSB.fNW0Co8cp0ljnJ4Hd4szZg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4723"
+          },
+          "away_team": {
+            "name": "Colombia",
+            "flag_url": "https://www.bing.com/th/id/OSB._B7FG5g7Mx5OBKoj8SOG6A--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4820"
+          },
+          "home_score": 1,
+          "away_score": 3,
+          "winner": "away",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/6Tr0HFdKBRPzlKF5p6kFLD?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_24)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Uzbekistan vs Colombia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457032&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4723&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Thu, Jun 18",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "66457034",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457034",
+          "status": "scheduled",
+          "label": "Tue, Jun 23 5:00 PM",
+          "stage": "group",
+          "group": "Group K",
+          "home_team": {
+            "name": "Portugal",
+            "flag_url": "https://www.bing.com/th/id/OSB.oNV73VCix78iUirbUGbRxw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Uzbekistan",
+            "flag_url": "https://www.bing.com/th/id/OSB.fNW0Co8cp0ljnJ4Hd4szZg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 23",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "66457036",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457036",
+          "status": "scheduled",
+          "label": "Wed, Jun 24 2:00 AM",
+          "stage": "group",
+          "group": "Group K",
+          "home_team": {
+            "name": "Colombia",
+            "flag_url": "https://www.bing.com/th/id/OSB._B7FG5g7Mx5OBKoj8SOG6A--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Congo DR",
+            "flag_url": "https://www.bing.com/th/id/OSB.NNasrLxtwj2yKvbmcNDTew--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jun 24",
+          "date": "2026-06-24"
+        },
+        {
+          "id": "66457040",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457040",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 11:30 PM",
+          "stage": "group",
+          "group": "Group K",
+          "home_team": {
+            "name": "Congo DR",
+            "flag_url": "https://www.bing.com/th/id/OSB.NNasrLxtwj2yKvbmcNDTew--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Uzbekistan",
+            "flag_url": "https://www.bing.com/th/id/OSB.fNW0Co8cp0ljnJ4Hd4szZg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        },
+        {
+          "id": "66457038",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457038",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 11:30 PM",
+          "stage": "group",
+          "group": "Group K",
+          "home_team": {
+            "name": "Colombia",
+            "flag_url": "https://www.bing.com/th/id/OSB._B7FG5g7Mx5OBKoj8SOG6A--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Portugal",
+            "flag_url": "https://www.bing.com/th/id/OSB.oNV73VCix78iUirbUGbRxw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        }
+      ]
+    },
+    {
+      "name": "Group L",
+      "stage": "group",
+      "matches": [
+        {
+          "id": "66457042",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457042",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group L",
+          "home_team": {
+            "name": "England",
+            "flag_url": "https://www.bing.com/th?id=OSB.Bb%7cOCh6mDEaOct3bdDponA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
+          },
+          "away_team": {
+            "name": "Croatia",
+            "flag_url": "https://www.bing.com/th/id/OSB.E0xhYbL_7Pc7LLvO3a5aGg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4715"
+          },
+          "home_score": 4,
+          "away_score": 2,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/69ls3TcVt6PIJPxhiREehA?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_22)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=England vs Croatia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457042&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Wed, Jun 17",
+          "date": "2026-06-17"
+        },
+        {
+          "id": "66457044",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457044",
+          "status": "finished",
+          "label": "FT",
+          "stage": "group",
+          "group": "Group L",
+          "home_team": {
+            "name": "Ghana",
+            "flag_url": "https://www.bing.com/th/id/OSB.GLELIQRc9lEcfXk9NOsMOw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4764"
+          },
+          "away_team": {
+            "name": "Panama",
+            "flag_url": "https://www.bing.com/th/id/OSB.NFgd30bXMRW6GMkt66SiaQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_5164"
+          },
+          "home_score": 1,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/5yGWUJLlTqyvKydpUvLJnU?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_21)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Ghana vs Panama&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457044&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&",
+          "date_raw": "Wed, Jun 17",
+          "date": "2026-06-17"
+        },
+        {
+          "id": "66457046",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457046",
+          "status": "scheduled",
+          "label": "Tue, Jun 23 8:00 PM",
+          "stage": "group",
+          "group": "Group L",
+          "home_team": {
+            "name": "England",
+            "flag_url": "https://www.bing.com/th?id=OSB.Bb%7cOCh6mDEaOct3bdDponA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Ghana",
+            "flag_url": "https://www.bing.com/th/id/OSB.GLELIQRc9lEcfXk9NOsMOw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 23",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "66457048",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457048",
+          "status": "scheduled",
+          "label": "Tue, Jun 23 11:00 PM",
+          "stage": "group",
+          "group": "Group L",
+          "home_team": {
+            "name": "Panama",
+            "flag_url": "https://www.bing.com/th/id/OSB.NFgd30bXMRW6GMkt66SiaQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Croatia",
+            "flag_url": "https://www.bing.com/th/id/OSB.E0xhYbL_7Pc7LLvO3a5aGg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 23",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "66457050",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 9:00 PM",
+          "stage": "group",
+          "group": "Group L",
+          "home_team": {
+            "name": "Panama",
+            "flag_url": "https://www.bing.com/th/id/OSB.NFgd30bXMRW6GMkt66SiaQ--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "England",
+            "flag_url": "https://www.bing.com/th?id=OSB.Bb%7cOCh6mDEaOct3bdDponA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        },
+        {
+          "id": "66457052",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457052",
+          "status": "scheduled",
+          "label": "Sat, Jun 27 9:00 PM",
+          "stage": "group",
+          "group": "Group L",
+          "home_team": {
+            "name": "Croatia",
+            "flag_url": "https://www.bing.com/th/id/OSB.E0xhYbL_7Pc7LLvO3a5aGg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "Ghana",
+            "flag_url": "https://www.bing.com/th/id/OSB.GLELIQRc9lEcfXk9NOsMOw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jun 27",
+          "date": "2026-06-27"
+        }
+      ]
+    },
+    {
+      "name": "Round of 32",
+      "stage": "round_of_32",
+      "matches": [
+        {
+          "id": "53452545",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452545",
+          "status": "scheduled",
+          "label": "Sun, Jun 28 7:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "2A",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2B",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sun, Jun 28",
+          "date": "2026-06-28"
+        },
+        {
+          "id": "53452557",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452557",
+          "status": "scheduled",
+          "label": "Mon, Jun 29 5:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1C",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2F",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Mon, Jun 29",
+          "date": "2026-06-29"
+        },
+        {
+          "id": "53452541",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452541",
+          "status": "scheduled",
+          "label": "Mon, Jun 29 8:30 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "Germany",
+            "flag_url": "https://www.bing.com/th?id=OSB.UBWG4ftM%7cmxTpOuQWWQYxg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3A/3B/3C/3D/3F",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Mon, Jun 29",
+          "date": "2026-06-29"
+        },
+        {
+          "id": "53452547",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547",
+          "status": "scheduled",
+          "label": "Tue, Jun 30 1:00 AM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1F",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2C",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 30",
+          "date": "2026-06-30"
+        },
+        {
+          "id": "53452561",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561",
+          "status": "scheduled",
+          "label": "Tue, Jun 30 5:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "2E",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2I",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 30",
+          "date": "2026-06-30"
+        },
+        {
+          "id": "53452543",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452543",
+          "status": "scheduled",
+          "label": "Tue, Jun 30 9:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1I",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3C/3D/3F/3G/3H",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jun 30",
+          "date": "2026-06-30"
+        },
+        {
+          "id": "53452563",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452563",
+          "status": "scheduled",
+          "label": "Wed, Jul 1 1:00 AM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "Mexico",
+            "flag_url": "https://www.bing.com/th?id=OSB.%7ch1pa8vGs9kIEqxF2je4Zw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3C/3E/3F/3H/3I",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jul 1",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "53452565",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452565",
+          "status": "scheduled",
+          "label": "Wed, Jul 1 4:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1L",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3E/3H/3I/3J/3K",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jul 1",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "53452555",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452555",
+          "status": "scheduled",
+          "label": "Wed, Jul 1 8:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1G",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3A/3E/3H/3I/3J",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jul 1",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "53452553",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452553",
+          "status": "scheduled",
+          "label": "Thu, Jul 2 12:00 AM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "USA",
+            "flag_url": "https://www.bing.com/th?id=OSB.d21n1cS%7cBfaLp3L_cMfLAg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3B/3E/3F/3I/3J",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jul 2",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "53452551",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452551",
+          "status": "scheduled",
+          "label": "Thu, Jul 2 7:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1H",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2J",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jul 2",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "53452549",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452549",
+          "status": "scheduled",
+          "label": "Thu, Jul 2 11:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "2K",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2L",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jul 2",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "53452505",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452505",
+          "status": "scheduled",
+          "label": "Fri, Jul 3 3:00 AM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1B",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3E/3F/3G/3I/3J",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jul 3",
+          "date": "2026-07-03"
+        },
+        {
+          "id": "53452503",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452503",
+          "status": "scheduled",
+          "label": "Fri, Jul 3 6:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "2D",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2G",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jul 3",
+          "date": "2026-07-03"
+        },
+        {
+          "id": "53452569",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452569",
+          "status": "scheduled",
+          "label": "Fri, Jul 3 10:00 PM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1J",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "2H",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jul 3",
+          "date": "2026-07-03"
+        },
+        {
+          "id": "53452507",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452507",
+          "status": "scheduled",
+          "label": "Sat, Jul 4 1:30 AM",
+          "stage": "round_of_32",
+          "group": "Round of 32",
+          "home_team": {
+            "name": "1K",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "3D/3E/3I/3J/3L",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jul 4",
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "stage": "round_of_16",
+      "matches": [
+        {
+          "id": "53452511",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452511",
+          "status": "scheduled",
+          "label": "Sat, Jul 4 5:00 PM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W73",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W75",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jul 4",
+          "date": "2026-07-04"
+        },
+        {
+          "id": "53452509",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452509",
+          "status": "scheduled",
+          "label": "Sat, Jul 4 9:00 PM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W74",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W77",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jul 4",
+          "date": "2026-07-04"
+        },
+        {
+          "id": "53452517",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452517",
+          "status": "scheduled",
+          "label": "Sun, Jul 5 8:00 PM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W76",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W78",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sun, Jul 5",
+          "date": "2026-07-05"
+        },
+        {
+          "id": "53452519",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452519",
+          "status": "scheduled",
+          "label": "Mon, Jul 6 12:00 AM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W79",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W80",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Mon, Jul 6",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "53452513",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452513",
+          "status": "scheduled",
+          "label": "Mon, Jul 6 7:00 PM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W83",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W84",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Mon, Jul 6",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "53452515",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452515",
+          "status": "scheduled",
+          "label": "Tue, Jul 7 12:00 AM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W81",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W82",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jul 7",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "53452521",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452521",
+          "status": "scheduled",
+          "label": "Tue, Jul 7 4:00 PM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W86",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W88",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jul 7",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "53452523",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452523",
+          "status": "scheduled",
+          "label": "Tue, Jul 7 8:00 PM",
+          "stage": "round_of_16",
+          "group": "Round of 16",
+          "home_team": {
+            "name": "W85",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W87",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jul 7",
+          "date": "2026-07-07"
+        }
+      ]
+    },
+    {
+      "name": "Quarterfinals",
+      "stage": "quarter_final",
+      "matches": [
+        {
+          "id": "53452525",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452525",
+          "status": "scheduled",
+          "label": "Thu, Jul 9 8:00 PM",
+          "stage": "quarter_final",
+          "group": "Quarterfinals",
+          "home_team": {
+            "name": "W89",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W90",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Thu, Jul 9",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "53452527",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452527",
+          "status": "scheduled",
+          "label": "Fri, Jul 10 7:00 PM",
+          "stage": "quarter_final",
+          "group": "Quarterfinals",
+          "home_team": {
+            "name": "W93",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W94",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Fri, Jul 10",
+          "date": "2026-07-10"
+        },
+        {
+          "id": "53452529",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529",
+          "status": "scheduled",
+          "label": "Sat, Jul 11 9:00 PM",
+          "stage": "quarter_final",
+          "group": "Quarterfinals",
+          "home_team": {
+            "name": "W91",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W92",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jul 11",
+          "date": "2026-07-11"
+        },
+        {
+          "id": "53452531",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452531",
+          "status": "scheduled",
+          "label": "Sun, Jul 12 1:00 AM",
+          "stage": "quarter_final",
+          "group": "Quarterfinals",
+          "home_team": {
+            "name": "W95",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W96",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sun, Jul 12",
+          "date": "2026-07-12"
+        }
+      ]
+    },
+    {
+      "name": "Semifinals",
+      "stage": "semi_final",
+      "matches": [
+        {
+          "id": "53452533",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452533",
+          "status": "scheduled",
+          "label": "Tue, Jul 14 7:00 PM",
+          "stage": "semi_final",
+          "group": "Semifinals",
+          "home_team": {
+            "name": "W97",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W98",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Tue, Jul 14",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "53452535",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452535",
+          "status": "scheduled",
+          "label": "Wed, Jul 15 7:00 PM",
+          "stage": "semi_final",
+          "group": "Semifinals",
+          "home_team": {
+            "name": "W99",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W100",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Wed, Jul 15",
+          "date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "name": "3rd place play-off",
+      "stage": "third_place",
+      "matches": [
+        {
+          "id": "53452539",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452539",
+          "status": "scheduled",
+          "label": "Sat, Jul 18 9:00 PM",
+          "stage": "third_place",
+          "group": "3rd place play-off",
+          "home_team": {
+            "name": "RU101",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "RU102",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sat, Jul 18",
+          "date": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "stage": "final",
+      "matches": [
+        {
+          "id": "53452537",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452537",
+          "status": "scheduled",
+          "label": "Sun, Jul 19 7:00 PM",
+          "stage": "final",
+          "group": "Final",
+          "home_team": {
+            "name": "W101",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "away_team": {
+            "name": "W102",
+            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "id": null
+          },
+          "home_score": null,
+          "away_score": null,
+          "winner": null,
+          "venue_id": null,
+          "highlights": null,
+          "link": null,
+          "date_raw": "Sun, Jul 19",
+          "date": "2026-07-19"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total_matches": 104,
+    "last_updated": "2026-06-21T12:35:57.470Z",
+    "source": "Bing Sports (SportRadar)",
+    "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
+  }
+}

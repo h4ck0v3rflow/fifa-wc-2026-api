@@ -1,0 +1,17 @@
+{
+  "name": "fifa-wc-2026-api",
+  "version": "1.0.0",
+  "description": "FIFA World Cup 2026 live scores, match schedules, and results API — scraped from Bing Sports",
+  "type": "commonjs",
+  "main": "src/scraper.js",
+  "scripts": {
+    "scrape": "node src/scraper.js",
+    "test": "node src/scraper.js --test"
+  },
+  "keywords": ["fifa", "world-cup", "2026", "sports", "api", "scraper"],
+  "author": "h4ck0v3rflow",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}
