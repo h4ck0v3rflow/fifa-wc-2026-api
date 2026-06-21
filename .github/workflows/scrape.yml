@@ -27,7 +27,7 @@ jobs:
         run: npm ci --omit=dev
 
       - name: Run scraper
-        run: node src/scraper.js
+        run: node src/scraper.js --yt
 
       - name: Deploy API to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

@@ -1,36 +1,87 @@
 const cheerio = require('cheerio');
+const path = require('path');
+const fs = require('fs');
+
+// Load team → flag code mapping
+const FLAG_MAP = loadFlagMapping();
+
+function loadFlagMapping() {
+  try {
+    const p = path.join(__dirname, '..', 'data', 'flags.json');
+    return JSON.parse(fs.readFileSync(p, 'utf-8'));
+  } catch {
+    return {};
+  }
+}
 
 /**
  * Parse the Bing Sports HTML page and extract all match data.
  * @param {string} html - Raw HTML from Bing Sports Details page
- * @param {Date} referenceDate - The date to use for resolving "Today"/"Yesterday"/"Tomorrow"
- * @returns {object} - { tournament, matches, last_updated }
+ * @returns {object} - { tournament, matches, meta }
  */
-function parsePage(html, referenceDate = new Date()) {
+function parsePage(html) {
   const $ = cheerio.load(html);
   const matches = [];
 
-  // --- Tournament metadata ---
-  const tournament = extractTournament($);
+  // ── Step 1: Collect all date pivots in page order ──
+  const datePivots = [];
+  $('.bsp-schedule-date-pivot').each((i, el) => {
+    const raw = $(el).text().trim();
+    datePivots.push({ raw, element: el });
+  });
 
-  // Iterate through all match cards and extract data
+  // ── Step 2: Resolve all dates via interpolation ──
+  const resolvedDates = resolveAllDates(datePivots);
+
+  // ── Step 3: Build card-group → resolved-date lookup ──
+  const dateByCardGroup = new Map();
+  datePivots.forEach((dp, idx) => {
+    const $group = $(dp.element).next('.bsp-l2-card-grp');
+    if ($group.length) {
+      dateByCardGroup.set($group.get(0), {
+        rawDate: dp.raw,
+        resolvedDate: resolvedDates[idx],
+      });
+    }
+  });
+
+  // ── Step 4: Parse each match card ──
   $('[match-card-id]').each((i, el) => {
     const $card = $(el);
     const match = parseMatch($, $card);
     if (!match) return;
 
-    // Find the date for this match from the nearest date pivot
-    const date = findClosestDate($, $card, referenceDate);
-    if (date) {
-      match.date_raw = date.rawDate;
-      match.date = date.resolvedDate;
+    // Find date from parent card group
+    const $group = $card.closest('.bsp-l2-card-grp');
+    if ($group.length) {
+      const dateInfo = dateByCardGroup.get($group.get(0));
+      if (dateInfo) {
+        match.date_raw = dateInfo.rawDate;
+        match.date = dateInfo.resolvedDate;
+      }
     }
+
+    // Apply flagcdn URLs
+    applyFlagUrls(match);
 
     matches.push(match);
   });
 
+  // ── Step 5: Build ISO datetime labels ──
+  for (const match of matches) {
+    buildDatetimeLabel(match);
+  }
+
   return {
-    tournament,
+    tournament: {
+      name: 'FIFA World Cup 2026',
+      season: '2026',
+      hosts: ['USA', 'Canada', 'Mexico'],
+      format: '48 teams, 12 groups, round of 32 knockout',
+      date_start: '2026-06-11',
+      date_end: '2026-07-19',
+      data_provider: 'SportRadar (via Bing Sports)',
+    },
     matches,
     meta: {
       total_matches: matches.length,
@@ -41,31 +92,193 @@ function parsePage(html, referenceDate = new Date()) {
   };
 }
 
+// ──────────────────────────────────────────────
+//  DATE RESOLUTION WITH INTERPOLATION
+// ──────────────────────────────────────────────
+
 /**
- * Parse a single match card element
+ * Resolve all date labels by interpolating between absolute dates.
+ * Strategy: parse absolute dates, then forward-fill and backward-fill
+ * relative labels (Yesterday/Today/Tomorrow) from known anchors.
  */
+function resolveAllDates(datePivots) {
+  const n = datePivots.length;
+  const dates = new Array(n).fill(null);
+
+  // First pass: parse absolute dates
+  for (let i = 0; i < n; i++) {
+    dates[i] = parseAbsoluteDate(datePivots[i].raw);
+  }
+
+  // Forward fill: from each absolute date, walk forward filling nulls
+  for (let i = 0; i < n; i++) {
+    if (dates[i] !== null) {
+      let base = parseDateString(dates[i]);
+      for (let j = i + 1; j < n && dates[j] === null; j++) {
+        base = addDays(base, 1);
+        dates[j] = formatDateStr(base);
+      }
+    }
+  }
+
+  // Backward fill: from each absolute date, walk backward filling nulls
+  for (let i = n - 1; i >= 0; i--) {
+    if (dates[i] !== null) {
+      let base = parseDateString(dates[i]);
+      for (let j = i - 1; j >= 0 && dates[j] === null; j--) {
+        base = addDays(base, -1);
+        dates[j] = formatDateStr(base);
+      }
+    }
+  }
+
+  // Safety net for any still-null values
+  for (let i = 0; i < n; i++) {
+    if (dates[i] === null) {
+      const prev = findPrevNonNull(dates, i);
+      const next = findNextNonNull(dates, i);
+      if (prev !== null && next !== null) {
+        dates[i] = formatDateStr(addDays(parseDateString(dates[prev]), i - prev));
+      } else if (prev !== null) {
+        dates[i] = formatDateStr(addDays(parseDateString(dates[prev]), i - prev));
+      } else if (next !== null) {
+        dates[i] = formatDateStr(addDays(parseDateString(dates[next]), i - next));
+      }
+    }
+  }
+
+  return dates;
+}
+
+function findPrevNonNull(arr, idx) {
+  for (let i = idx - 1; i >= 0; i--) if (arr[i] !== null) return i;
+  return null;
+}
+
+function findNextNonNull(arr, idx) {
+  for (let i = idx + 1; i < arr.length; i++) if (arr[i] !== null) return i;
+  return null;
+}
+
+function parseDateString(str) {
+  const [y, m, d] = str.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d));
+}
+
+function addDays(date, days) {
+  const d = new Date(date);
+  d.setUTCDate(d.getUTCDate() + days);
+  return d;
+}
+
+function formatDateStr(date) {
+  return date.toISOString().split('T')[0];
+}
+
+/**
+ * Parse absolute date strings like "Thu, Jun 11" → "2026-06-11"
+ */
+function parseAbsoluteDate(raw) {
+  if (!raw) return null;
+  const trimmed = raw.trim();
+  const months = { jan:'01', feb:'02', mar:'03', apr:'04', may:'05', jun:'06',
+                   jul:'07', aug:'08', sep:'09', oct:'10', nov:'11', dec:'12' };
+  const cleaned = trimmed.replace(/^[a-z]+,?\s*/i, '').trim();
+  const parts = cleaned.split(/\s+/);
+  if (parts.length < 2) return null;
+  const month = months[parts[0]?.toLowerCase().substring(0, 3)];
+  const day = parts[1]?.replace(/,/, '').padStart(2, '0');
+  return (month && day) ? `2026-${month}-${day}` : null;
+}
+
+// ──────────────────────────────────────────────
+//  DATETIME LABEL BUILDING
+// ──────────────────────────────────────────────
+
+/**
+ * Build ISO 8601 datetime label and keep status_text for display.
+ */
+function buildDatetimeLabel(match) {
+  const { status, date, time } = match;
+  if (!date) return;
+
+  if (status === 'finished') {
+    // Finished: label = just the date (we don't know exact end time)
+    match.label = date;
+  } else if (status === 'scheduled' && time) {
+    // Scheduled: combine date + time → "2026-06-21T16:00:00"
+    const formatted = formatTimeToISO(time);
+    if (formatted) {
+      match.label = `${date}T${formatted}`;
+    } else {
+      match.label = date;
+    }
+  } else if (status === 'live') {
+    match.label = date;
+  }
+
+  // Ensure label is never null
+  if (!match.label) match.label = date;
+}
+
+/**
+ * Convert "4:00 PM" → "16:00:00" or "12:00 AM" → "00:00:00"
+ */
+function formatTimeToISO(timeStr) {
+  if (!timeStr) return null;
+  const match = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+  if (!match) return null;
+
+  let h = parseInt(match[1], 10);
+  const m = match[2];
+  const ampm = match[3].toUpperCase();
+
+  if (ampm === 'PM' && h !== 12) h += 12;
+  if (ampm === 'AM' && h === 12) h = 0;
+
+  return `${String(h).padStart(2, '0')}:${m}:00`;
+}
+
+// ──────────────────────────────────────────────
+//  FLAG URL MAPPING
+// ──────────────────────────────────────────────
+
+function applyFlagUrls(match) {
+  for (const side of ['home_team', 'away_team']) {
+    const team = match[side];
+    if (!team || !team.name) continue;
+    const code = FLAG_MAP[team.name];
+    if (code) {
+      team.flag_url = `https://flagcdn.com/w80/${code}.webp`;
+    }
+  }
+}
+
+// ──────────────────────────────────────────────
+//  SINGLE MATCH PARSING
+// ──────────────────────────────────────────────
+
 function parseMatch($, $card) {
   const matchCardId = $card.attr('match-card-id') || '';
   const gameId = extractGameId(matchCardId);
   if (!gameId) return null;
 
-  // --- Group / Stage ---
   const group = $card.find('.bsp_mtc_tps span').first().text().trim() || null;
 
-  // --- Teams ---
+  // Teams
   const teams = [];
   $card.find('.bsp_team').each((j, teamEl) => {
     const $team = $(teamEl);
     const name = $team.find('.team-name-ellipsis').attr('title') ||
                  $team.find('.team-name-ellipsis').text().trim() || null;
     const flagUrl = $team.find('.cico img').attr('src') || null;
-    teams.push({ name, flag_url: normalizeFlagUrl(flagUrl) });
+    teams.push({ name, flag_url: normalizeBingUrl(flagUrl) });
   });
 
   const homeTeam = teams[0] || { name: null, flag_url: null };
   const awayTeam = teams[1] || { name: null, flag_url: null };
 
-  // --- Scores ---
+  // Scores
   const scores = [];
   $card.find('.bsp_team_scr').each((j, scoreEl) => {
     const s = $(scoreEl).text().trim();
@@ -74,38 +287,41 @@ function parseMatch($, $card) {
   const homeScore = scores[0] ?? null;
   const awayScore = scores[1] ?? null;
 
-  // --- Status ---
+  // Status (pre-datetime — label/datetime are built later)
   const status = determineMatchStatus($, $card, homeScore, awayScore);
 
-  // --- IDs from href or aria-label ---
+  // IDs from href
   const $link = $card.find('a').first();
   const href = $link.attr('href') || '';
-  const teamIds = extractTeamIds(href);
   const venueId = extractVenueId(href);
 
-  // --- Highlights ---
+  // Highlights from Bing
   const highlights = extractHighlights($, $card);
 
   return {
     id: gameId,
     sportradar_id: matchCardId,
-    status: status.type,       // "finished" | "live" | "scheduled"
-    label: status.label,       // "FT", "4:00 PM", etc.
+    status: status.type,
+    status_text: status.status_text,   // "FT" | "4:00 PM" | "Today 4:00 PM"
+    time: status.time,                 // "4:00 PM" or null
+    label: null,                       // filled later by buildDatetimeLabel()
+    date: null,                        // filled later from card group
+    date_raw: null,                    // filled later from card group
     stage: group ? determineStage(group) : null,
     group,
     home_team: {
       name: homeTeam.name,
       flag_url: homeTeam.flag_url,
-      id: teamIds.home || null,
+      id: extractTeamId(href, 'team'),
     },
     away_team: {
       name: awayTeam.name,
       flag_url: awayTeam.flag_url,
-      id: teamIds.away || null,
+      id: extractTeamId(href, 'team2'),
     },
     home_score: homeScore,
     away_score: awayScore,
-    winner: homeScore !== null && awayScore !== null
+    winner: (homeScore !== null && awayScore !== null)
       ? (homeScore > awayScore ? 'home' : awayScore > homeScore ? 'away' : 'draw')
       : null,
     venue_id: venueId,
@@ -114,28 +330,29 @@ function parseMatch($, $card) {
   };
 }
 
-/**
- * Determine match status from card content
- */
 function determineMatchStatus($, $card, homeScore, awayScore) {
-  // Check for "FT" in the status area
   const statusText = $card.find('.bsp_game_info').text().trim();
 
   if (statusText.includes('FT')) {
-    return { type: 'finished', label: 'FT' };
+    return { type: 'finished', status_text: 'FT', time: null };
   }
 
-  // Check for live
   if (homeScore !== null || awayScore !== null) {
-    const timeParts = $card.find('.bsp_game_time');
-    const timeText = timeParts.map((i, el) => $(el).text().trim()).get().join(' ');
-    if (timeText && !timeText.includes('FT')) {
-      return { type: 'live', label: timeText };
-    }
-    return { type: 'finished', label: 'FT' };
+    // Has scores but no "FT" → possible live match
+    const timeTexts = [];
+    $card.find('.bsp_game_time').each((i, el) => {
+      const t = $(el).text().trim();
+      if (t) timeTexts.push(t);
+    });
+    const combined = timeTexts.join(' ');
+    return {
+      type: 'live',
+      status_text: combined || 'Live',
+      time: extractTimeOnly(combined),
+    };
   }
 
-  // Upcoming: get the time from status section
+  // Upcoming / scheduled
   const timeTexts = [];
   $card.find('.bsp_game_time').each((i, el) => {
     const t = $(el).text().trim();
@@ -143,15 +360,23 @@ function determineMatchStatus($, $card, homeScore, awayScore) {
   });
 
   if (timeTexts.length > 0) {
-    return { type: 'scheduled', label: timeTexts.join(' ') };
+    const combined = timeTexts.join(' ');
+    return {
+      type: 'scheduled',
+      status_text: combined,
+      time: extractTimeOnly(combined),
+    };
   }
 
-  return { type: 'scheduled', label: null };
+  return { type: 'scheduled', status_text: null, time: null };
 }
 
-/**
- * Determine the stage of the tournament
- */
+function extractTimeOnly(label) {
+  if (!label) return null;
+  const match = label.match(/\d{1,2}:\d{2}\s*(?:AM|PM)/i);
+  return match ? match[0] : null;
+}
+
 function determineStage(groupText) {
   const lower = groupText.toLowerCase();
   if (lower.startsWith('group')) return 'group';
@@ -164,46 +389,28 @@ function determineStage(groupText) {
   return null;
 }
 
-/**
- * Extract the numeric game ID from the SportRadar match-card-id
- */
 function extractGameId(matchCardId) {
-  const match = matchCardId.match(/Game_(\d+)/);
-  return match ? match[1] : null;
+  const m = matchCardId.match(/Game_(\d+)/);
+  return m ? m[1] : null;
 }
 
-/**
- * Extract team IDs from the link href
- */
-function extractTeamIds(href) {
-  const match = href.match(/team=([^&]+)/);
-  const match2 = href.match(/team2=([^&]+)/);
-  return {
-    home: match ? match[1] : null,
-    away: match2 ? match2[1] : null,
-  };
+function extractTeamId(href, param) {
+  const re = new RegExp(`${param}=([^&]+)`);
+  const m = href.match(re);
+  return m ? m[1] : null;
 }
 
-/**
- * Extract venue ID from the link href
- * Format: venueid={"id":"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004"}:version-1
- */
 function extractVenueId(href) {
-  const match = href.match(/venueid=([^&]+)/);
-  if (!match) return null;
+  const m = href.match(/venueid=([^&]+)/);
+  if (!m) return null;
   try {
-    // Remove :version-1 suffix before parsing JSON
-    const raw = decodeURIComponent(match[1]).replace(/:version-\d+$/, '');
-    const parsed = JSON.parse(raw);
-    return parsed.id || raw;
+    const raw = decodeURIComponent(m[1]).replace(/:version-\d+$/, '');
+    return JSON.parse(raw).id || raw;
   } catch {
-    return match[1]; // raw fallback
+    return m[1];
   }
 }
 
-/**
- * Extract highlight video links from the match card
- */
 function extractHighlights($, $card) {
   const highlights = [];
   $card.find('.bsp_matchvideo').each((i, el) => {
@@ -212,122 +419,22 @@ function extractHighlights($, $card) {
     const $link = $vid.find('a');
     const href = $link.attr('rurl') || $link.attr('href') || null;
     const duration = $vid.find('.vt_text span').last().text().trim() || null;
-
-    if (href) {
-      highlights.push({
-        label,
-        url: href,
-        duration,
-      });
-    }
+    if (href) highlights.push({ label, url: href, duration });
   });
   return highlights;
 }
 
-/**
- * Normalize flag URL (prepend bing.com domain if relative)
- */
-function normalizeFlagUrl(url) {
+function normalizeBingUrl(url) {
   if (!url) return null;
   if (url.startsWith('http')) return url;
   return `https://www.bing.com${url}`;
 }
 
-/**
- * Find the closest previous date pivot for a match card
- * DOM structure: .bsp-schedule-date-pivot sibling → .bsp-l2-card-grp > .bsp_match_card > .b_mtcctnr
- */
-function findClosestDate($, $card, referenceDate) {
-  // Go up from the match card to the card group, then get the previous pivot
-  const $cardGroup = $card.closest('.bsp-l2-card-grp');
-  const $pivot = $cardGroup.length ? $cardGroup.prev('.bsp-schedule-date-pivot') : $();
+// ──────────────────────────────────────────────
+//  POST-PROCESSING
+// ──────────────────────────────────────────────
 
-  if ($pivot.length) {
-    const rawDate = $pivot.text().trim();
-    return { rawDate, resolvedDate: resolveDate(rawDate, referenceDate) };
-  }
-
-  return null;
-}
-
-/**
- * Resolve relative dates ("Today", "Yesterday", "Tomorrow") to ISO date strings
- */
-function resolveDate(rawDate, referenceDate) {
-  if (!rawDate) return null;
-  const trimmed = rawDate.trim();
-
-  // Normalize reference date to midnight
-  const ref = new Date(referenceDate);
-  ref.setHours(0, 0, 0, 0);
-
-  if (trimmed.toLowerCase() === 'today') {
-    return ref.toISOString().split('T')[0];
-  }
-  if (trimmed.toLowerCase() === 'yesterday') {
-    const d = new Date(ref);
-    d.setDate(d.getDate() - 1);
-    return d.toISOString().split('T')[0];
-  }
-  if (trimmed.toLowerCase() === 'tomorrow') {
-    const d = new Date(ref);
-    d.setDate(d.getDate() + 1);
-    return d.toISOString().split('T')[0];
-  }
-
-  // Parse absolute date: "Thu, Jun 11" or "Fri, Jul 19"
-  // We know the year is 2026
-  const parsed = parseAbsoluteDate(trimmed);
-  if (parsed) return parsed;
-
-  return null;
-}
-
-/**
- * Parse absolute date strings like "Thu, Jun 11" → "2026-06-11"
- */
-function parseAbsoluteDate(raw) {
-  const months = {
-    jan: '01', feb: '02', mar: '03', apr: '04',
-    may: '05', jun: '06', jul: '07', aug: '08',
-    sep: '09', oct: '10', nov: '11', dec: '12',
-  };
-
-  // Strip day-of-week prefix: "Thu, Jun 11" → "Jun 11"
-  const cleaned = raw.replace(/^[a-z]+,?\s*/i, '').trim();
-  const parts = cleaned.split(/\s+/);
-  if (parts.length < 2) return null;
-
-  const month = months[parts[0]?.toLowerCase().substring(0, 3)];
-  const day = parts[1]?.replace(/,/, '').padStart(2, '0');
-
-  if (month && day) {
-    return `2026-${month}-${day}`;
-  }
-  return null;
-}
-
-/**
- * Extract top-level tournament metadata
- */
-function extractTournament($) {
-  return {
-    name: 'FIFA World Cup 2026',
-    season: '2026',
-    hosts: ['USA', 'Canada', 'Mexico'],
-    format: '48 teams, 12 groups, round of 32 knockout',
-    date_start: '2026-06-11',
-    date_end: '2026-07-19',
-    data_provider: 'SportRadar (via Bing Sports)',
-  };
-}
-
-/**
- * Categorize matches into live, upcoming, and finished
- */
 function categorizeMatches(matches) {
-  const now = new Date();
-
   return {
     finished: matches.filter(m => m.status === 'finished'),
     live: matches.filter(m => m.status === 'live'),
@@ -336,4 +443,90 @@ function categorizeMatches(matches) {
   };
 }
 
-module.exports = { parsePage, categorizeMatches };
+// ──────────────────────────────────────────────
+//  YOUTUBE SEARCH & TITLE MATCHING
+// ──────────────────────────────────────────────
+
+/**
+ * Build YouTube search URL for finding match highlights.
+ */
+function buildYouTubeSearchUrl(match) {
+  const home = match.home_team?.name || '';
+  const away = match.away_team?.name || '';
+  const query = `${home} vs ${away} Full Highlights FIFA World Cup 2026 tapmad FIFA26`;
+  return `https://www.youtube.com/results?search_query=${encodeURIComponent(query)}`;
+}
+
+/**
+ * Extract first video result from YouTube search page, with title verification.
+ * @param {string} html - YouTube search page HTML
+ * @param {string} team1 - First team name to match in title
+ * @param {string} team2 - Second team name to match in title
+ * @returns {{ videoId: string, title: string } | null}
+ */
+function extractFirstYouTubeVideoWithTitle(html, team1 = '', team2 = '') {
+  const match = html.match(/ytInitialData\s*=\s*({.+?});\s*<\//);
+  if (!match) {
+    // Fallback: just grab first video ID from raw HTML
+    const vidMatch = html.match(/\/watch\?v=([a-zA-Z0-9_-]{11})/);
+    return vidMatch ? { videoId: vidMatch[1], title: null } : null;
+  }
+
+  try {
+    const data = JSON.parse(match[1]);
+    const contents = data?.contents?.twoColumnSearchResultsRenderer?.primaryContents
+      ?.sectionListRenderer?.contents;
+
+    if (!contents) return null;
+
+    for (const section of contents) {
+      const items = section?.itemSectionRenderer?.contents || [];
+      for (const item of items) {
+        const v = item?.videoRenderer;
+        if (!v?.videoId) continue;
+
+        // Extract title text from runs
+        let title = '';
+        const runs = v?.title?.runs;
+        if (runs) {
+          title = runs.map(r => r.text || '').join('');
+        } else if (typeof v?.title?.simpleText === 'string') {
+          title = v.title.simpleText;
+        }
+
+        const videoId = v.videoId;
+
+        // Title match verification — fuzzy check
+        if (team1 && team2) {
+          const t1 = team1.toLowerCase();
+          const t2 = team2.toLowerCase();
+          const titleLower = title.toLowerCase();
+
+          // Check if BOTH team names (or their first words) appear in the title
+          const team1Parts = t1.split(/\s+/);
+          const team2Parts = t2.split(/\s+/);
+          const hasTeam1 = team1Parts.some(p => p.length > 2 && titleLower.includes(p));
+          const hasTeam2 = team2Parts.some(p => p.length > 2 && titleLower.includes(p));
+
+          if (!hasTeam1 || !hasTeam2) {
+            continue; // skip this result, title doesn't match
+          }
+        }
+
+        return { videoId, title };
+      }
+    }
+  } catch {
+    const vidMatch = html.match(/\/watch\?v=([a-zA-Z0-9_-]{11})/);
+    return vidMatch ? { videoId: vidMatch[1], title: null } : null;
+  }
+
+  return null;
+}
+
+module.exports = {
+  parsePage,
+  categorizeMatches,
+  buildYouTubeSearchUrl,
+  extractFirstYouTubeVideoWithTitle,
+};
