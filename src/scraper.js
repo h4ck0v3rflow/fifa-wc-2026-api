@@ -66,13 +66,15 @@ function sleep(ms) {
 
 /**
  * Search YouTube for matches that still have FIFA recap highlights.
- * Skips matches already converted to YouTube URLs.
+ * Skips matches already converted to YouTube URLs (tracked via previous run).
  * Runs every cron cycle so any match still on FIFA gets another try.
  */
-async function enrichWithYouTubeHighlights(matches, { concurrency = 2, delayMs = 1200 } = {}) {
-  // Only target matches with FIFA.com highlights (not yet converted to YouTube)
+async function enrichWithYouTubeHighlights(matches, alreadyConverted = new Set(), { concurrency = 2, delayMs = 1200 } = {}) {
+  // Only target matches with FIFA.com highlights NOT already converted to YouTube
   const fifaRecaps = matches.filter(m => {
     if (m.status !== 'finished') return false;
+    // Skip if already converted in a previous run
+    if (alreadyConverted.has(m.id)) return false;
     if (!m.highlights || m.highlights.length === 0) return false;
     const url = m.highlights[0]?.url || '';
     if (url.includes('youtube.com') || url.includes('youtu.be')) return false;
@@ -138,6 +140,31 @@ async function enrichWithYouTubeHighlights(matches, { concurrency = 2, delayMs =
   console.log(`   YouTube: ${converted} converted, ${kept} kept FIFA, ${errored} errors`);
 }
 
+/**
+ * Load previously-saved match data to find which matches already have YouTube highlights.
+ * This prevents re-converting on every cron run.
+ */
+function loadAlreadyConvertedSet() {
+  const fp = path.join(API_DIR, 'matches.json');
+  if (!fs.existsSync(fp)) return new Set();
+  try {
+    const existing = JSON.parse(fs.readFileSync(fp, 'utf-8'));
+    const set = new Set();
+    for (const m of existing.matches || []) {
+      const url = m.highlights?.[0]?.url || '';
+      if (url.includes('youtube.com') || url.includes('youtu.be')) {
+        set.add(m.id);
+      }
+    }
+    if (set.size > 0) {
+      console.log(`   ${set.size} matches already have YouTube highlights (skipping)`);
+    }
+    return set;
+  } catch {
+    return new Set();
+  }
+}
+
 // ──────────────────────────────────────────────
 //  MAIN
 // ──────────────────────────────────────────────
@@ -161,10 +188,11 @@ async function main() {
   const data = parsePage(html);
   console.log(`   ${data.matches.length} matches found`);
 
-  // YouTube enrichment
+  // YouTube enrichment — only convert matches still on FIFA recaps
   if (withYouTube) {
-    console.log(`\n🎬 Searching YouTube for missing highlights...`);
-    await enrichWithYouTubeHighlights(data.matches, { concurrency: 2, delayMs: 1200, minAgeMinutes: 20 });
+    const alreadyConverted = loadAlreadyConvertedSet();
+    console.log(`\n🎬 Searching YouTube for remaining FIFA recaps...`);
+    await enrichWithYouTubeHighlights(data.matches, alreadyConverted, { concurrency: 2, delayMs: 1200 });
   }
 
   // Categorize

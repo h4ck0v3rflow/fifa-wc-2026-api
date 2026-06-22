@@ -278,9 +278,9 @@
       "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
       "highlights": [
         {
-          "label": "Match Highlights",
-          "url": "https://www.youtube.com/watch?v=lwCKjEM0EGg",
-          "duration": null
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/6qvmyR3k0BcpuPrSmer7Mf?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_6)",
+          "duration": "02:15"
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Australia vs Turkiye&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456942&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -1240,10 +1240,10 @@
     {
       "id": "66456998",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456998",
-      "status": "scheduled",
-      "status_text": "Today 4:00 PM",
-      "time": "4:00 PM",
-      "label": "2026-06-21T16:00:00",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-21",
       "date": "2026-06-21",
       "date_raw": "Today",
       "stage": "group",
@@ -1258,9 +1258,9 @@
         "flag_url": "https://flagcdn.com/w80/sa.webp",
         "id": null
       },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
+      "home_score": 3,
+      "away_score": 0,
+      "winner": "home",
       "venue_id": null,
       "highlights": null,
       "link": null
@@ -3144,7 +3144,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-21T14:17:28.363Z",
+    "last_updated": "2026-06-21T16:27:34.609Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }

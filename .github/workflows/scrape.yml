@@ -2,23 +2,23 @@ name: Scrape FIFA World Cup 2026
 
 on:
   schedule:
-    # Every 10 minutes
     - cron: '*/10 * * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
   push:
     branches: [master]
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
 
       - name: Install dependencies
@@ -28,11 +28,12 @@ jobs:
         run: node src/scraper.js --yt
 
       - name: Deploy API to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./api
-          keep_files: false
+          publish_branch: gh-pages
+          force_orphan: true
           user_name: 'fifa-wc-bot'
           user_email: 'bot@fifa-wc-2026-api'
           commit_message: 'Update match data [skip ci]'
