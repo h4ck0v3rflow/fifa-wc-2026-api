@@ -2,7 +2,7 @@
 
 **Free, live-updating JSON API for every match of the 2026 FIFA World Cup.**
 
-Data is scraped from [Bing Sports](https://www.bing.com/sportsdetails) (powered by SportRadar) every 10 minutes via GitHub Actions and served as static JSON via GitHub Pages.
+Data is scraped from [Bing Sports](https://www.bing.com/sportsdetails) (powered by SportRadar) every **5 minutes** via a cron runner and served as static JSON via GitHub Pages. All finished matches have **YouTube highlight videos** (auto-discovered via search).
 
 ## 🚀 Quick Start
 
@@ -14,7 +14,7 @@ fetch('https://h4ck0v3rflow.github.io/fifa-wc-2026-api/matches.json')
 
 ## 📡 Endpoints
 
-All endpoints are served from:
+All endpoints are served at:
 
 ```
 https://h4ck0v3rflow.github.io/fifa-wc-2026-api/
@@ -23,9 +23,9 @@ https://h4ck0v3rflow.github.io/fifa-wc-2026-api/
 | Endpoint | Description |
 |----------|-------------|
 | [`/matches.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/matches.json) | All 104 matches across all stages |
-| [`/finished.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/finished.json) | Completed matches with final scores |
+| [`/finished.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/finished.json) | Completed matches with final scores + YouTube highlights |
 | [`/live.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/live.json) | Currently live matches (if any) |
-| [`/upcoming.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/upcoming.json) | Future scheduled fixtures |
+| [`/upcoming.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/upcoming.json) | Future scheduled fixtures with kickoff times |
 | [`/groups.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/groups.json) | Matches grouped by group/stage |
 | [`/tournament.json`](https://h4ck0v3rflow.github.io/fifa-wc-2026-api/tournament.json) | Tournament metadata |
 
@@ -35,18 +35,20 @@ https://h4ck0v3rflow.github.io/fifa-wc-2026-api/
 {
   "id": "66456904",
   "status": "finished",
-  "label": "FT",
+  "status_text": "FT",
+  "label": "2026-06-11",
+  "date": "2026-06-11",
   "stage": "group",
   "group": "Group A",
-  "date": "2026-06-11",
+  "time": null,
   "home_team": {
     "name": "Mexico",
-    "flag_url": "https://www.bing.com/...",
+    "flag_url": "https://flagcdn.com/w80/mx.webp",
     "id": "SportRadar_..._Team_4781"
   },
   "away_team": {
     "name": "South Africa",
-    "flag_url": "https://www.bing.com/...",
+    "flag_url": "https://flagcdn.com/w80/za.webp",
     "id": "SportRadar_..._Team_4736"
   },
   "home_score": 2,
@@ -55,30 +57,40 @@ https://h4ck0v3rflow.github.io/fifa-wc-2026-api/
   "venue_id": "SportRadar_..._Venue_1004",
   "highlights": [
     {
-      "label": "Match recap",
-      "url": "https://www.fifa.com/...",
-      "duration": "02:13"
+      "label": "Match highlights",
+      "url": "https://www.youtube.com/watch?v=Gg9bkcHBurg",
+      "duration": null
     }
   ]
 }
 ```
 
-### Status Types
+### Key fields
 
-| Status | Meaning |
-|--------|---------|
-| `scheduled` | Match hasn't started yet. `label` shows date/time |
-| `live` | Match is in progress |
-| `finished` | Match has ended. `label` is "FT" |
+| Field | Description |
+|-------|-------------|
+| `status` | `finished` \| `live` \| `scheduled` |
+| `status_text` | Human-readable status: `"FT"`, `"4:00 PM"`, etc. |
+| `label` | ISO 8601 datetime: `"2026-06-11"` (finished) or `"2026-06-21T16:00:00"` (scheduled) |
+| `time` | Extracted kickoff time: `"4:00 PM"` (null for finished) |
+| `winner` | `"home"` \| `"away"` \| `"draw"` \| `null` (null for scheduled) |
+| `highlights` | YouTube highlight URLs (auto-found via search, title-verified) |
+| `flag_url` | Served from [flagcdn.com](https://flagcdn.com) |
 
-### Winner Values
+### Scheduled match example
 
-| Winner | Meaning |
-|--------|---------|
-| `home` | Home team won |
-| `away` | Away team won |
-| `draw` | Match ended in a draw |
-| `null` | Match hasn't been played yet |
+```json
+{
+  "status": "scheduled",
+  "status_text": "Today 4:00 PM",
+  "time": "4:00 PM",
+  "label": "2026-06-21T16:00:00",
+  "date": "2026-06-21",
+  "home_score": null,
+  "away_score": null,
+  "winner": null
+}
+```
 
 ## 🛠 Running Locally
 
@@ -86,26 +98,43 @@ https://h4ck0v3rflow.github.io/fifa-wc-2026-api/
 git clone https://github.com/h4ck0v3rflow/fifa-wc-2026-api.git
 cd fifa-wc-2026-api
 npm install
-npm run scrape
+node src/scraper.js           # scrape only
+node src/scraper.js --yt      # scrape + YouTube highlight search
 ```
 
-Output is written to the `api/` directory as JSON files.
+Output is written to `api/` directory as JSON files.
 
-### Testing with a saved page
+### With the runner (auto-commit + deploy)
 
 ```bash
-# Fetch the page once:
-curl -o page.html "https://www.bing.com/sportsdetails?..."
-# Run the scraper in test mode:
-npm run test
+node runner.js
 ```
+
+This runs the full cycle: scrape → YouTube conversion → commit to master → deploy to gh-pages.
 
 ## 🔄 How It Works
 
-1. **GitHub Actions** runs on a cron schedule (`*/10 12-23 * * *` during match hours)
-2. **Scraper** fetches the Bing Sports page and parses match data with cheerio
-3. **JSON files** are generated and deployed to the `gh-pages` branch
-4. **GitHub Pages** serves them as a free, cached, CDN-backed API
+1. **Cron runner** (via the hosting server) runs every 5 minutes
+2. **Scraper** fetches Bing Sports and parses match data with cheerio
+3. **YouTube enrichment** converts FIFA recap links → YouTube highlights (title-verified)
+4. **JSON files** are committed to `master` and deployed to `gh-pages`
+5. **GitHub Pages** serves them as a free, CDN-backed API
+
+### YouTube highlight discovery
+
+For every finished match, the scraper:
+1. Searches YouTube: `"{Team1} vs {Team2} Full Highlights FIFA World Cup 2026"`
+2. Verifies the first result's title contains both team names
+3. Replaces FIFA.com recap links → direct YouTube URLs
+4. Previously converted matches are cached to avoid re-fetching
+
+### Date resolution
+
+Date labels like "Yesterday", "Today", "Tomorrow" are resolved via **interpolation between absolute dates** on the page (not the system clock). This means the dates are always correct regardless of timezone.
+
+### Flags
+
+Team flags use [flagcdn.com](https://flagcdn.com) with ISO 3166-1 alpha-2 codes instead of Bing CDN.
 
 ## 📋 Match Coverage
 
@@ -117,9 +146,18 @@ npm run test
 ## 📝 Notes
 
 - Knockout round matches show placeholder names (e.g., "2A", "W101") until teams are determined
-- Time zone for kickoff times follows Bing Sports display (local venue time)
+- Kickoff times are in local venue time (no timezone offset included)
 - Team IDs and venue IDs are SportRadar identifiers
-- Flag images are served from Bing CDN
+- 1 match (Australia vs Turkiye) still has FIFA recap — no matching YouTube video found
+
+## 🐧 Linux Compatibility
+
+The runner works on Linux. All git operations use `git -C <dir>` syntax and temp repos — no branch switching or working tree manipulation. Node.js `path.join()` handles path separators cross-platform.
+
+```bash
+# Example crontab — every 5 minutes
+*/5 * * * * cd /path/to/fifa-scraper && node runner.js
+```
 
 ## ⚖️ License
 
