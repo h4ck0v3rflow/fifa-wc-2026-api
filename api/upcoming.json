@@ -14,98 +14,14 @@
   },
   "matches": [
     {
-      "id": "66456986",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456986",
-      "status": "scheduled",
-      "status_text": "Today 7:00 PM",
-      "time": "7:00 PM",
-      "label": "2026-06-21T19:00:00",
-      "date": "2026-06-21",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group G",
-      "home_team": {
-        "name": "Belgium",
-        "flag_url": "https://flagcdn.com/w80/be.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "IR Iran",
-        "flag_url": "https://flagcdn.com/w80/ir.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
-      "id": "66457000",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457000",
-      "status": "scheduled",
-      "status_text": "Today 10:00 PM",
-      "time": "10:00 PM",
-      "label": "2026-06-21T22:00:00",
-      "date": "2026-06-21",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group H",
-      "home_team": {
-        "name": "Uruguay",
-        "flag_url": "https://flagcdn.com/w80/uy.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Cape Verde",
-        "flag_url": "https://flagcdn.com/w80/cv.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
-      "id": "66456988",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456988",
-      "status": "scheduled",
-      "status_text": "Tomorrow 1:00 AM",
-      "time": "1:00 AM",
-      "label": "2026-06-22T01:00:00",
-      "date": "2026-06-22",
-      "date_raw": "Tomorrow",
-      "stage": "group",
-      "group": "Group G",
-      "home_team": {
-        "name": "New Zealand",
-        "flag_url": "https://flagcdn.com/w80/nz.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Egypt",
-        "flag_url": "https://flagcdn.com/w80/eg.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "66457022",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457022",
       "status": "scheduled",
-      "status_text": "Tomorrow 5:00 PM",
+      "status_text": "Today 5:00 PM",
       "time": "5:00 PM",
       "label": "2026-06-22T17:00:00",
       "date": "2026-06-22",
-      "date_raw": "Tomorrow",
+      "date_raw": "Today",
       "stage": "group",
       "group": "Group J",
       "home_team": {
@@ -129,11 +45,11 @@
       "id": "66457010",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457010",
       "status": "scheduled",
-      "status_text": "Tomorrow 9:00 PM",
+      "status_text": "Today 9:00 PM",
       "time": "9:00 PM",
       "label": "2026-06-22T21:00:00",
       "date": "2026-06-22",
-      "date_raw": "Tomorrow",
+      "date_raw": "Today",
       "stage": "group",
       "group": "Group I",
       "home_team": {
@@ -157,11 +73,11 @@
       "id": "66457012",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457012",
       "status": "scheduled",
-      "status_text": "Tue, Jun 23 12:00 AM",
+      "status_text": "Tomorrow 12:00 AM",
       "time": "12:00 AM",
       "label": "2026-06-23T00:00:00",
       "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
+      "date_raw": "Tomorrow",
       "stage": "group",
       "group": "Group I",
       "home_team": {
@@ -185,11 +101,11 @@
       "id": "66457024",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457024",
       "status": "scheduled",
-      "status_text": "Tue, Jun 23 3:00 AM",
+      "status_text": "Tomorrow 3:00 AM",
       "time": "3:00 AM",
       "label": "2026-06-23T03:00:00",
       "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
+      "date_raw": "Tomorrow",
       "stage": "group",
       "group": "Group J",
       "home_team": {
@@ -213,11 +129,11 @@
       "id": "66457034",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457034",
       "status": "scheduled",
-      "status_text": "Tue, Jun 23 5:00 PM",
+      "status_text": "Tomorrow 5:00 PM",
       "time": "5:00 PM",
       "label": "2026-06-23T17:00:00",
       "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
+      "date_raw": "Tomorrow",
       "stage": "group",
       "group": "Group K",
       "home_team": {
@@ -241,11 +157,11 @@
       "id": "66457046",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457046",
       "status": "scheduled",
-      "status_text": "Tue, Jun 23 8:00 PM",
+      "status_text": "Tomorrow 8:00 PM",
       "time": "8:00 PM",
       "label": "2026-06-23T20:00:00",
       "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
+      "date_raw": "Tomorrow",
       "stage": "group",
       "group": "Group L",
       "home_team": {
@@ -269,11 +185,11 @@
       "id": "66457048",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457048",
       "status": "scheduled",
-      "status_text": "Tue, Jun 23 11:00 PM",
+      "status_text": "Tomorrow 11:00 PM",
       "time": "11:00 PM",
       "label": "2026-06-23T23:00:00",
       "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
+      "date_raw": "Tomorrow",
       "stage": "group",
       "group": "Group L",
       "home_team": {
@@ -1892,7 +1808,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-21T16:27:34.609Z",
+    "last_updated": "2026-06-22T14:58:22.510Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }

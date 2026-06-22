@@ -12,39 +12,10 @@
     "date_end": "2026-07-19",
     "data_provider": "SportRadar (via Bing Sports)"
   },
-  "matches": [
-    {
-      "id": "66456998",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456998",
-      "status": "live",
-      "status_text": "Live",
-      "time": null,
-      "label": "2026-06-21",
-      "date": "2026-06-21",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group H",
-      "home_team": {
-        "name": "Spain",
-        "flag_url": "https://flagcdn.com/w80/es.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Saudi Arabia",
-        "flag_url": "https://flagcdn.com/w80/sa.webp",
-        "id": null
-      },
-      "home_score": 3,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    }
-  ],
+  "matches": [],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-21T16:27:34.609Z",
+    "last_updated": "2026-06-22T14:58:22.510Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
