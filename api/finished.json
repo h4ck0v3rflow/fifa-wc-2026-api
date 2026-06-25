@@ -1863,19 +1863,25 @@
       "home_team": {
         "name": "Curacao",
         "flag_url": "https://flagcdn.com/w80/cw.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_55827"
       },
       "away_team": {
         "name": "Ivory Coast",
         "flag_url": "https://flagcdn.com/w80/ci.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4768"
       },
       "home_score": 0,
       "away_score": 2,
       "winner": "away",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=q5WkTVYOY1o",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Curacao vs Ivory Coast&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457080&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_55827&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457078",
@@ -1891,24 +1897,30 @@
       "home_team": {
         "name": "Ecuador",
         "flag_url": "https://flagcdn.com/w80/ec.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4757"
       },
       "away_team": {
         "name": "Germany",
         "flag_url": "https://flagcdn.com/w80/de.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4711"
       },
       "home_score": 2,
       "away_score": 1,
       "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=cqwnkwfh-do",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Ecuador vs Germany&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457078&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-25T22:06:38.329Z",
+    "last_updated": "2026-06-25T22:36:49.016Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
