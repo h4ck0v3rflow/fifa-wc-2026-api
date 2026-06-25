@@ -14,62 +14,6 @@
   },
   "matches": [
     {
-      "id": "66457080",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457080",
-      "status": "scheduled",
-      "status_text": "Today 8:00 PM",
-      "time": "8:00 PM",
-      "label": "2026-06-25T20:00:00",
-      "date": "2026-06-25",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group E",
-      "home_team": {
-        "name": "Curacao",
-        "flag_url": "https://flagcdn.com/w80/cw.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Ivory Coast",
-        "flag_url": "https://flagcdn.com/w80/ci.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
-      "id": "66457078",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457078",
-      "status": "scheduled",
-      "status_text": "Today 8:00 PM",
-      "time": "8:00 PM",
-      "label": "2026-06-25T20:00:00",
-      "date": "2026-06-25",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group E",
-      "home_team": {
-        "name": "Ecuador",
-        "flag_url": "https://flagcdn.com/w80/ec.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Germany",
-        "flag_url": "https://flagcdn.com/w80/de.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "66456978",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456978",
       "status": "scheduled",
@@ -1416,7 +1360,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-25T19:44:30.932Z",
+    "last_updated": "2026-06-25T20:14:41.635Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
