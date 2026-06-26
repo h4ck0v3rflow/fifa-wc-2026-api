@@ -1831,7 +1831,7 @@
             "id": null
           },
           "home_score": 1,
-          "away_score": 2,
+          "away_score": 3,
           "winner": "away",
           "venue_id": null,
           "highlights": null,
@@ -3396,7 +3396,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-26T19:26:20.023Z",
+    "last_updated": "2026-06-26T19:37:29.611Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
