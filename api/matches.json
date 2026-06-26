@@ -2067,19 +2067,25 @@
       "home_team": {
         "name": "Norway",
         "flag_url": "https://flagcdn.com/w80/no.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4475"
       },
       "away_team": {
         "name": "France",
         "flag_url": "https://flagcdn.com/w80/fr.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4481"
       },
       "home_score": 1,
       "away_score": 4,
       "winner": "away",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/THUuOCgcktTdRUWJbCDNL?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_61)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Norway vs France&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457014&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457016",
@@ -2095,19 +2101,25 @@
       "home_team": {
         "name": "Senegal",
         "flag_url": "https://flagcdn.com/w80/sn.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4739"
       },
       "away_team": {
         "name": "Iraq",
         "flag_url": "https://flagcdn.com/w80/iq.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4767"
       },
       "home_score": 5,
       "away_score": 0,
       "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/maf9mo9s3FMRyykghM66d?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_62)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Senegal vs Iraq&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457016&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4767&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457002",
@@ -3288,7 +3300,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-26T21:06:47.726Z",
+    "last_updated": "2026-06-26T21:37:57.415Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
