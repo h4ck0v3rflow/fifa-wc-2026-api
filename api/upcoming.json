@@ -55,19 +55,25 @@
       "home_team": {
         "name": "Paraguay",
         "flag_url": "https://flagcdn.com/w80/py.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
       },
       "away_team": {
         "name": "Australia",
         "flag_url": "https://flagcdn.com/w80/au.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4741"
       },
       "home_score": null,
       "away_score": null,
       "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
+      "highlights": [
+        {
+          "label": "How should the Socceroos line up against Paraguay? | FIFA World Cup 2026™",
+          "url": "https://www.youtube.com/watch?v=UOSbb3lt_kg",
+          "duration": "04:44"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Paraguay vs Australia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456950&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457014",
@@ -1304,7 +1310,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-26T00:38:44.012Z",
+    "last_updated": "2026-06-26T00:48:54.729Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
