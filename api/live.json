@@ -12,67 +12,10 @@
     "date_end": "2026-07-19",
     "data_provider": "SportRadar (via Bing Sports)"
   },
-  "matches": [
-    {
-      "id": "66456978",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456978",
-      "status": "live",
-      "status_text": "Live",
-      "time": null,
-      "label": "2026-06-25",
-      "date": "2026-06-25",
-      "date_raw": "Yesterday",
-      "stage": "group",
-      "group": "Group F",
-      "home_team": {
-        "name": "Japan",
-        "flag_url": "https://flagcdn.com/w80/jp.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Sweden",
-        "flag_url": "https://flagcdn.com/w80/se.webp",
-        "id": null
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
-      "id": "66456976",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456976",
-      "status": "live",
-      "status_text": "Live",
-      "time": null,
-      "label": "2026-06-25",
-      "date": "2026-06-25",
-      "date_raw": "Yesterday",
-      "stage": "group",
-      "group": "Group F",
-      "home_team": {
-        "name": "Tunisia",
-        "flag_url": "https://flagcdn.com/w80/tn.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Netherlands",
-        "flag_url": "https://flagcdn.com/w80/nl.webp",
-        "id": null
-      },
-      "home_score": 1,
-      "away_score": 3,
-      "winner": "away",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    }
-  ],
+  "matches": [],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-26T00:48:54.729Z",
+    "last_updated": "2026-06-26T00:59:05.626Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
