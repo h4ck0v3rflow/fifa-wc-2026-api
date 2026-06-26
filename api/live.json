@@ -12,10 +12,79 @@
     "date_end": "2026-07-19",
     "data_provider": "SportRadar (via Bing Sports)"
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "66456948",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456948",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-26",
+      "date": "2026-06-26",
+      "date_raw": "Today",
+      "stage": "group",
+      "group": "Group D",
+      "home_team": {
+        "name": "Turkiye",
+        "flag_url": "https://flagcdn.com/w80/tr.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4700"
+      },
+      "away_team": {
+        "name": "USA",
+        "flag_url": "https://flagcdn.com/w80/us.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4724"
+      },
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "draw",
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
+      "highlights": [
+        {
+          "label": "USA vs Turkey - FULL Match Highlights & Goals | FIFA International Friendly - June 7, 2025",
+          "url": "https://www.youtube.com/watch?v=nG_BerbAl0o",
+          "duration": "15:55"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Turkiye vs USA&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456948&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&IsAutoRefreshEnabled=true&"
+    },
+    {
+      "id": "66456950",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456950",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-26",
+      "date": "2026-06-26",
+      "date_raw": "Today",
+      "stage": "group",
+      "group": "Group D",
+      "home_team": {
+        "name": "Paraguay",
+        "flag_url": "https://flagcdn.com/w80/py.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
+      },
+      "away_team": {
+        "name": "Australia",
+        "flag_url": "https://flagcdn.com/w80/au.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4741"
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
+      "highlights": [
+        {
+          "label": "How should the Socceroos line up against Paraguay? | FIFA World Cup 2026™",
+          "url": "https://www.youtube.com/watch?v=UOSbb3lt_kg",
+          "duration": "04:44"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Paraguay vs Australia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456950&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&IsAutoRefreshEnabled=true&"
+    }
+  ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-26T01:59:34.017Z",
+    "last_updated": "2026-06-26T02:29:45.622Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
