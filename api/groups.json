@@ -288,9 +288,9 @@
           "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
           "highlights": [
             {
-              "label": "Match highlights",
-              "url": "https://www.youtube.com/watch?v=PqhE5STvgfQ",
-              "duration": null
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/NdoxOQqn5cnkmfioABvsL?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_8)",
+              "duration": "02:15"
             }
           ],
           "link": "https://www.bing.com/sportsdetails?q=Qatar vs Switzerland&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456918&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4792&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -464,9 +464,9 @@
           "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
           "highlights": [
             {
-              "label": "Match highlights",
-              "url": "https://www.youtube.com/watch?v=2StpguMC-P4",
-              "duration": null
+              "label": "Match recap",
+              "url": "https://www.fifa.com/en/watch/6jzgitUqP6YyXpwwuY6VRc?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_4)",
+              "duration": "02:15"
             }
           ],
           "link": "https://www.bing.com/sportsdetails?q=USA vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456940&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -498,9 +498,9 @@
           "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
           "highlights": [
             {
-              "label": "Match highlights",
-              "url": "https://www.youtube.com/watch?v=IvTQu21wGFs",
-              "duration": null
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/6qvmyR3k0BcpuPrSmer7Mf?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_6)",
+              "duration": "02:15"
             }
           ],
           "link": "https://www.bing.com/sportsdetails?q=Australia vs Turkiye&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456942&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -3396,7 +3396,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-26T17:41:44.213Z",
+    "last_updated": "2026-06-26T18:12:50.836Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
