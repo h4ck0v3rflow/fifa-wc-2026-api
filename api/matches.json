@@ -2192,8 +2192,8 @@
     {
       "id": "66456992",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456992",
-      "status": "live",
-      "status_text": "Live",
+      "status": "finished",
+      "status_text": "FT",
       "time": null,
       "label": "2026-06-27",
       "date": "2026-06-27",
@@ -2649,8 +2649,8 @@
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
-        "name": "1G",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Belgium",
+        "flag_url": "https://flagcdn.com/w80/be.webp",
         "id": null
       },
       "away_team": {
@@ -2794,8 +2794,8 @@
         "id": null
       },
       "away_team": {
-        "name": "2G",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Egypt",
+        "flag_url": "https://flagcdn.com/w80/eg.webp",
         "id": null
       },
       "home_score": null,
@@ -3312,7 +3312,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T05:00:23.629Z",
+    "last_updated": "2026-06-27T05:11:37.142Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }

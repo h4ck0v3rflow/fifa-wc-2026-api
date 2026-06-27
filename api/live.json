@@ -12,39 +12,10 @@
     "date_end": "2026-07-19",
     "data_provider": "SportRadar (via Bing Sports)"
   },
-  "matches": [
-    {
-      "id": "66456992",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456992",
-      "status": "live",
-      "status_text": "Live",
-      "time": null,
-      "label": "2026-06-27",
-      "date": "2026-06-27",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group G",
-      "home_team": {
-        "name": "Egypt",
-        "flag_url": "https://flagcdn.com/w80/eg.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "IR Iran",
-        "flag_url": "https://flagcdn.com/w80/ir.webp",
-        "id": null
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    }
-  ],
+  "matches": [],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T05:00:23.629Z",
+    "last_updated": "2026-06-27T05:11:37.142Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
