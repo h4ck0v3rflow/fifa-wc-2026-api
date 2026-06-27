@@ -333,8 +333,8 @@
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
-        "name": "1L",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "England",
+        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
         "id": null
       },
       "away_team": {
@@ -450,8 +450,8 @@
         "id": null
       },
       "away_team": {
-        "name": "2L",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Croatia",
+        "flag_url": "https://flagcdn.com/w80/hr.webp",
         "id": null
       },
       "home_score": null,
@@ -1024,7 +1024,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T22:56:07.540Z",
+    "last_updated": "2026-06-27T23:06:21.608Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
