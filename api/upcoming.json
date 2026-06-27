@@ -14,62 +14,6 @@
   },
   "matches": [
     {
-      "id": "66457050",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050",
-      "status": "scheduled",
-      "status_text": "Today 9:00 PM",
-      "time": "9:00 PM",
-      "label": "2026-06-27T21:00:00",
-      "date": "2026-06-27",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group L",
-      "home_team": {
-        "name": "Panama",
-        "flag_url": "https://flagcdn.com/w80/pa.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "England",
-        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
-      "id": "66457052",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457052",
-      "status": "scheduled",
-      "status_text": "Today 9:00 PM",
-      "time": "9:00 PM",
-      "label": "2026-06-27T21:00:00",
-      "date": "2026-06-27",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group L",
-      "home_team": {
-        "name": "Croatia",
-        "flag_url": "https://flagcdn.com/w80/hr.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Ghana",
-        "flag_url": "https://flagcdn.com/w80/gh.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "66457040",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457040",
       "status": "scheduled",
@@ -1080,7 +1024,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T20:33:28.837Z",
+    "last_updated": "2026-06-27T21:03:42.312Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
