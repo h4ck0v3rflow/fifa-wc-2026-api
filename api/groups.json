@@ -2244,10 +2244,10 @@
         {
           "id": "66457040",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457040",
-          "status": "scheduled",
-          "status_text": "Today 11:30 PM",
-          "time": "11:30 PM",
-          "label": "2026-06-27T23:30:00",
+          "status": "live",
+          "status_text": "Live",
+          "time": null,
+          "label": "2026-06-27",
           "date": "2026-06-27",
           "date_raw": "Today",
           "stage": "group",
@@ -2262,9 +2262,9 @@
             "flag_url": "https://flagcdn.com/w80/uz.webp",
             "id": null
           },
-          "home_score": null,
-          "away_score": null,
-          "winner": null,
+          "home_score": 0,
+          "away_score": 0,
+          "winner": "draw",
           "venue_id": null,
           "highlights": null,
           "link": null
@@ -2272,10 +2272,10 @@
         {
           "id": "66457038",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457038",
-          "status": "scheduled",
-          "status_text": "Today 11:30 PM",
-          "time": "11:30 PM",
-          "label": "2026-06-27T23:30:00",
+          "status": "live",
+          "status_text": "Live",
+          "time": null,
+          "label": "2026-06-27",
           "date": "2026-06-27",
           "date_raw": "Today",
           "stage": "group",
@@ -2290,9 +2290,9 @@
             "flag_url": "https://flagcdn.com/w80/pt.webp",
             "id": null
           },
-          "home_score": null,
-          "away_score": null,
-          "winner": null,
+          "home_score": 0,
+          "away_score": 0,
+          "winner": "draw",
           "venue_id": null,
           "highlights": null,
           "link": null
@@ -2467,8 +2467,8 @@
           "highlights": [
             {
               "label": "Match recap",
-              "url": "https://www.fifa.com/watch/Z4ryH3N2Tk6CK2e7t9qKt?cid=(p_go-box)(c_FIFAPlus)(sc_live)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_live)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
-              "duration": "03:00"
+              "url": "https://www.fifa.com/watch/22YjMVCjKIb6m3PjnvWtXB?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_67)",
+              "duration": "02:14"
             }
           ],
           "link": "https://www.bing.com/sportsdetails?q=Panama vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -2487,19 +2487,25 @@
           "home_team": {
             "name": "Croatia",
             "flag_url": "https://flagcdn.com/w80/hr.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4715"
           },
           "away_team": {
             "name": "Ghana",
             "flag_url": "https://flagcdn.com/w80/gh.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4764"
           },
           "home_score": 2,
           "away_score": 1,
           "winner": "home",
-          "venue_id": null,
-          "highlights": null,
-          "link": null
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/DZ0FHbTgZcLaZe4t8YQew?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_68)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Croatia vs Ghana&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457052&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
         }
       ]
     },
@@ -2692,8 +2698,8 @@
             "id": null
           },
           "away_team": {
-            "name": "3C/3E/3F/3H/3I",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "Ecuador",
+            "flag_url": "https://flagcdn.com/w80/ec.webp",
             "id": null
           },
           "home_score": null,
@@ -2944,8 +2950,8 @@
             "id": null
           },
           "away_team": {
-            "name": "3D/3E/3I/3J/3L",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "Ghana",
+            "flag_url": "https://flagcdn.com/w80/gh.webp",
             "id": null
           },
           "home_score": null,
@@ -3438,7 +3444,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T23:06:21.608Z",
+    "last_updated": "2026-06-27T23:36:35.732Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
