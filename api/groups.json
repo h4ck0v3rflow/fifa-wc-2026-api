@@ -1672,8 +1672,8 @@
             "flag_url": "https://flagcdn.com/w80/be.webp",
             "id": null
           },
-          "home_score": 0,
-          "away_score": 3,
+          "home_score": 1,
+          "away_score": 4,
           "winner": "away",
           "venue_id": null,
           "highlights": null,
@@ -3420,7 +3420,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T04:37:57.021Z",
+    "last_updated": "2026-06-27T04:49:10.046Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
