@@ -310,8 +310,8 @@
         "id": null
       },
       "away_team": {
-        "name": "3A/3B/3C/3D/3F",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Paraguay",
+        "flag_url": "https://flagcdn.com/w80/py.webp",
         "id": null
       },
       "home_score": null,
@@ -394,8 +394,8 @@
         "id": null
       },
       "away_team": {
-        "name": "3C/3D/3F/3G/3H",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Sweden",
+        "flag_url": "https://flagcdn.com/w80/se.webp",
         "id": null
       },
       "home_score": null,
@@ -529,8 +529,8 @@
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
-        "name": "1H",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Spain",
+        "flag_url": "https://flagcdn.com/w80/es.webp",
         "id": null
       },
       "away_team": {
@@ -646,8 +646,8 @@
         "id": null
       },
       "away_team": {
-        "name": "2H",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Cape Verde",
+        "flag_url": "https://flagcdn.com/w80/cv.webp",
         "id": null
       },
       "home_score": null,
@@ -1136,7 +1136,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T02:05:42.219Z",
+    "last_updated": "2026-06-27T02:36:53.218Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
