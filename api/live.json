@@ -14,40 +14,6 @@
   },
   "matches": [
     {
-      "id": "66457050",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050",
-      "status": "live",
-      "status_text": "Live",
-      "time": null,
-      "label": "2026-06-27",
-      "date": "2026-06-27",
-      "date_raw": "Today",
-      "stage": "group",
-      "group": "Group L",
-      "home_team": {
-        "name": "Panama",
-        "flag_url": "https://flagcdn.com/w80/pa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_5164"
-      },
-      "away_team": {
-        "name": "England",
-        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
-      },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
-      "highlights": [
-        {
-          "label": "Match recap",
-          "url": "https://www.fifa.com/watch/Z4ryH3N2Tk6CK2e7t9qKt?cid=(p_go-box)(c_FIFAPlus)(sc_live)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_live)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
-          "duration": "03:00"
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Panama vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&IsAutoRefreshEnabled=true&"
-    },
-    {
       "id": "66457052",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457052",
       "status": "live",
@@ -78,7 +44,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T22:45:54.430Z",
+    "last_updated": "2026-06-27T22:56:07.540Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
