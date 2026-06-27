@@ -2279,8 +2279,8 @@
         "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
       },
       "home_score": 0,
-      "away_score": 0,
-      "winner": "draw",
+      "away_score": 1,
+      "winner": "away",
       "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
       "highlights": [
         {
@@ -3330,7 +3330,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T22:15:14.837Z",
+    "last_updated": "2026-06-27T22:25:28.212Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
