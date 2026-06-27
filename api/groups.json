@@ -1637,19 +1637,25 @@
           "home_team": {
             "name": "Egypt",
             "flag_url": "https://flagcdn.com/w80/eg.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4758"
           },
           "away_team": {
             "name": "IR Iran",
             "flag_url": "https://flagcdn.com/w80/ir.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4766"
           },
           "home_score": 1,
           "away_score": 1,
           "winner": "draw",
-          "venue_id": null,
-          "highlights": null,
-          "link": null
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/4h74CcFsYuSUjg53SPcBvi?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_63)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Egypt vs IR Iran&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456992&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4766&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
         },
         {
           "id": "66456990",
@@ -3426,7 +3432,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-27T05:42:50.536Z",
+    "last_updated": "2026-06-27T06:14:04.813Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
