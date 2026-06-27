@@ -12,10 +12,67 @@
     "date_end": "2026-07-19",
     "data_provider": "SportRadar (via Bing Sports)"
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "66457002",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457002",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-27",
+      "date": "2026-06-27",
+      "date_raw": "Today",
+      "stage": "group",
+      "group": "Group H",
+      "home_team": {
+        "name": "Uruguay",
+        "flag_url": "https://flagcdn.com/w80/uy.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Spain",
+        "flag_url": "https://flagcdn.com/w80/es.webp",
+        "id": null
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
+    },
+    {
+      "id": "66457004",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457004",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-27",
+      "date": "2026-06-27",
+      "date_raw": "Today",
+      "stage": "group",
+      "group": "Group H",
+      "home_team": {
+        "name": "Cape Verde",
+        "flag_url": "https://flagcdn.com/w80/cv.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Saudi Arabia",
+        "flag_url": "https://flagcdn.com/w80/sa.webp",
+        "id": null
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
+    }
+  ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-26T23:42:42.742Z",
+    "last_updated": "2026-06-27T00:13:53.725Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
