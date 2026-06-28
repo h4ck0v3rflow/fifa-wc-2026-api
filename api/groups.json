@@ -2046,8 +2046,8 @@
         {
           "id": "66457026",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457026",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-06-28",
           "date": "2026-06-28",
@@ -2057,25 +2057,31 @@
           "home_team": {
             "name": "Jordan",
             "flag_url": "https://flagcdn.com/w80/jo.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4771"
           },
           "away_team": {
             "name": "Argentina",
             "flag_url": "https://flagcdn.com/w80/ar.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4819"
           },
           "home_score": 1,
           "away_score": 3,
           "winner": "away",
-          "venue_id": null,
-          "highlights": null,
-          "link": null
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
+          "highlights": [
+            {
+              "label": "Gol de Lautaro Martínez - Jordania 0-2 Argentina - Mundial 2026",
+              "url": "https://www.youtube.com/watch?v=7t1qRFXR3Jo",
+              "duration": "01:22"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Jordan vs Argentina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457026&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4771&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
         },
         {
           "id": "66457028",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457028",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-06-28",
           "date": "2026-06-28",
@@ -2092,8 +2098,8 @@
             "flag_url": "https://flagcdn.com/w80/at.webp",
             "id": null
           },
-          "home_score": 2,
-          "away_score": 2,
+          "home_score": 3,
+          "away_score": 3,
           "winner": "draw",
           "venue_id": null,
           "highlights": null,
@@ -3456,7 +3462,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T03:52:50.942Z",
+    "last_updated": "2026-06-28T04:03:08.833Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
