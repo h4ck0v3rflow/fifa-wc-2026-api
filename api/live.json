@@ -34,37 +34,9 @@
         "flag_url": "https://flagcdn.com/w80/uz.webp",
         "id": null
       },
-      "home_score": 2,
+      "home_score": 3,
       "away_score": 1,
       "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
-      "id": "66457038",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457038",
-      "status": "live",
-      "status_text": "Live",
-      "time": null,
-      "label": "2026-06-27",
-      "date": "2026-06-27",
-      "date_raw": "Yesterday",
-      "stage": "group",
-      "group": "Group K",
-      "home_team": {
-        "name": "Colombia",
-        "flag_url": "https://flagcdn.com/w80/co.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Portugal",
-        "flag_url": "https://flagcdn.com/w80/pt.webp",
-        "id": null
-      },
-      "home_score": 0,
-      "away_score": 0,
-      "winner": "draw",
       "venue_id": null,
       "highlights": null,
       "link": null
@@ -72,7 +44,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T01:19:09.432Z",
+    "last_updated": "2026-06-28T01:29:25.015Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
