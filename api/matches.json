@@ -2384,10 +2384,10 @@
     {
       "id": "66457026",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457026",
-      "status": "scheduled",
-      "status_text": "Today 2:00 AM",
-      "time": "2:00 AM",
-      "label": "2026-06-28T02:00:00",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-28",
       "date": "2026-06-28",
       "date_raw": "Today",
       "stage": "group",
@@ -2402,9 +2402,9 @@
         "flag_url": "https://flagcdn.com/w80/ar.webp",
         "id": null
       },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
       "venue_id": null,
       "highlights": null,
       "link": null
@@ -2412,10 +2412,10 @@
     {
       "id": "66457028",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457028",
-      "status": "scheduled",
-      "status_text": "Today 2:00 AM",
-      "time": "2:00 AM",
-      "label": "2026-06-28T02:00:00",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-28",
       "date": "2026-06-28",
       "date_raw": "Today",
       "stage": "group",
@@ -2430,9 +2430,9 @@
         "flag_url": "https://flagcdn.com/w80/at.webp",
         "id": null
       },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
       "venue_id": null,
       "highlights": null,
       "link": null
@@ -3336,7 +3336,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T01:39:40.333Z",
+    "last_updated": "2026-06-28T02:09:55.533Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }

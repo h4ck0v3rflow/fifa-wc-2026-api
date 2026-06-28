@@ -12,10 +12,67 @@
     "date_end": "2026-07-19",
     "data_provider": "SportRadar (via Bing Sports)"
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "66457026",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457026",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-28",
+      "date": "2026-06-28",
+      "date_raw": "Today",
+      "stage": "group",
+      "group": "Group J",
+      "home_team": {
+        "name": "Jordan",
+        "flag_url": "https://flagcdn.com/w80/jo.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Argentina",
+        "flag_url": "https://flagcdn.com/w80/ar.webp",
+        "id": null
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
+    },
+    {
+      "id": "66457028",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457028",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-06-28",
+      "date": "2026-06-28",
+      "date_raw": "Today",
+      "stage": "group",
+      "group": "Group J",
+      "home_team": {
+        "name": "Algeria",
+        "flag_url": "https://flagcdn.com/w80/dz.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Austria",
+        "flag_url": "https://flagcdn.com/w80/at.webp",
+        "id": null
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
+    }
+  ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T01:39:40.333Z",
+    "last_updated": "2026-06-28T02:09:55.533Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
