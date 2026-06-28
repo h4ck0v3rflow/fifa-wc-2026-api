@@ -282,8 +282,8 @@
         "id": null
       },
       "away_team": {
-        "name": "3E/3H/3I/3J/3K",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Congo DR",
+        "flag_url": "https://flagcdn.com/w80/cd.webp",
         "id": null
       },
       "home_score": null,
@@ -310,8 +310,8 @@
         "id": null
       },
       "away_team": {
-        "name": "3A/3E/3H/3I/3J",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Senegal",
+        "flag_url": "https://flagcdn.com/w80/sn.webp",
         "id": null
       },
       "home_score": null,
@@ -389,8 +389,8 @@
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
-        "name": "2K",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Portugal",
+        "flag_url": "https://flagcdn.com/w80/pt.webp",
         "id": null
       },
       "away_team": {
@@ -501,8 +501,8 @@
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
-        "name": "1K",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Colombia",
+        "flag_url": "https://flagcdn.com/w80/co.webp",
         "id": null
       },
       "away_team": {
@@ -968,7 +968,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T01:29:25.015Z",
+    "last_updated": "2026-06-28T01:39:40.333Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
