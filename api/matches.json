@@ -2414,7 +2414,7 @@
         "flag_url": "https://flagcdn.com/w80/ar.webp",
         "id": null
       },
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 2,
       "winner": "away",
       "venue_id": null,
@@ -2442,8 +2442,8 @@
         "flag_url": "https://flagcdn.com/w80/at.webp",
         "id": null
       },
-      "home_score": 1,
-      "away_score": 1,
+      "home_score": 2,
+      "away_score": 2,
       "winner": "draw",
       "venue_id": null,
       "highlights": null,
@@ -3348,7 +3348,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T03:11:38.025Z",
+    "last_updated": "2026-06-28T03:21:56.029Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
