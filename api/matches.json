@@ -2475,19 +2475,25 @@
       "home_team": {
         "name": "South Africa",
         "flag_url": "https://flagcdn.com/w80/za.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4736"
       },
       "away_team": {
         "name": "Canada",
         "flag_url": "https://flagcdn.com/w80/ca.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4752"
       },
       "home_score": 0,
       "away_score": 1,
       "winner": "away",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/6dFyzSCghyabYGJRQk8RYB?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_73)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=South Africa vs Canada&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452545&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452557",
@@ -2921,8 +2927,8 @@
       "stage": "round_of_16",
       "group": "Round of 16",
       "home_team": {
-        "name": "W73",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Canada",
+        "flag_url": "https://flagcdn.com/w80/ca.webp",
         "id": null
       },
       "away_team": {
@@ -3360,7 +3366,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T20:59:46.339Z",
+    "last_updated": "2026-06-28T21:29:53.034Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
