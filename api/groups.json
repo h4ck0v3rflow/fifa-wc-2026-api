@@ -2540,8 +2540,8 @@
         {
           "id": "53452545",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452545",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-06-28",
           "date": "2026-06-28",
@@ -2559,8 +2559,8 @@
             "id": null
           },
           "home_score": 0,
-          "away_score": 0,
-          "winner": "draw",
+          "away_score": 1,
+          "winner": "away",
           "venue_id": null,
           "highlights": null,
           "link": null
@@ -3468,7 +3468,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T20:49:39.715Z",
+    "last_updated": "2026-06-28T20:59:46.339Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
