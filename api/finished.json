@@ -2339,19 +2339,25 @@
       "home_team": {
         "name": "Congo DR",
         "flag_url": "https://flagcdn.com/w80/cd.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4823"
       },
       "away_team": {
         "name": "Uzbekistan",
         "flag_url": "https://flagcdn.com/w80/uz.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4723"
       },
       "home_score": 3,
       "away_score": 1,
       "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/3qv3zdDeGxu5KG6WPOZ9eW?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_72)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Congo DR vs Uzbekistan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457040&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4723&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457038",
@@ -2367,24 +2373,30 @@
       "home_team": {
         "name": "Colombia",
         "flag_url": "https://flagcdn.com/w80/co.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4820"
       },
       "away_team": {
         "name": "Portugal",
         "flag_url": "https://flagcdn.com/w80/pt.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4704"
       },
       "home_score": 0,
       "away_score": 0,
       "winner": "draw",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/8tSsUTDaizPYqH3tPtPym?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_71)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Colombia vs Portugal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457038&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-28T02:09:55.533Z",
+    "last_updated": "2026-06-28T02:20:10.727Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
