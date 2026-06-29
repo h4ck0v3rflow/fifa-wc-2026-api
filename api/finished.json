@@ -2494,11 +2494,39 @@
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=South Africa vs Canada&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452545&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
+      "id": "53452557",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452557",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-06-29",
+      "date": "2026-06-29",
+      "date_raw": "Today",
+      "stage": "round_of_32",
+      "group": "Round of 32",
+      "home_team": {
+        "name": "Brazil",
+        "flag_url": "https://flagcdn.com/w80/br.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Japan",
+        "flag_url": "https://flagcdn.com/w80/jp.webp",
+        "id": null
+      },
+      "home_score": 2,
+      "away_score": 1,
+      "winner": "home",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-29T18:55:55.434Z",
+    "last_updated": "2026-06-29T19:06:01.835Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
