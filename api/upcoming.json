@@ -473,8 +473,8 @@
       "stage": "round_of_16",
       "group": "Round of 16",
       "home_team": {
-        "name": "W76",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Brazil",
+        "flag_url": "https://flagcdn.com/w80/br.webp",
         "id": null
       },
       "away_team": {
@@ -856,7 +856,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-29T19:06:01.835Z",
+    "last_updated": "2026-06-29T19:36:09.233Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }

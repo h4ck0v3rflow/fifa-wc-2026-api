@@ -2585,19 +2585,25 @@
           "home_team": {
             "name": "Brazil",
             "flag_url": "https://flagcdn.com/w80/br.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4748"
           },
           "away_team": {
             "name": "Japan",
             "flag_url": "https://flagcdn.com/w80/jp.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4770"
           },
           "home_score": 2,
           "away_score": 1,
           "winner": "home",
-          "venue_id": null,
-          "highlights": null,
-          "link": null
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/2RdUNscru4TZmci6y3Akdp?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_76)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Brazil vs Japan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452557&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
         },
         {
           "id": "53452541",
@@ -3065,8 +3071,8 @@
           "stage": "round_of_16",
           "group": "Round of 16",
           "home_team": {
-            "name": "W76",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "Brazil",
+            "flag_url": "https://flagcdn.com/w80/br.webp",
             "id": null
           },
           "away_team": {
@@ -3474,7 +3480,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-29T19:06:01.835Z",
+    "last_updated": "2026-06-29T19:36:09.233Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
