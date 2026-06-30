@@ -14,34 +14,6 @@
   },
   "matches": [
     {
-      "id": "53452561",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561",
-      "status": "scheduled",
-      "status_text": "Today 5:00 PM",
-      "time": "5:00 PM",
-      "label": "2026-06-30T17:00:00",
-      "date": "2026-06-30",
-      "date_raw": "Today",
-      "stage": "round_of_32",
-      "group": "Round of 32",
-      "home_team": {
-        "name": "Ivory Coast",
-        "flag_url": "https://flagcdn.com/w80/ci.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Norway",
-        "flag_url": "https://flagcdn.com/w80/no.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "53452543",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452543",
       "status": "scheduled",
@@ -800,7 +772,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-30T16:33:46.915Z",
+    "last_updated": "2026-06-30T17:03:53.437Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
