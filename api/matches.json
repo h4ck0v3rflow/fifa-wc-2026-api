@@ -2577,19 +2577,25 @@
       "home_team": {
         "name": "Netherlands",
         "flag_url": "https://flagcdn.com/w80/nl.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4705"
       },
       "away_team": {
         "name": "Morocco",
         "flag_url": "https://flagcdn.com/w80/ma.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4778"
       },
       "home_score": 1,
       "away_score": 1,
       "winner": "draw",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/3ypNkN0kvF5ZdsUFlQCJR5?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_75)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452561",
@@ -3378,7 +3384,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-30T04:30:52.423Z",
+    "last_updated": "2026-06-30T05:00:58.935Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
