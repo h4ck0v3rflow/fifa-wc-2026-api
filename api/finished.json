@@ -2596,11 +2596,39 @@
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
+      "id": "53452561",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-06-30",
+      "date": "2026-06-30",
+      "date_raw": "Today",
+      "stage": "round_of_32",
+      "group": "Round of 32",
+      "home_team": {
+        "name": "Ivory Coast",
+        "flag_url": "https://flagcdn.com/w80/ci.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Norway",
+        "flag_url": "https://flagcdn.com/w80/no.webp",
+        "id": null
+      },
+      "home_score": 1,
+      "away_score": 2,
+      "winner": "away",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-30T18:55:09.025Z",
+    "last_updated": "2026-06-30T19:05:16.037Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }

@@ -2676,8 +2676,8 @@
         {
           "id": "53452561",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-06-30",
           "date": "2026-06-30",
@@ -3088,8 +3088,8 @@
             "id": null
           },
           "away_team": {
-            "name": "W78",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "Norway",
+            "flag_url": "https://flagcdn.com/w80/no.webp",
             "id": null
           },
           "home_score": null,
@@ -3492,7 +3492,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-30T18:55:09.025Z",
+    "last_updated": "2026-06-30T19:05:16.037Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
