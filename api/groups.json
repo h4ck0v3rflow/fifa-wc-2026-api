@@ -2051,7 +2051,7 @@
           "time": null,
           "label": "2026-06-28",
           "date": "2026-06-28",
-          "date_raw": "Yesterday",
+          "date_raw": "Sun, Jun 28",
           "stage": "group",
           "group": "Group J",
           "home_team": {
@@ -2085,7 +2085,7 @@
           "time": null,
           "label": "2026-06-28",
           "date": "2026-06-28",
-          "date_raw": "Yesterday",
+          "date_raw": "Sun, Jun 28",
           "stage": "group",
           "group": "Group J",
           "home_team": {
@@ -2545,7 +2545,7 @@
           "time": null,
           "label": "2026-06-28",
           "date": "2026-06-28",
-          "date_raw": "Yesterday",
+          "date_raw": "Sun, Jun 28",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -2579,7 +2579,7 @@
           "time": null,
           "label": "2026-06-29",
           "date": "2026-06-29",
-          "date_raw": "Today",
+          "date_raw": "Yesterday",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -2613,35 +2613,41 @@
           "time": null,
           "label": "2026-06-29",
           "date": "2026-06-29",
-          "date_raw": "Today",
+          "date_raw": "Yesterday",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
             "name": "Germany",
             "flag_url": "https://flagcdn.com/w80/de.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4711"
           },
           "away_team": {
             "name": "Paraguay",
             "flag_url": "https://flagcdn.com/w80/py.webp",
-            "id": null
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
           },
           "home_score": 1,
           "away_score": 1,
           "winner": "draw",
-          "venue_id": null,
-          "highlights": null,
-          "link": null
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
+          "highlights": [
+            {
+              "label": "Match recap",
+              "url": "https://www.fifa.com/watch/1ObqWjTvyAO5EaR5aAQYbQ?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_74)",
+              "duration": "02:14"
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Germany vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452541&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
         },
         {
           "id": "53452547",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547",
           "status": "scheduled",
-          "status_text": "Tomorrow 1:00 AM",
+          "status_text": "Today 1:00 AM",
           "time": "1:00 AM",
           "label": "2026-06-30T01:00:00",
           "date": "2026-06-30",
-          "date_raw": "Tomorrow",
+          "date_raw": "Today",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -2665,11 +2671,11 @@
           "id": "53452561",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561",
           "status": "scheduled",
-          "status_text": "Tomorrow 5:00 PM",
+          "status_text": "Today 5:00 PM",
           "time": "5:00 PM",
           "label": "2026-06-30T17:00:00",
           "date": "2026-06-30",
-          "date_raw": "Tomorrow",
+          "date_raw": "Today",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -2693,11 +2699,11 @@
           "id": "53452543",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452543",
           "status": "scheduled",
-          "status_text": "Tomorrow 9:00 PM",
+          "status_text": "Today 9:00 PM",
           "time": "9:00 PM",
           "label": "2026-06-30T21:00:00",
           "date": "2026-06-30",
-          "date_raw": "Tomorrow",
+          "date_raw": "Today",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -2721,11 +2727,11 @@
           "id": "53452563",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452563",
           "status": "scheduled",
-          "status_text": "Wed, Jul 1 1:00 AM",
+          "status_text": "Tomorrow 1:00 AM",
           "time": "1:00 AM",
           "label": "2026-07-01T01:00:00",
           "date": "2026-07-01",
-          "date_raw": "Wed, Jul 1",
+          "date_raw": "Tomorrow",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -2749,11 +2755,11 @@
           "id": "53452565",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452565",
           "status": "scheduled",
-          "status_text": "Wed, Jul 1 4:00 PM",
+          "status_text": "Tomorrow 4:00 PM",
           "time": "4:00 PM",
           "label": "2026-07-01T16:00:00",
           "date": "2026-07-01",
-          "date_raw": "Wed, Jul 1",
+          "date_raw": "Tomorrow",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -2777,11 +2783,11 @@
           "id": "53452555",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452555",
           "status": "scheduled",
-          "status_text": "Wed, Jul 1 8:00 PM",
+          "status_text": "Tomorrow 8:00 PM",
           "time": "8:00 PM",
           "label": "2026-07-01T20:00:00",
           "date": "2026-07-01",
-          "date_raw": "Wed, Jul 1",
+          "date_raw": "Tomorrow",
           "stage": "round_of_32",
           "group": "Round of 32",
           "home_team": {
@@ -3480,7 +3486,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-29T23:38:23.353Z",
+    "last_updated": "2026-06-30T00:08:30.216Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
