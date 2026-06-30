@@ -2645,19 +2645,25 @@
       "home_team": {
         "name": "France",
         "flag_url": "https://flagcdn.com/w80/fr.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4481"
       },
       "away_team": {
         "name": "Sweden",
         "flag_url": "https://flagcdn.com/w80/se.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4688"
       },
       "home_score": 3,
       "away_score": 0,
       "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/SQUgNGrNai36KI7q8vHo6?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_77)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=France vs Sweden&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452543&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452563",
@@ -2984,8 +2990,8 @@
         "id": null
       },
       "away_team": {
-        "name": "W77",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "France",
+        "flag_url": "https://flagcdn.com/w80/fr.webp",
         "id": null
       },
       "home_score": null,
@@ -3390,7 +3396,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-30T22:56:58.649Z",
+    "last_updated": "2026-06-30T23:27:05.412Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
