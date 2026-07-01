@@ -14,34 +14,6 @@
   },
   "matches": [
     {
-      "id": "53452555",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452555",
-      "status": "scheduled",
-      "status_text": "Today 8:00 PM",
-      "time": "8:00 PM",
-      "label": "2026-07-01T20:00:00",
-      "date": "2026-07-01",
-      "date_raw": "Today",
-      "stage": "round_of_32",
-      "group": "Round of 32",
-      "home_team": {
-        "name": "Belgium",
-        "flag_url": "https://flagcdn.com/w80/be.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Senegal",
-        "flag_url": "https://flagcdn.com/w80/sn.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "53452553",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452553",
       "status": "scheduled",
@@ -688,7 +660,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-01T19:35:48.630Z",
+    "last_updated": "2026-07-01T20:05:55.608Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
