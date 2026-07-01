@@ -2503,7 +2503,7 @@
       "time": null,
       "label": "2026-06-29",
       "date": "2026-06-29",
-      "date_raw": "Yesterday",
+      "date_raw": "Mon, Jun 29",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2537,7 +2537,7 @@
       "time": null,
       "label": "2026-06-29",
       "date": "2026-06-29",
-      "date_raw": "Yesterday",
+      "date_raw": "Mon, Jun 29",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2571,7 +2571,7 @@
       "time": null,
       "label": "2026-06-30",
       "date": "2026-06-30",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2605,7 +2605,7 @@
       "time": null,
       "label": "2026-06-30",
       "date": "2026-06-30",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2639,7 +2639,7 @@
       "time": null,
       "label": "2026-06-30",
       "date": "2026-06-30",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2668,7 +2668,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-06-30T23:57:11.839Z",
+    "last_updated": "2026-07-01T00:27:20.815Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
