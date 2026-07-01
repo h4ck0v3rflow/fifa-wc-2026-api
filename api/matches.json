@@ -2713,19 +2713,25 @@
       "home_team": {
         "name": "England",
         "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
       },
       "away_team": {
         "name": "Congo DR",
         "flag_url": "https://flagcdn.com/w80/cd.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4823"
       },
       "home_score": 2,
       "away_score": 1,
       "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=jOOVm49oRGk",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=England vs Congo DR&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452565&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452555",
@@ -3402,7 +3408,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-01T18:35:34.640Z",
+    "last_updated": "2026-07-01T19:05:41.643Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
