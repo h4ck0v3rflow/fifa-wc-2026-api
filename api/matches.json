@@ -2736,8 +2736,8 @@
     {
       "id": "53452555",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452555",
-      "status": "live",
-      "status_text": "Live",
+      "status": "finished",
+      "status_text": "FT",
       "time": null,
       "label": "2026-07-01",
       "date": "2026-07-01",
@@ -3114,8 +3114,8 @@
         "id": null
       },
       "away_team": {
-        "name": "W82",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Belgium",
+        "flag_url": "https://flagcdn.com/w80/be.webp",
         "id": null
       },
       "home_score": null,
@@ -3408,7 +3408,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-01T22:47:45.844Z",
+    "last_updated": "2026-07-01T22:57:52.641Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
