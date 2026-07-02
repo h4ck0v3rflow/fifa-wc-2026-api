@@ -12,10 +12,39 @@
     "date_end": "2026-07-19",
     "data_provider": "SportRadar (via Bing Sports)"
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "53452553",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452553",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-07-02",
+      "date": "2026-07-02",
+      "date_raw": "Today",
+      "stage": "round_of_32",
+      "group": "Round of 32",
+      "home_team": {
+        "name": "USA",
+        "flag_url": "https://flagcdn.com/w80/us.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Bosnia and Herzegovina",
+        "flag_url": "https://flagcdn.com/w80/ba.webp",
+        "id": null
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
+    }
+  ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-01T23:58:06.620Z",
+    "last_updated": "2026-07-02T00:28:13.614Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }

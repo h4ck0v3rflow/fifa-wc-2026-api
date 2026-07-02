@@ -14,42 +14,14 @@
   },
   "matches": [
     {
-      "id": "53452553",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452553",
-      "status": "scheduled",
-      "status_text": "Tomorrow 12:00 AM",
-      "time": "12:00 AM",
-      "label": "2026-07-02T00:00:00",
-      "date": "2026-07-02",
-      "date_raw": "Tomorrow",
-      "stage": "round_of_32",
-      "group": "Round of 32",
-      "home_team": {
-        "name": "USA",
-        "flag_url": "https://flagcdn.com/w80/us.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Bosnia and Herzegovina",
-        "flag_url": "https://flagcdn.com/w80/ba.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "53452551",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452551",
       "status": "scheduled",
-      "status_text": "Tomorrow 7:00 PM",
+      "status_text": "Today 7:00 PM",
       "time": "7:00 PM",
       "label": "2026-07-02T19:00:00",
       "date": "2026-07-02",
-      "date_raw": "Tomorrow",
+      "date_raw": "Today",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -73,11 +45,11 @@
       "id": "53452549",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452549",
       "status": "scheduled",
-      "status_text": "Tomorrow 11:00 PM",
+      "status_text": "Today 11:00 PM",
       "time": "11:00 PM",
       "label": "2026-07-02T23:00:00",
       "date": "2026-07-02",
-      "date_raw": "Tomorrow",
+      "date_raw": "Today",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -101,11 +73,11 @@
       "id": "53452505",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452505",
       "status": "scheduled",
-      "status_text": "Fri, Jul 3 3:00 AM",
+      "status_text": "Tomorrow 3:00 AM",
       "time": "3:00 AM",
       "label": "2026-07-03T03:00:00",
       "date": "2026-07-03",
-      "date_raw": "Fri, Jul 3",
+      "date_raw": "Tomorrow",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -129,11 +101,11 @@
       "id": "53452503",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452503",
       "status": "scheduled",
-      "status_text": "Fri, Jul 3 6:00 PM",
+      "status_text": "Tomorrow 6:00 PM",
       "time": "6:00 PM",
       "label": "2026-07-03T18:00:00",
       "date": "2026-07-03",
-      "date_raw": "Fri, Jul 3",
+      "date_raw": "Tomorrow",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -157,11 +129,11 @@
       "id": "53452569",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452569",
       "status": "scheduled",
-      "status_text": "Fri, Jul 3 10:00 PM",
+      "status_text": "Tomorrow 10:00 PM",
       "time": "10:00 PM",
       "label": "2026-07-03T22:00:00",
       "date": "2026-07-03",
-      "date_raw": "Fri, Jul 3",
+      "date_raw": "Tomorrow",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -660,7 +632,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-01T23:58:06.620Z",
+    "last_updated": "2026-07-02T00:28:13.614Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
