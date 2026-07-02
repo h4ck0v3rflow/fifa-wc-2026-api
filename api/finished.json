@@ -2815,24 +2815,30 @@
       "home_team": {
         "name": "Spain",
         "flag_url": "https://flagcdn.com/w80/es.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4698"
       },
       "away_team": {
         "name": "Austria",
         "flag_url": "https://flagcdn.com/w80/at.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4718"
       },
       "home_score": 3,
       "away_score": 0,
       "winner": "home",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/3vt1Bl4M0VL5MPVPi86jsL?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_84)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Spain vs Austria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452551&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-02T21:05:16.418Z",
+    "last_updated": "2026-07-02T21:35:23.042Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
