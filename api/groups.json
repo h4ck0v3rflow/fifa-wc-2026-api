@@ -3254,8 +3254,8 @@
             "id": null
           },
           "away_team": {
-            "name": "W88",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "Egypt",
+            "flag_url": "https://flagcdn.com/w80/eg.webp",
             "id": null
           },
           "home_score": null,
@@ -3546,7 +3546,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-03T20:54:04.452Z",
+    "last_updated": "2026-07-03T21:24:11.138Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
