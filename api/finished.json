@@ -2917,24 +2917,30 @@
       "home_team": {
         "name": "Australia",
         "flag_url": "https://flagcdn.com/w80/au.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4741"
       },
       "away_team": {
         "name": "Egypt",
         "flag_url": "https://flagcdn.com/w80/eg.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4758"
       },
       "home_score": 1,
       "away_score": 1,
       "winner": "draw",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=qZtBUUjnaO4",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Australia vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452503&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-03T21:24:11.138Z",
+    "last_updated": "2026-07-03T21:54:18.113Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
