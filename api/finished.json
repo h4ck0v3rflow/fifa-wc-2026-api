@@ -2868,11 +2868,39 @@
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Portugal vs Croatia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452549&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
+      "id": "53452505",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452505",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-07-03",
+      "date": "2026-07-03",
+      "date_raw": "Today",
+      "stage": "round_of_32",
+      "group": "Round of 32",
+      "home_team": {
+        "name": "Switzerland",
+        "flag_url": "https://flagcdn.com/w80/ch.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Algeria",
+        "flag_url": "https://flagcdn.com/w80/dz.webp",
+        "id": null
+      },
+      "home_score": 2,
+      "away_score": 0,
+      "winner": "home",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-03T04:48:49.413Z",
+    "last_updated": "2026-07-03T04:58:56.436Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
