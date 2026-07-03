@@ -14,34 +14,6 @@
   },
   "matches": [
     {
-      "id": "53452505",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452505",
-      "status": "scheduled",
-      "status_text": "Today 3:00 AM",
-      "time": "3:00 AM",
-      "label": "2026-07-03T03:00:00",
-      "date": "2026-07-03",
-      "date_raw": "Today",
-      "stage": "round_of_32",
-      "group": "Round of 32",
-      "home_team": {
-        "name": "Switzerland",
-        "flag_url": "https://flagcdn.com/w80/ch.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Algeria",
-        "flag_url": "https://flagcdn.com/w80/dz.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "53452503",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452503",
       "status": "scheduled",
@@ -576,7 +548,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-03T02:47:35.108Z",
+    "last_updated": "2026-07-03T03:17:41.734Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
