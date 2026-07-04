@@ -2936,11 +2936,39 @@
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Australia vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452503&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
+      "id": "53452569",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452569",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-07-03",
+      "date": "2026-07-03",
+      "date_raw": "Yesterday",
+      "stage": "round_of_32",
+      "group": "Round of 32",
+      "home_team": {
+        "name": "Argentina",
+        "flag_url": "https://flagcdn.com/w80/ar.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Cape Verde",
+        "flag_url": "https://flagcdn.com/w80/cv.webp",
+        "id": null
+      },
+      "home_score": 3,
+      "away_score": 2,
+      "winner": "home",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-04T00:35:55.548Z",
+    "last_updated": "2026-07-04T00:46:02.717Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
