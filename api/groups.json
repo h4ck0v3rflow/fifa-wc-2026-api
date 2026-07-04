@@ -3114,9 +3114,9 @@
           "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
           "highlights": [
             {
-              "label": "Match recap",
-              "url": "https://www.fifa.com/watch/1Yw1ocUULCrvW3PYSDX0pL?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_90)",
-              "duration": "02:14"
+              "label": "Match highlights",
+              "url": "https://www.youtube.com/watch?v=ej2xLJL866g",
+              "duration": null
             }
           ],
           "link": "https://www.bing.com/sportsdetails?q=Canada vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452511&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -3570,7 +3570,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-04T19:42:15.529Z",
+    "last_updated": "2026-07-04T20:12:22.326Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
