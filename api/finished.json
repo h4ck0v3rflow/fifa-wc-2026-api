@@ -3053,24 +3053,30 @@
       "home_team": {
         "name": "Paraguay",
         "flag_url": "https://flagcdn.com/w80/py.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
       },
       "away_team": {
         "name": "France",
         "flag_url": "https://flagcdn.com/w80/fr.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4481"
       },
       "home_score": 0,
       "away_score": 1,
       "winner": "away",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
+      "highlights": [
+        {
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/6cm1kVkhlVgrFkP3Cdiqoh?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_89)",
+          "duration": "02:14"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Paraguay vs France&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452509&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-04T23:13:56.946Z",
+    "last_updated": "2026-07-04T23:44:03.823Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
