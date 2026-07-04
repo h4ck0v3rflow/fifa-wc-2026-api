@@ -3090,8 +3090,8 @@
         {
           "id": "53452511",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452511",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-07-04",
           "date": "2026-07-04",
@@ -3109,7 +3109,7 @@
             "id": null
           },
           "home_score": 0,
-          "away_score": 2,
+          "away_score": 3,
           "winner": "away",
           "venue_id": null,
           "highlights": null,
@@ -3334,8 +3334,8 @@
             "id": null
           },
           "away_team": {
-            "name": "W90",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "Morocco",
+            "flag_url": "https://flagcdn.com/w80/ma.webp",
             "id": null
           },
           "home_score": null,
@@ -3564,7 +3564,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-04T19:02:01.544Z",
+    "last_updated": "2026-07-04T19:12:08.756Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
