@@ -14,34 +14,6 @@
   },
   "matches": [
     {
-      "id": "53452509",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452509",
-      "status": "scheduled",
-      "status_text": "Today 9:00 PM",
-      "time": "9:00 PM",
-      "label": "2026-07-04T21:00:00",
-      "date": "2026-07-04",
-      "date_raw": "Today",
-      "stage": "round_of_16",
-      "group": "Round of 16",
-      "home_team": {
-        "name": "Paraguay",
-        "flag_url": "https://flagcdn.com/w80/py.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "France",
-        "flag_url": "https://flagcdn.com/w80/fr.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "53452517",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452517",
       "status": "scheduled",
@@ -436,7 +408,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-04T20:42:29.319Z",
+    "last_updated": "2026-07-04T21:12:36.109Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
