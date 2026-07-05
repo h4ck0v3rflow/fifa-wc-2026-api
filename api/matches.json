@@ -3076,8 +3076,8 @@
     {
       "id": "53452517",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452517",
-      "status": "live",
-      "status_text": "Live",
+      "status": "finished",
+      "status_text": "FT",
       "time": null,
       "label": "2026-07-05",
       "date": "2026-07-05",
@@ -3094,7 +3094,7 @@
         "flag_url": "https://flagcdn.com/w80/no.webp",
         "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4475"
       },
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 2,
       "winner": "away",
       "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
@@ -3105,7 +3105,7 @@
           "duration": "00:40"
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452517&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&IsAutoRefreshEnabled=true&"
+      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452517&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452519",
@@ -3315,8 +3315,8 @@
       "stage": "quarter_final",
       "group": "Quarterfinals",
       "home_team": {
-        "name": "W91",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Norway",
+        "flag_url": "https://flagcdn.com/w80/no.webp",
         "id": null
       },
       "away_team": {
@@ -3474,7 +3474,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-05T21:59:57.748Z",
+    "last_updated": "2026-07-05T22:10:04.621Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
