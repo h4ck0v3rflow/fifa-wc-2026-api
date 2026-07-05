@@ -2877,7 +2877,7 @@
       "time": null,
       "label": "2026-07-03",
       "date": "2026-07-03",
-      "date_raw": "Yesterday",
+      "date_raw": "Fri, Jul 3",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2911,7 +2911,7 @@
       "time": null,
       "label": "2026-07-03",
       "date": "2026-07-03",
-      "date_raw": "Yesterday",
+      "date_raw": "Fri, Jul 3",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2945,7 +2945,7 @@
       "time": null,
       "label": "2026-07-03",
       "date": "2026-07-03",
-      "date_raw": "Yesterday",
+      "date_raw": "Fri, Jul 3",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -2979,7 +2979,7 @@
       "time": null,
       "label": "2026-07-04",
       "date": "2026-07-04",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -3013,7 +3013,7 @@
       "time": null,
       "label": "2026-07-04",
       "date": "2026-07-04",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "round_of_16",
       "group": "Round of 16",
       "home_team": {
@@ -3047,7 +3047,7 @@
       "time": null,
       "label": "2026-07-04",
       "date": "2026-07-04",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "round_of_16",
       "group": "Round of 16",
       "home_team": {
@@ -3076,7 +3076,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-04T23:44:03.823Z",
+    "last_updated": "2026-07-05T00:14:10.649Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
