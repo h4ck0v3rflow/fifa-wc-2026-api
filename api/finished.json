@@ -2979,7 +2979,7 @@
       "time": null,
       "label": "2026-07-04",
       "date": "2026-07-04",
-      "date_raw": "Yesterday",
+      "date_raw": "Sat, Jul 4",
       "stage": "round_of_32",
       "group": "Round of 32",
       "home_team": {
@@ -3013,7 +3013,7 @@
       "time": null,
       "label": "2026-07-04",
       "date": "2026-07-04",
-      "date_raw": "Yesterday",
+      "date_raw": "Sat, Jul 4",
       "stage": "round_of_16",
       "group": "Round of 16",
       "home_team": {
@@ -3047,7 +3047,7 @@
       "time": null,
       "label": "2026-07-04",
       "date": "2026-07-04",
-      "date_raw": "Yesterday",
+      "date_raw": "Sat, Jul 4",
       "stage": "round_of_16",
       "group": "Round of 16",
       "home_team": {
@@ -3081,7 +3081,7 @@
       "time": null,
       "label": "2026-07-05",
       "date": "2026-07-05",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "round_of_16",
       "group": "Round of 16",
       "home_team": {
@@ -3110,7 +3110,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-05T23:40:24.954Z",
+    "last_updated": "2026-07-06T00:10:31.739Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
