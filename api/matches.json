@@ -3155,19 +3155,25 @@
       "home_team": {
         "name": "Portugal",
         "flag_url": "https://flagcdn.com/w80/pt.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4704"
       },
       "away_team": {
         "name": "Spain",
         "flag_url": "https://flagcdn.com/w80/es.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4698"
       },
       "home_score": 0,
       "away_score": 1,
       "winner": "away",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
+      "highlights": [
+        {
+          "label": "Ferran Torres assists Spain’s winning goal vs. Portugal in the World Cup Round of 16 🔥 | ESPN FC",
+          "url": "https://www.youtube.com/watch?v=vwLbwkNqWXU",
+          "duration": "01:07"
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Portugal vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452513&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452515",
@@ -3480,7 +3486,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-06T21:07:54.810Z",
+    "last_updated": "2026-07-06T21:38:05.440Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
