@@ -3110,10 +3110,10 @@
     {
       "id": "53452519",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452519",
-      "status": "scheduled",
-      "status_text": "Today 1:00 AM",
-      "time": "1:00 AM",
-      "label": "2026-07-06T01:00:00",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-07-06",
       "date": "2026-07-06",
       "date_raw": "Today",
       "stage": "round_of_16",
@@ -3128,9 +3128,9 @@
         "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
         "id": null
       },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "draw",
       "venue_id": null,
       "highlights": null,
       "link": null
@@ -3474,7 +3474,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-06T00:40:38.808Z",
+    "last_updated": "2026-07-06T01:10:45.834Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
