@@ -3174,11 +3174,39 @@
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Portugal vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452513&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
+      "id": "53452515",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452515",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-07-07",
+      "date": "2026-07-07",
+      "date_raw": "Today",
+      "stage": "round_of_16",
+      "group": "Round of 16",
+      "home_team": {
+        "name": "USA",
+        "flag_url": "https://flagcdn.com/w80/us.webp",
+        "id": null
+      },
+      "away_team": {
+        "name": "Belgium",
+        "flag_url": "https://flagcdn.com/w80/be.webp",
+        "id": null
+      },
+      "home_score": 1,
+      "away_score": 4,
+      "winner": "away",
+      "venue_id": null,
+      "highlights": null,
+      "link": null
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-07T01:50:04.822Z",
+    "last_updated": "2026-07-07T02:00:12.208Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
