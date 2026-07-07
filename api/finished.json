@@ -3257,24 +3257,30 @@
       "home_team": {
         "name": "Switzerland",
         "flag_url": "https://flagcdn.com/w80/ch.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4699"
       },
       "away_team": {
         "name": "Colombia",
         "flag_url": "https://flagcdn.com/w80/co.webp",
-        "id": null
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4820"
       },
       "home_score": 0,
       "away_score": 0,
       "winner": "draw",
-      "venue_id": null,
-      "highlights": null,
-      "link": null
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=kAQ5EPKgIXU",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Colombia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452523&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     }
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-07T22:57:44.739Z",
+    "last_updated": "2026-07-07T23:27:51.822Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
