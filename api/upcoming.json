@@ -114,8 +114,8 @@
         "id": null
       },
       "away_team": {
-        "name": "W96",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Switzerland",
+        "flag_url": "https://flagcdn.com/w80/ch.webp",
         "id": null
       },
       "home_score": null,
@@ -240,7 +240,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-07T22:47:37.217Z",
+    "last_updated": "2026-07-07T22:57:44.739Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
