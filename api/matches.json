@@ -14,40 +14,6 @@
   },
   "matches": [
     {
-      "id": "66456904",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456904",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-11",
-      "date": "2026-06-11",
-      "date_raw": "Thu, Jun 11",
-      "stage": "group",
-      "group": "Group A",
-      "home_team": {
-        "name": "Mexico",
-        "flag_url": "https://flagcdn.com/w80/mx.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4781"
-      },
-      "away_team": {
-        "name": "South Africa",
-        "flag_url": "https://flagcdn.com/w80/za.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4736"
-      },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Gg9bkcHBurg",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Mexico vs South Africa&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456904&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
       "id": "66456906",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456906",
       "status": "finished",
@@ -3503,8 +3469,8 @@
     }
   ],
   "meta": {
-    "total_matches": 104,
-    "last_updated": "2026-07-09T11:36:58.022Z",
+    "total_matches": 103,
+    "last_updated": "2026-07-09T12:07:05.124Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
