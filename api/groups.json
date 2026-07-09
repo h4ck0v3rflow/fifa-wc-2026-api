@@ -3368,8 +3368,8 @@
         {
           "id": "53452525",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452525",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-07-08",
           "date": "2026-07-08",
@@ -3495,8 +3495,8 @@
           "stage": "semi_final",
           "group": "Semifinals",
           "home_team": {
-            "name": "W97",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "France",
+            "flag_url": "https://flagcdn.com/w80/fr.webp",
             "id": null
           },
           "away_team": {
@@ -3612,7 +3612,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-09T22:00:29.041Z",
+    "last_updated": "2026-07-09T22:10:36.633Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
