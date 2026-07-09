@@ -14,34 +14,6 @@
   },
   "matches": [
     {
-      "id": "53452525",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452525",
-      "status": "scheduled",
-      "status_text": "Today 8:00 PM",
-      "time": "8:00 PM",
-      "label": "2026-07-08T20:00:00",
-      "date": "2026-07-08",
-      "date_raw": "Today",
-      "stage": "quarter_final",
-      "group": "Quarterfinals",
-      "home_team": {
-        "name": "France",
-        "flag_url": "https://flagcdn.com/w80/fr.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Morocco",
-        "flag_url": "https://flagcdn.com/w80/ma.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "53452527",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452527",
       "status": "scheduled",
@@ -240,7 +212,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-09T19:39:00.109Z",
+    "last_updated": "2026-07-09T20:09:07.545Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
