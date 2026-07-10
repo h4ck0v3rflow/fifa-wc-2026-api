@@ -14,34 +14,6 @@
   },
   "matches": [
     {
-      "id": "53452527",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452527",
-      "status": "scheduled",
-      "status_text": "Today 7:00 PM",
-      "time": "7:00 PM",
-      "label": "2026-07-09T19:00:00",
-      "date": "2026-07-09",
-      "date_raw": "Today",
-      "stage": "quarter_final",
-      "group": "Quarterfinals",
-      "home_team": {
-        "name": "Spain",
-        "flag_url": "https://flagcdn.com/w80/es.webp",
-        "id": null
-      },
-      "away_team": {
-        "name": "Belgium",
-        "flag_url": "https://flagcdn.com/w80/be.webp",
-        "id": null
-      },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
-      "venue_id": null,
-      "highlights": null,
-      "link": null
-    },
-    {
       "id": "53452529",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529",
       "status": "scheduled",
@@ -212,7 +184,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-10T18:45:58.930Z",
+    "last_updated": "2026-07-10T19:16:06.136Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
