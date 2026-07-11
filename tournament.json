@@ -1,0 +1,21 @@
+{
+  "tournament": {
+    "name": "FIFA World Cup 2026",
+    "season": "2026",
+    "hosts": [
+      "USA",
+      "Canada",
+      "Mexico"
+    ],
+    "format": "48 teams, 12 groups, round of 32 knockout",
+    "date_start": "2026-06-11",
+    "date_end": "2026-07-19",
+    "data_provider": "SportRadar (via Bing Sports)"
+  },
+  "meta": {
+    "total_matches": 104,
+    "last_updated": "2026-07-11T01:08:21.514Z",
+    "source": "Bing Sports (SportRadar)",
+    "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
+  }
+}
