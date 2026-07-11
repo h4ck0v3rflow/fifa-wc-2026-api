@@ -3436,8 +3436,8 @@
         {
           "id": "53452529",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-07-11",
           "date": "2026-07-11",
@@ -3624,7 +3624,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-11T23:38:46.537Z",
+    "last_updated": "2026-07-11T23:48:51.628Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
