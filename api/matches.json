@@ -3372,9 +3372,9 @@
       "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
       "highlights": [
         {
-          "label": "Match recap",
-          "url": "https://www.fifa.com/watch/6BptF8qH4saNhLcDzUOeQG?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_99)",
-          "duration": "02:14"
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=PP4D-JCcmsE",
+          "duration": null
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Norway vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -3382,10 +3382,10 @@
     {
       "id": "53452531",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452531",
-      "status": "scheduled",
-      "status_text": "Today 1:00 AM",
-      "time": "1:00 AM",
-      "label": "2026-07-12T01:00:00",
+      "status": "live",
+      "status_text": "Live",
+      "time": null,
+      "label": "2026-07-12",
       "date": "2026-07-12",
       "date_raw": "Today",
       "stage": "quarter_final",
@@ -3400,9 +3400,9 @@
         "flag_url": "https://flagcdn.com/w80/ch.webp",
         "id": null
       },
-      "home_score": null,
-      "away_score": null,
-      "winner": null,
+      "home_score": 1,
+      "away_score": 0,
+      "winner": "home",
       "venue_id": null,
       "highlights": null,
       "link": null
@@ -3522,7 +3522,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-12T00:49:02.229Z",
+    "last_updated": "2026-07-12T01:19:07.426Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
