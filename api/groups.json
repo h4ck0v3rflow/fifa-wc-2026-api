@@ -1908,6 +1908,40 @@
       "stage": "group",
       "matches": [
         {
+          "id": "66457018",
+          "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457018",
+          "status": "finished",
+          "status_text": "FT",
+          "time": null,
+          "label": "2026-06-17",
+          "date": "2026-06-17",
+          "date_raw": "Wed, Jun 17",
+          "stage": "group",
+          "group": "Group J",
+          "home_team": {
+            "name": "Argentina",
+            "flag_url": "https://flagcdn.com/w80/ar.webp",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4819"
+          },
+          "away_team": {
+            "name": "Algeria",
+            "flag_url": "https://flagcdn.com/w80/dz.webp",
+            "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4691"
+          },
+          "home_score": 3,
+          "away_score": 0,
+          "winner": "home",
+          "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189",
+          "highlights": [
+            {
+              "label": "Match highlights",
+              "url": "https://www.youtube.com/watch?v=mn8MwFb8WOk",
+              "duration": null
+            }
+          ],
+          "link": "https://www.bing.com/sportsdetails?q=Argentina vs Algeria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457018&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+        },
+        {
           "id": "66457020",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457020",
           "status": "finished",
@@ -3601,8 +3635,8 @@
     }
   ],
   "meta": {
-    "total_matches": 103,
-    "last_updated": "2026-07-12T08:21:16.624Z",
+    "total_matches": 104,
+    "last_updated": "2026-07-12T08:51:22.333Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
