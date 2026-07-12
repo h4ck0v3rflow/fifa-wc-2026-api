@@ -3488,9 +3488,9 @@
             "flag_url": "https://flagcdn.com/w80/ch.webp",
             "id": null
           },
-          "home_score": 1,
+          "home_score": 2,
           "away_score": 1,
-          "winner": "draw",
+          "winner": "home",
           "venue_id": null,
           "highlights": null,
           "link": null
@@ -3630,7 +3630,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-12T03:30:16.840Z",
+    "last_updated": "2026-07-12T03:40:22.132Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
