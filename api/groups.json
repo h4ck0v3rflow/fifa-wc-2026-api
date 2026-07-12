@@ -3470,8 +3470,8 @@
         {
           "id": "53452531",
           "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452531",
-          "status": "live",
-          "status_text": "Live",
+          "status": "finished",
+          "status_text": "FT",
           "time": null,
           "label": "2026-07-12",
           "date": "2026-07-12",
@@ -3488,7 +3488,7 @@
             "flag_url": "https://flagcdn.com/w80/ch.webp",
             "id": null
           },
-          "home_score": 2,
+          "home_score": 3,
           "away_score": 1,
           "winner": "home",
           "venue_id": null,
@@ -3546,8 +3546,8 @@
             "id": null
           },
           "away_team": {
-            "name": "W100",
-            "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+            "name": "Argentina",
+            "flag_url": "https://flagcdn.com/w80/ar.webp",
             "id": null
           },
           "home_score": null,
@@ -3630,7 +3630,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-12T03:40:22.132Z",
+    "last_updated": "2026-07-12T03:50:27.535Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
