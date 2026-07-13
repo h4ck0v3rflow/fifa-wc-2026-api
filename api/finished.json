@@ -3353,7 +3353,7 @@
       "time": null,
       "label": "2026-07-11",
       "date": "2026-07-11",
-      "date_raw": "Yesterday",
+      "date_raw": "Sat, Jul 11",
       "stage": "quarter_final",
       "group": "Quarterfinals",
       "home_team": {
@@ -3387,7 +3387,7 @@
       "time": null,
       "label": "2026-07-12",
       "date": "2026-07-12",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "quarter_final",
       "group": "Quarterfinals",
       "home_team": {
@@ -3416,7 +3416,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-12T23:54:06.519Z",
+    "last_updated": "2026-07-13T00:24:12.015Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
