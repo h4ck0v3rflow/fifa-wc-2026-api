@@ -26,12 +26,12 @@
       "group": "Semifinals",
       "home_team": {
         "name": "France",
-        "flag_url": "https://www.bing.com/th/id/OSB.uZpnWUovQu5UlpGjW05T1w--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+        "flag_url": "https://flagcdn.com/w80/fr.webp",
         "id": null
       },
       "away_team": {
         "name": "Spain",
-        "flag_url": "https://www.bing.com/th/id/OSB.hgUSGNppUx4Tm_rgtMI_yw--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+        "flag_url": "https://flagcdn.com/w80/es.webp",
         "id": null
       },
       "home_score": null,
@@ -54,12 +54,12 @@
       "group": "Semifinals",
       "home_team": {
         "name": "England",
-        "flag_url": "https://www.bing.com/th?id=OSB.Bb%7cOCh6mDEaOct3bdDponA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
         "id": null
       },
       "away_team": {
         "name": "Argentina",
-        "flag_url": "https://www.bing.com/th/id/OSB.FgTVzvAJp_zjIKdIxE02sg--.png?w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports",
+        "flag_url": "https://flagcdn.com/w80/ar.webp",
         "id": null
       },
       "home_score": null,
@@ -128,7 +128,7 @@
   ],
   "meta": {
     "total_matches": 104,
-    "last_updated": "2026-07-13T17:56:29.726Z",
+    "last_updated": "2026-07-13T18:12:19.010Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
