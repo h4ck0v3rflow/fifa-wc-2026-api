@@ -279,7 +279,7 @@
       "highlights": [
         {
           "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=VxNAVcCwqRk",
+          "url": "https://www.youtube.com/watch?v=lwCKjEM0EGg",
           "duration": null
         }
       ],
@@ -380,9 +380,9 @@
       "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
       "highlights": [
         {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=eC7TtzHX8dk",
-          "duration": null
+          "label": "Match recap",
+          "url": "https://www.fifa.com/watch/4P79SuyJHO3ZGVuRYxjots?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_9)",
+          "duration": "02:15"
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=Ivory Coast vs Ecuador&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457072&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -1469,7 +1469,7 @@
       "highlights": [
         {
           "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Sekmgqgq66g",
+          "url": "https://www.youtube.com/watch?v=TtZ5W4_NZ6E",
           "duration": null
         }
       ],
@@ -1639,7 +1639,7 @@
       "highlights": [
         {
           "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=8B2oJsAQud8",
+          "url": "https://www.youtube.com/watch?v=ajMw8BPZWMs",
           "duration": null
         }
       ],
@@ -1673,7 +1673,7 @@
       "highlights": [
         {
           "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=z1IWGvvVL4U",
+          "url": "https://www.youtube.com/watch?v=U21rh50wlH8",
           "duration": null
         }
       ],
@@ -1714,6 +1714,40 @@
       "link": "https://www.bing.com/sportsdetails?q=Bosnia and Herzegovina vs Qatar&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456926&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4792&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
+      "id": "66456936",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456936",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-06-24",
+      "date": "2026-06-24",
+      "date_raw": "Wed, Jun 24",
+      "stage": "group",
+      "group": "Group C",
+      "home_team": {
+        "name": "Scotland",
+        "flag_url": "https://flagcdn.com/w80/gb-sct.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4695"
+      },
+      "away_team": {
+        "name": "Brazil",
+        "flag_url": "https://flagcdn.com/w80/br.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4748"
+      },
+      "home_score": 0,
+      "away_score": 3,
+      "winner": "away",
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=3bf1HqRbO9o",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Scotland vs Brazil&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456936&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4695&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
       "id": "66456938",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456938",
       "status": "finished",
@@ -1741,7 +1775,7 @@
       "highlights": [
         {
           "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=TEX9jxrDnxM",
+          "url": "https://www.youtube.com/watch?v=RJo4AzB93IU",
           "duration": null
         }
       ],
@@ -1877,7 +1911,7 @@
       "highlights": [
         {
           "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=7P2HYub5VB0",
+          "url": "https://www.youtube.com/watch?v=oNwgRFd6aqs",
           "duration": null
         }
       ],
@@ -1979,7 +2013,7 @@
       "highlights": [
         {
           "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=wP4uE_lpnjo",
+          "url": "https://www.youtube.com/watch?v=htjkH8kk7o4",
           "duration": null
         }
       ],
@@ -3312,13 +3346,47 @@
       "link": "https://www.bing.com/sportsdetails?q=Spain vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452527&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
-      "id": "53452531",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452531",
+      "id": "53452529",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529",
       "status": "finished",
       "status_text": "FT",
       "time": null,
       "label": "2026-07-11",
       "date": "2026-07-11",
+      "date_raw": "Sat, Jul 11",
+      "stage": "quarter_final",
+      "group": "Quarterfinals",
+      "home_team": {
+        "name": "Norway",
+        "flag_url": "https://flagcdn.com/w80/no.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4475"
+      },
+      "away_team": {
+        "name": "England",
+        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
+      },
+      "home_score": 1,
+      "away_score": 2,
+      "winner": "away",
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=PP4D-JCcmsE",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Norway vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
+      "id": "53452531",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452531",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-07-12",
+      "date": "2026-07-12",
       "date_raw": "Yesterday",
       "stage": "quarter_final",
       "group": "Quarterfinals",
@@ -3351,8 +3419,8 @@
       "status": "scheduled",
       "status_text": "Tomorrow 7:00 PM",
       "time": "7:00 PM",
-      "label": "2026-07-12T19:00:00",
-      "date": "2026-07-12",
+      "label": "2026-07-13T19:00:00",
+      "date": "2026-07-13",
       "date_raw": "Tomorrow",
       "stage": "semi_final",
       "group": "Semifinals",
@@ -3459,8 +3527,8 @@
     }
   ],
   "meta": {
-    "total_matches": 102,
-    "last_updated": "2026-07-13T11:10:26.361Z",
+    "total_matches": 104,
+    "last_updated": "2026-07-13T11:26:20.430Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
