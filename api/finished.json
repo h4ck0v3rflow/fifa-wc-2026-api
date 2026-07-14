@@ -14,1774 +14,6 @@
   },
   "matches": [
     {
-      "id": "66456904",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456904",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-11",
-      "date": "2026-06-11",
-      "date_raw": "Thu, Jun 11",
-      "stage": "group",
-      "group": "Group A",
-      "home_team": {
-        "name": "Mexico",
-        "flag_url": "https://flagcdn.com/w80/mx.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4781"
-      },
-      "away_team": {
-        "name": "South Africa",
-        "flag_url": "https://flagcdn.com/w80/za.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4736"
-      },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Gg9bkcHBurg",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Mexico vs South Africa&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456904&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456906",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456906",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-12",
-      "date": "2026-06-12",
-      "date_raw": "Fri, Jun 12",
-      "stage": "group",
-      "group": "Group A",
-      "home_team": {
-        "name": "Korea Republic",
-        "flag_url": "https://flagcdn.com/w80/kr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4735"
-      },
-      "away_team": {
-        "name": "Czechia",
-        "flag_url": "https://flagcdn.com/w80/cz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4714"
-      },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=9VWzTri0mho",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Korea Republic vs Czechia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456906&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4735&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4714&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456916",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456916",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-12",
-      "date": "2026-06-12",
-      "date_raw": "Fri, Jun 12",
-      "stage": "group",
-      "group": "Group B",
-      "home_team": {
-        "name": "Canada",
-        "flag_url": "https://flagcdn.com/w80/ca.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4752"
-      },
-      "away_team": {
-        "name": "Bosnia and Herzegovina",
-        "flag_url": "https://flagcdn.com/w80/ba.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4479"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=jWodHwcZWsg",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Canada vs Bosnia and Herzegovina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456916&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456940",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456940",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-13",
-      "date": "2026-06-13",
-      "date_raw": "Sat, Jun 13",
-      "stage": "group",
-      "group": "Group D",
-      "home_team": {
-        "name": "USA",
-        "flag_url": "https://flagcdn.com/w80/us.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4724"
-      },
-      "away_team": {
-        "name": "Paraguay",
-        "flag_url": "https://flagcdn.com/w80/py.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
-      },
-      "home_score": 4,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=dV4CVfySiy0",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=USA vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456940&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456918",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456918",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-13",
-      "date": "2026-06-13",
-      "date_raw": "Sat, Jun 13",
-      "stage": "group",
-      "group": "Group B",
-      "home_team": {
-        "name": "Qatar",
-        "flag_url": "https://flagcdn.com/w80/qa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4792"
-      },
-      "away_team": {
-        "name": "Switzerland",
-        "flag_url": "https://flagcdn.com/w80/ch.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4699"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=5KewYogxkXo",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Qatar vs Switzerland&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456918&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4792&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456928",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456928",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-13",
-      "date": "2026-06-13",
-      "date_raw": "Sat, Jun 13",
-      "stage": "group",
-      "group": "Group C",
-      "home_team": {
-        "name": "Brazil",
-        "flag_url": "https://flagcdn.com/w80/br.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4748"
-      },
-      "away_team": {
-        "name": "Morocco",
-        "flag_url": "https://flagcdn.com/w80/ma.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4778"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=inWwr7XhS-I",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456928&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456930",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456930",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-14",
-      "date": "2026-06-14",
-      "date_raw": "Sun, Jun 14",
-      "stage": "group",
-      "group": "Group C",
-      "home_team": {
-        "name": "Haiti",
-        "flag_url": "https://flagcdn.com/w80/ht.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_7229"
-      },
-      "away_team": {
-        "name": "Scotland",
-        "flag_url": "https://flagcdn.com/w80/gb-sct.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4695"
-      },
-      "home_score": 0,
-      "away_score": 1,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=g5JONS3ngms",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Haiti vs Scotland&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456930&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_7229&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4695&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456942",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456942",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-14",
-      "date": "2026-06-14",
-      "date_raw": "Sun, Jun 14",
-      "stage": "group",
-      "group": "Group D",
-      "home_team": {
-        "name": "Australia",
-        "flag_url": "https://flagcdn.com/w80/au.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4741"
-      },
-      "away_team": {
-        "name": "Turkiye",
-        "flag_url": "https://flagcdn.com/w80/tr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4700"
-      },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=lwCKjEM0EGg",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Australia vs Turkiye&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456942&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457070",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457070",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-14",
-      "date": "2026-06-14",
-      "date_raw": "Sun, Jun 14",
-      "stage": "group",
-      "group": "Group E",
-      "home_team": {
-        "name": "Germany",
-        "flag_url": "https://flagcdn.com/w80/de.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4711"
-      },
-      "away_team": {
-        "name": "Curacao",
-        "flag_url": "https://flagcdn.com/w80/cw.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_55827"
-      },
-      "home_score": 7,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=a51a9qDApEw",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Germany vs Curacao&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457070&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_55827&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456968",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456968",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-14",
-      "date": "2026-06-14",
-      "date_raw": "Sun, Jun 14",
-      "stage": "group",
-      "group": "Group F",
-      "home_team": {
-        "name": "Netherlands",
-        "flag_url": "https://flagcdn.com/w80/nl.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4705"
-      },
-      "away_team": {
-        "name": "Japan",
-        "flag_url": "https://flagcdn.com/w80/jp.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4770"
-      },
-      "home_score": 2,
-      "away_score": 2,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=KXuf5pezkLA",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Japan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456968&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457072",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457072",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-14",
-      "date": "2026-06-14",
-      "date_raw": "Sun, Jun 14",
-      "stage": "group",
-      "group": "Group E",
-      "home_team": {
-        "name": "Ivory Coast",
-        "flag_url": "https://flagcdn.com/w80/ci.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4768"
-      },
-      "away_team": {
-        "name": "Ecuador",
-        "flag_url": "https://flagcdn.com/w80/ec.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4757"
-      },
-      "home_score": 1,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
-      "highlights": [
-        {
-          "label": "Match recap",
-          "url": "https://www.fifa.com/watch/4P79SuyJHO3ZGVuRYxjots?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_9)",
-          "duration": "02:15"
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Ivory Coast vs Ecuador&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457072&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456970",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456970",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-15",
-      "date": "2026-06-15",
-      "date_raw": "Mon, Jun 15",
-      "stage": "group",
-      "group": "Group F",
-      "home_team": {
-        "name": "Sweden",
-        "flag_url": "https://flagcdn.com/w80/se.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4688"
-      },
-      "away_team": {
-        "name": "Tunisia",
-        "flag_url": "https://flagcdn.com/w80/tn.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4729"
-      },
-      "home_score": 5,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Z1Yr0OgUfKI",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Sweden vs Tunisia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456970&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4729&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456994",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456994",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-15",
-      "date": "2026-06-15",
-      "date_raw": "Mon, Jun 15",
-      "stage": "group",
-      "group": "Group H",
-      "home_team": {
-        "name": "Spain",
-        "flag_url": "https://flagcdn.com/w80/es.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4698"
-      },
-      "away_team": {
-        "name": "Cape Verde",
-        "flag_url": "https://flagcdn.com/w80/cv.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4753"
-      },
-      "home_score": 0,
-      "away_score": 0,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=lmKefVvXPbM",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Spain vs Cape Verde&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456994&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4753&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456982",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456982",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-15",
-      "date": "2026-06-15",
-      "date_raw": "Mon, Jun 15",
-      "stage": "group",
-      "group": "Group G",
-      "home_team": {
-        "name": "Belgium",
-        "flag_url": "https://flagcdn.com/w80/be.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4717"
-      },
-      "away_team": {
-        "name": "Egypt",
-        "flag_url": "https://flagcdn.com/w80/eg.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4758"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=bnILQSKAvBc",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Belgium vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456982&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456996",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456996",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-15",
-      "date": "2026-06-15",
-      "date_raw": "Mon, Jun 15",
-      "stage": "group",
-      "group": "Group H",
-      "home_team": {
-        "name": "Saudi Arabia",
-        "flag_url": "https://flagcdn.com/w80/sa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4834"
-      },
-      "away_team": {
-        "name": "Uruguay",
-        "flag_url": "https://flagcdn.com/w80/uy.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4725"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Q7oax7IniSc",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Saudi Arabia vs Uruguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456996&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4834&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4725&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456984",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456984",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-16",
-      "date": "2026-06-16",
-      "date_raw": "Tue, Jun 16",
-      "stage": "group",
-      "group": "Group G",
-      "home_team": {
-        "name": "IR Iran",
-        "flag_url": "https://flagcdn.com/w80/ir.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4766"
-      },
-      "away_team": {
-        "name": "New Zealand",
-        "flag_url": "https://flagcdn.com/w80/nz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4784"
-      },
-      "home_score": 2,
-      "away_score": 2,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=fWDYdKbree4",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=IR Iran vs New Zealand&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456984&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4766&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4784&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457006",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457006",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-16",
-      "date": "2026-06-16",
-      "date_raw": "Tue, Jun 16",
-      "stage": "group",
-      "group": "Group I",
-      "home_team": {
-        "name": "France",
-        "flag_url": "https://flagcdn.com/w80/fr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4481"
-      },
-      "away_team": {
-        "name": "Senegal",
-        "flag_url": "https://flagcdn.com/w80/sn.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4739"
-      },
-      "home_score": 3,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=tKA5wDV6SiY",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=France vs Senegal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457006&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457008",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457008",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-16",
-      "date": "2026-06-16",
-      "date_raw": "Tue, Jun 16",
-      "stage": "group",
-      "group": "Group I",
-      "home_team": {
-        "name": "Iraq",
-        "flag_url": "https://flagcdn.com/w80/iq.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4767"
-      },
-      "away_team": {
-        "name": "Norway",
-        "flag_url": "https://flagcdn.com/w80/no.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4475"
-      },
-      "home_score": 1,
-      "away_score": 4,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Vx-oSDYEm8M",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Iraq vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457008&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4767&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457018",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457018",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-17",
-      "date": "2026-06-17",
-      "date_raw": "Wed, Jun 17",
-      "stage": "group",
-      "group": "Group J",
-      "home_team": {
-        "name": "Argentina",
-        "flag_url": "https://flagcdn.com/w80/ar.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4819"
-      },
-      "away_team": {
-        "name": "Algeria",
-        "flag_url": "https://flagcdn.com/w80/dz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4691"
-      },
-      "home_score": 3,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=mn8MwFb8WOk",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Algeria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457018&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457020",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457020",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-17",
-      "date": "2026-06-17",
-      "date_raw": "Wed, Jun 17",
-      "stage": "group",
-      "group": "Group J",
-      "home_team": {
-        "name": "Austria",
-        "flag_url": "https://flagcdn.com/w80/at.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4718"
-      },
-      "away_team": {
-        "name": "Jordan",
-        "flag_url": "https://flagcdn.com/w80/jo.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4771"
-      },
-      "home_score": 3,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=MolUQa1DWCY",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Austria vs Jordan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457020&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4771&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457030",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457030",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-17",
-      "date": "2026-06-17",
-      "date_raw": "Wed, Jun 17",
-      "stage": "group",
-      "group": "Group K",
-      "home_team": {
-        "name": "Portugal",
-        "flag_url": "https://flagcdn.com/w80/pt.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4704"
-      },
-      "away_team": {
-        "name": "Congo DR",
-        "flag_url": "https://flagcdn.com/w80/cd.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4823"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=XU5vwLWFkvE",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Portugal vs Congo DR&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457030&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457042",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457042",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-17",
-      "date": "2026-06-17",
-      "date_raw": "Wed, Jun 17",
-      "stage": "group",
-      "group": "Group L",
-      "home_team": {
-        "name": "England",
-        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
-      },
-      "away_team": {
-        "name": "Croatia",
-        "flag_url": "https://flagcdn.com/w80/hr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4715"
-      },
-      "home_score": 4,
-      "away_score": 2,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=LHQajhdJiIk",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=England vs Croatia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457042&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457044",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457044",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-17",
-      "date": "2026-06-17",
-      "date_raw": "Wed, Jun 17",
-      "stage": "group",
-      "group": "Group L",
-      "home_team": {
-        "name": "Ghana",
-        "flag_url": "https://flagcdn.com/w80/gh.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4764"
-      },
-      "away_team": {
-        "name": "Panama",
-        "flag_url": "https://flagcdn.com/w80/pa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_5164"
-      },
-      "home_score": 1,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=l7VZIXCMhRA",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Ghana vs Panama&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457044&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457032",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457032",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-18",
-      "date": "2026-06-18",
-      "date_raw": "Thu, Jun 18",
-      "stage": "group",
-      "group": "Group K",
-      "home_team": {
-        "name": "Uzbekistan",
-        "flag_url": "https://flagcdn.com/w80/uz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4723"
-      },
-      "away_team": {
-        "name": "Colombia",
-        "flag_url": "https://flagcdn.com/w80/co.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4820"
-      },
-      "home_score": 1,
-      "away_score": 3,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=DzF90Cs8ilU",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Uzbekistan vs Colombia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457032&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4723&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456910",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456910",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-18",
-      "date": "2026-06-18",
-      "date_raw": "Thu, Jun 18",
-      "stage": "group",
-      "group": "Group A",
-      "home_team": {
-        "name": "Czechia",
-        "flag_url": "https://flagcdn.com/w80/cz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4714"
-      },
-      "away_team": {
-        "name": "South Africa",
-        "flag_url": "https://flagcdn.com/w80/za.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4736"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=g_3MsHLoK2g",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Czechia vs South Africa&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456910&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4714&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456922",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456922",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-18",
-      "date": "2026-06-18",
-      "date_raw": "Thu, Jun 18",
-      "stage": "group",
-      "group": "Group B",
-      "home_team": {
-        "name": "Switzerland",
-        "flag_url": "https://flagcdn.com/w80/ch.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4699"
-      },
-      "away_team": {
-        "name": "Bosnia and Herzegovina",
-        "flag_url": "https://flagcdn.com/w80/ba.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4479"
-      },
-      "home_score": 4,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=_NXQ3kSLH6w",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Bosnia and Herzegovina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456922&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456920",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456920",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-18",
-      "date": "2026-06-18",
-      "date_raw": "Thu, Jun 18",
-      "stage": "group",
-      "group": "Group B",
-      "home_team": {
-        "name": "Canada",
-        "flag_url": "https://flagcdn.com/w80/ca.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4752"
-      },
-      "away_team": {
-        "name": "Qatar",
-        "flag_url": "https://flagcdn.com/w80/qa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4792"
-      },
-      "home_score": 6,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=ugs0OOuFO5g",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Canada vs Qatar&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456920&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4792&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456908",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456908",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-19",
-      "date": "2026-06-19",
-      "date_raw": "Fri, Jun 19",
-      "stage": "group",
-      "group": "Group A",
-      "home_team": {
-        "name": "Mexico",
-        "flag_url": "https://flagcdn.com/w80/mx.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4781"
-      },
-      "away_team": {
-        "name": "Korea Republic",
-        "flag_url": "https://flagcdn.com/w80/kr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4735"
-      },
-      "home_score": 1,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=_46-905M5Ig",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Mexico vs Korea Republic&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456908&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4735&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456944",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456944",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-19",
-      "date": "2026-06-19",
-      "date_raw": "Fri, Jun 19",
-      "stage": "group",
-      "group": "Group D",
-      "home_team": {
-        "name": "USA",
-        "flag_url": "https://flagcdn.com/w80/us.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4724"
-      },
-      "away_team": {
-        "name": "Australia",
-        "flag_url": "https://flagcdn.com/w80/au.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4741"
-      },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=cCpxnVbcmkg",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=USA vs Australia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456944&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456934",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456934",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-19",
-      "date": "2026-06-19",
-      "date_raw": "Fri, Jun 19",
-      "stage": "group",
-      "group": "Group C",
-      "home_team": {
-        "name": "Scotland",
-        "flag_url": "https://flagcdn.com/w80/gb-sct.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4695"
-      },
-      "away_team": {
-        "name": "Morocco",
-        "flag_url": "https://flagcdn.com/w80/ma.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4778"
-      },
-      "home_score": 0,
-      "away_score": 1,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=v9ISm8K623s",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Scotland vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456934&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4695&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456932",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456932",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-20",
-      "date": "2026-06-20",
-      "date_raw": "Sat, Jun 20",
-      "stage": "group",
-      "group": "Group C",
-      "home_team": {
-        "name": "Brazil",
-        "flag_url": "https://flagcdn.com/w80/br.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4748"
-      },
-      "away_team": {
-        "name": "Haiti",
-        "flag_url": "https://flagcdn.com/w80/ht.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_7229"
-      },
-      "home_score": 3,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=k8D-aOUrsQU",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Haiti&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456932&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_7229&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456946",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456946",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-20",
-      "date": "2026-06-20",
-      "date_raw": "Sat, Jun 20",
-      "stage": "group",
-      "group": "Group D",
-      "home_team": {
-        "name": "Turkiye",
-        "flag_url": "https://flagcdn.com/w80/tr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4700"
-      },
-      "away_team": {
-        "name": "Paraguay",
-        "flag_url": "https://flagcdn.com/w80/py.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4789"
-      },
-      "home_score": 0,
-      "away_score": 1,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=0DYrl8m7jTs",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Turkiye vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456946&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456972",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456972",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-20",
-      "date": "2026-06-20",
-      "date_raw": "Sat, Jun 20",
-      "stage": "group",
-      "group": "Group F",
-      "home_team": {
-        "name": "Netherlands",
-        "flag_url": "https://flagcdn.com/w80/nl.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4705"
-      },
-      "away_team": {
-        "name": "Sweden",
-        "flag_url": "https://flagcdn.com/w80/se.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4688"
-      },
-      "home_score": 5,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=HwES23Y7Uzo",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Sweden&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456972&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457074",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457074",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-20",
-      "date": "2026-06-20",
-      "date_raw": "Sat, Jun 20",
-      "stage": "group",
-      "group": "Group E",
-      "home_team": {
-        "name": "Germany",
-        "flag_url": "https://flagcdn.com/w80/de.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4711"
-      },
-      "away_team": {
-        "name": "Ivory Coast",
-        "flag_url": "https://flagcdn.com/w80/ci.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4768"
-      },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
-      "highlights": [
-        {
-          "label": "Highlights | Germany 2-1 Cote d'Ivoire | FIFA World Cup 2026™",
-          "url": "https://www.youtube.com/watch?v=_3PYS5oCgvQ",
-          "duration": "02:10"
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Germany vs Ivory Coast&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457074&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457076",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457076",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-21",
-      "date": "2026-06-21",
-      "date_raw": "Sun, Jun 21",
-      "stage": "group",
-      "group": "Group E",
-      "home_team": {
-        "name": "Ecuador",
-        "flag_url": "https://flagcdn.com/w80/ec.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4757"
-      },
-      "away_team": {
-        "name": "Curacao",
-        "flag_url": "https://flagcdn.com/w80/cw.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_55827"
-      },
-      "home_score": 0,
-      "away_score": 0,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=GlyD82yA1zk",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Ecuador vs Curacao&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457076&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_55827&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456974",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456974",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-21",
-      "date": "2026-06-21",
-      "date_raw": "Sun, Jun 21",
-      "stage": "group",
-      "group": "Group F",
-      "home_team": {
-        "name": "Tunisia",
-        "flag_url": "https://flagcdn.com/w80/tn.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4729"
-      },
-      "away_team": {
-        "name": "Japan",
-        "flag_url": "https://flagcdn.com/w80/jp.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4770"
-      },
-      "home_score": 0,
-      "away_score": 4,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Y-z3Rdlb7Pc",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Tunisia vs Japan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456974&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4729&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456998",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456998",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-21",
-      "date": "2026-06-21",
-      "date_raw": "Sun, Jun 21",
-      "stage": "group",
-      "group": "Group H",
-      "home_team": {
-        "name": "Spain",
-        "flag_url": "https://flagcdn.com/w80/es.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4698"
-      },
-      "away_team": {
-        "name": "Saudi Arabia",
-        "flag_url": "https://flagcdn.com/w80/sa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4834"
-      },
-      "home_score": 4,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=vjQOYKjhrXg",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Spain vs Saudi Arabia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456998&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4834&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456986",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456986",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-21",
-      "date": "2026-06-21",
-      "date_raw": "Sun, Jun 21",
-      "stage": "group",
-      "group": "Group G",
-      "home_team": {
-        "name": "Belgium",
-        "flag_url": "https://flagcdn.com/w80/be.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4717"
-      },
-      "away_team": {
-        "name": "IR Iran",
-        "flag_url": "https://flagcdn.com/w80/ir.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4766"
-      },
-      "home_score": 0,
-      "away_score": 0,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=OqcUIk17WTo",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Belgium vs IR Iran&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456986&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4766&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457000",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457000",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-21",
-      "date": "2026-06-21",
-      "date_raw": "Sun, Jun 21",
-      "stage": "group",
-      "group": "Group H",
-      "home_team": {
-        "name": "Uruguay",
-        "flag_url": "https://flagcdn.com/w80/uy.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4725"
-      },
-      "away_team": {
-        "name": "Cape Verde",
-        "flag_url": "https://flagcdn.com/w80/cv.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4753"
-      },
-      "home_score": 2,
-      "away_score": 2,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=1zkhpOS1KnU",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Uruguay vs Cape Verde&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457000&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4725&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4753&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456988",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456988",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-22",
-      "date": "2026-06-22",
-      "date_raw": "Mon, Jun 22",
-      "stage": "group",
-      "group": "Group G",
-      "home_team": {
-        "name": "New Zealand",
-        "flag_url": "https://flagcdn.com/w80/nz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4784"
-      },
-      "away_team": {
-        "name": "Egypt",
-        "flag_url": "https://flagcdn.com/w80/eg.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4758"
-      },
-      "home_score": 1,
-      "away_score": 3,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=DeZoRod7ppY",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=New Zealand vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456988&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4784&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457022",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457022",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-22",
-      "date": "2026-06-22",
-      "date_raw": "Mon, Jun 22",
-      "stage": "group",
-      "group": "Group J",
-      "home_team": {
-        "name": "Argentina",
-        "flag_url": "https://flagcdn.com/w80/ar.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4819"
-      },
-      "away_team": {
-        "name": "Austria",
-        "flag_url": "https://flagcdn.com/w80/at.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4718"
-      },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=Wb130YHCCa0",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Austria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457022&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457010",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457010",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-22",
-      "date": "2026-06-22",
-      "date_raw": "Mon, Jun 22",
-      "stage": "group",
-      "group": "Group I",
-      "home_team": {
-        "name": "France",
-        "flag_url": "https://flagcdn.com/w80/fr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4481"
-      },
-      "away_team": {
-        "name": "Iraq",
-        "flag_url": "https://flagcdn.com/w80/iq.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4767"
-      },
-      "home_score": 3,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=8zFVHjKA2Rw",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=France vs Iraq&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457010&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4767&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457012",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457012",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-23",
-      "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
-      "stage": "group",
-      "group": "Group I",
-      "home_team": {
-        "name": "Norway",
-        "flag_url": "https://flagcdn.com/w80/no.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4475"
-      },
-      "away_team": {
-        "name": "Senegal",
-        "flag_url": "https://flagcdn.com/w80/sn.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4739"
-      },
-      "home_score": 3,
-      "away_score": 2,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=TtZ5W4_NZ6E",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Norway vs Senegal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457012&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457024",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457024",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-23",
-      "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
-      "stage": "group",
-      "group": "Group J",
-      "home_team": {
-        "name": "Jordan",
-        "flag_url": "https://flagcdn.com/w80/jo.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4771"
-      },
-      "away_team": {
-        "name": "Algeria",
-        "flag_url": "https://flagcdn.com/w80/dz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4691"
-      },
-      "home_score": 1,
-      "away_score": 2,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=ZqEo9Ifbx34",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Jordan vs Algeria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457024&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4771&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457034",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457034",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-23",
-      "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
-      "stage": "group",
-      "group": "Group K",
-      "home_team": {
-        "name": "Portugal",
-        "flag_url": "https://flagcdn.com/w80/pt.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4704"
-      },
-      "away_team": {
-        "name": "Uzbekistan",
-        "flag_url": "https://flagcdn.com/w80/uz.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4723"
-      },
-      "home_score": 5,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=TO4Gv54frgU",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Portugal vs Uzbekistan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457034&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4723&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457046",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457046",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-23",
-      "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
-      "stage": "group",
-      "group": "Group L",
-      "home_team": {
-        "name": "England",
-        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
-      },
-      "away_team": {
-        "name": "Ghana",
-        "flag_url": "https://flagcdn.com/w80/gh.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4764"
-      },
-      "home_score": 0,
-      "away_score": 0,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=_3ruRWXCxVc",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=England vs Ghana&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457046&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457048",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457048",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-23",
-      "date": "2026-06-23",
-      "date_raw": "Tue, Jun 23",
-      "stage": "group",
-      "group": "Group L",
-      "home_team": {
-        "name": "Panama",
-        "flag_url": "https://flagcdn.com/w80/pa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_5164"
-      },
-      "away_team": {
-        "name": "Croatia",
-        "flag_url": "https://flagcdn.com/w80/hr.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4715"
-      },
-      "home_score": 0,
-      "away_score": 1,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=ae0H65HWLPM",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Panama vs Croatia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457048&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66457036",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457036",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-24",
-      "date": "2026-06-24",
-      "date_raw": "Wed, Jun 24",
-      "stage": "group",
-      "group": "Group K",
-      "home_team": {
-        "name": "Colombia",
-        "flag_url": "https://flagcdn.com/w80/co.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4820"
-      },
-      "away_team": {
-        "name": "Congo DR",
-        "flag_url": "https://flagcdn.com/w80/cd.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4823"
-      },
-      "home_score": 1,
-      "away_score": 0,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=ajMw8BPZWMs",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Colombia vs Congo DR&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457036&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456924",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456924",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-24",
-      "date": "2026-06-24",
-      "date_raw": "Wed, Jun 24",
-      "stage": "group",
-      "group": "Group B",
-      "home_team": {
-        "name": "Switzerland",
-        "flag_url": "https://flagcdn.com/w80/ch.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4699"
-      },
-      "away_team": {
-        "name": "Canada",
-        "flag_url": "https://flagcdn.com/w80/ca.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4752"
-      },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=U21rh50wlH8",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Canada&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456924&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456926",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456926",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-24",
-      "date": "2026-06-24",
-      "date_raw": "Wed, Jun 24",
-      "stage": "group",
-      "group": "Group B",
-      "home_team": {
-        "name": "Bosnia and Herzegovina",
-        "flag_url": "https://flagcdn.com/w80/ba.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4479"
-      },
-      "away_team": {
-        "name": "Qatar",
-        "flag_url": "https://flagcdn.com/w80/qa.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4792"
-      },
-      "home_score": 3,
-      "away_score": 1,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=WuhTBFKPk00",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Bosnia and Herzegovina vs Qatar&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456926&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4792&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456936",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456936",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-24",
-      "date": "2026-06-24",
-      "date_raw": "Wed, Jun 24",
-      "stage": "group",
-      "group": "Group C",
-      "home_team": {
-        "name": "Scotland",
-        "flag_url": "https://flagcdn.com/w80/gb-sct.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4695"
-      },
-      "away_team": {
-        "name": "Brazil",
-        "flag_url": "https://flagcdn.com/w80/br.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4748"
-      },
-      "home_score": 0,
-      "away_score": 3,
-      "winner": "away",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=3bf1HqRbO9o",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Scotland vs Brazil&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456936&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4695&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
-      "id": "66456938",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456938",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-24",
-      "date": "2026-06-24",
-      "date_raw": "Wed, Jun 24",
-      "stage": "group",
-      "group": "Group C",
-      "home_team": {
-        "name": "Morocco",
-        "flag_url": "https://flagcdn.com/w80/ma.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4778"
-      },
-      "away_team": {
-        "name": "Haiti",
-        "flag_url": "https://flagcdn.com/w80/ht.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_7229"
-      },
-      "home_score": 4,
-      "away_score": 2,
-      "winner": "home",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=RJo4AzB93IU",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Morocco vs Haiti&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456938&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_7229&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
       "id": "66456912",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66456912",
       "status": "finished",
@@ -1813,7 +45,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Czechia vs Mexico&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456912&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4714&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Czechia vs Mexico&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456912&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4714&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66456914",
@@ -1847,7 +79,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=South Africa vs Korea Republic&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456914&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4735&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=South Africa vs Korea Republic&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456914&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4735&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457080",
@@ -1881,7 +113,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Curacao vs Ivory Coast&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457080&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_55827&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Curacao vs Ivory Coast&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457080&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_55827&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457078",
@@ -1915,7 +147,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Ecuador vs Germany&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457078&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Ecuador vs Germany&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457078&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66456978",
@@ -1949,7 +181,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Japan vs Sweden&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456978&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Japan vs Sweden&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456978&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66456976",
@@ -1983,7 +215,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Tunisia vs Netherlands&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456976&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4729&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Tunisia vs Netherlands&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456976&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4729&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66456948",
@@ -2017,7 +249,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Turkiye vs USA&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456948&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Turkiye vs USA&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456948&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4700&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66456950",
@@ -2051,7 +283,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Paraguay vs Australia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456950&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Paraguay vs Australia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456950&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457014",
@@ -2085,7 +317,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Norway vs France&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457014&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Norway vs France&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457014&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457016",
@@ -2119,7 +351,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Senegal vs Iraq&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457016&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4767&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Senegal vs Iraq&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457016&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4767&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457002",
@@ -2153,7 +385,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Uruguay vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457002&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4725&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Uruguay vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457002&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4725&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457004",
@@ -2187,7 +419,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Cape Verde vs Saudi Arabia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457004&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4753&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4834&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Cape Verde vs Saudi Arabia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457004&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4753&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4834&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66456992",
@@ -2221,7 +453,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Egypt vs IR Iran&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456992&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4766&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Egypt vs IR Iran&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456992&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4766&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66456990",
@@ -2255,7 +487,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=New Zealand vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456990&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4784&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=New Zealand vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456990&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4784&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457050",
@@ -2289,7 +521,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Panama vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Panama vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457052",
@@ -2323,7 +555,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Croatia vs Ghana&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457052&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Croatia vs Ghana&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457052&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457040",
@@ -2357,7 +589,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Congo DR vs Uzbekistan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457040&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4723&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Congo DR vs Uzbekistan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457040&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4723&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457038",
@@ -2391,7 +623,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Colombia vs Portugal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457038&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Colombia vs Portugal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457038&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457026",
@@ -2425,7 +657,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Jordan vs Argentina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457026&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4771&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Jordan vs Argentina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457026&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4771&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457028",
@@ -2459,7 +691,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Algeria vs Austria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457028&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Algeria vs Austria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457028&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452545",
@@ -2493,7 +725,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=South Africa vs Canada&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452545&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=South Africa vs Canada&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452545&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4736&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452557",
@@ -2527,7 +759,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Japan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452557&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Japan&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452557&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4770&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452541",
@@ -2561,7 +793,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Germany vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452541&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Germany vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452541&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452547",
@@ -2595,7 +827,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452561",
@@ -2629,7 +861,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Ivory Coast vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Ivory Coast vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4768&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452543",
@@ -2663,7 +895,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=France vs Sweden&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452543&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=France vs Sweden&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452543&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4688&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452563",
@@ -2697,7 +929,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Mexico vs Ecuador&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452563&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Mexico vs Ecuador&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452563&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4757&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452565",
@@ -2731,7 +963,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=England vs Congo DR&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452565&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=England vs Congo DR&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452565&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4823&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452555",
@@ -2765,7 +997,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Belgium vs Senegal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452555&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Belgium vs Senegal&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452555&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452553",
@@ -2799,7 +1031,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=USA vs Bosnia and Herzegovina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452553&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=USA vs Bosnia and Herzegovina&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452553&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4479&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_15672\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452551",
@@ -2833,7 +1065,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Spain vs Austria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452551&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Spain vs Austria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452551&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4718&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452549",
@@ -2867,7 +1099,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Portugal vs Croatia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452549&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Portugal vs Croatia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452549&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4715&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452505",
@@ -2901,7 +1133,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Algeria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452505&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Algeria&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452505&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4691&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452503",
@@ -2935,7 +1167,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Australia vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452503&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Australia vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452503&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4741&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452569",
@@ -2969,7 +1201,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Cape Verde&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452569&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4753&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Cape Verde&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452569&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4753&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452507",
@@ -3003,7 +1235,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Colombia vs Ghana&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452507&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Colombia vs Ghana&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452507&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4764&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452511",
@@ -3037,7 +1269,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Canada vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452511&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Canada vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452511&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4752&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2402\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452509",
@@ -3071,7 +1303,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Paraguay vs France&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452509&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Paraguay vs France&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452509&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1833\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452517",
@@ -3105,7 +1337,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452517&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Brazil vs Norway&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452517&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4748&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452519",
@@ -3139,7 +1371,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Mexico vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452519&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Mexico vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452519&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4781&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1004\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452513",
@@ -3173,7 +1405,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Portugal vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452513&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Portugal vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452513&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4704&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452515",
@@ -3207,7 +1439,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=USA vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452515&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=USA vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452515&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4724&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2291\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452521",
@@ -3241,7 +1473,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452521&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Egypt&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452521&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4758&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_20343\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452523",
@@ -3275,7 +1507,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Colombia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452523&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Switzerland vs Colombia&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452523&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4820&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452525",
@@ -3309,7 +1541,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=France vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452525&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=France vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452525&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452527",
@@ -3343,7 +1575,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Spain vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452527&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Spain vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452527&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_52183\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452529",
@@ -3377,7 +1609,7 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Norway vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Norway vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452529&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4475&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_21306\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "53452531",
@@ -3411,12 +1643,12 @@
           "duration": null
         }
       ],
-      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Switzerland&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452531&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=null&IANATimezoneId=null&ISOTimezoneKey=null&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+      "link": "https://www.bing.com/sportsdetails?q=Argentina vs Switzerland&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452531&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4819&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4699&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_8189\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     }
   ],
   "meta": {
-    "total_matches": 104,
-    "last_updated": "2026-07-14T09:11:42.234Z",
+    "total_matches": 52,
+    "last_updated": "2026-07-14T09:33:50.538Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
