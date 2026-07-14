@@ -81,12 +81,12 @@
       "stage": "third_place",
       "group": "3rd place play-off",
       "home_team": {
-        "name": "RU101",
+        "name": "TBD",
         "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
         "id": null
       },
       "away_team": {
-        "name": "RU102",
+        "name": "TBD",
         "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
         "id": null
       },
@@ -109,12 +109,12 @@
       "stage": "final",
       "group": "Final",
       "home_team": {
-        "name": "W101",
+        "name": "TBD",
         "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
         "id": null
       },
       "away_team": {
-        "name": "W102",
+        "name": "TBD",
         "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
         "id": null
       },
@@ -128,7 +128,7 @@
   ],
   "meta": {
     "total_matches": 52,
-    "last_updated": "2026-07-14T10:52:07.230Z",
+    "last_updated": "2026-07-14T11:22:12.325Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
