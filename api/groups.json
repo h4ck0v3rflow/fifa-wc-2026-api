@@ -1733,8 +1733,8 @@
           "status": "scheduled",
           "status_text": "Today 7:00 PM",
           "time": "7:00 PM",
-          "label": "2026-07-13T19:00:00Z",
-          "date": "2026-07-13",
+          "label": "2026-07-14T19:00:00Z",
+          "date": "2026-07-14",
           "date_raw": "Today",
           "stage": "semi_final",
           "group": "Semifinals",
@@ -1761,8 +1761,8 @@
           "status": "scheduled",
           "status_text": "Tomorrow 7:00 PM",
           "time": "7:00 PM",
-          "label": "2026-07-14T19:00:00Z",
-          "date": "2026-07-14",
+          "label": "2026-07-15T19:00:00Z",
+          "date": "2026-07-15",
           "date_raw": "Tomorrow",
           "stage": "semi_final",
           "group": "Semifinals",
@@ -1856,7 +1856,7 @@
   ],
   "meta": {
     "total_matches": 52,
-    "last_updated": "2026-07-14T10:03:55.515Z",
+    "last_updated": "2026-07-14T10:22:02.528Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
