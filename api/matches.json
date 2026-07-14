@@ -1672,9 +1672,9 @@
       "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650",
       "highlights": [
         {
-          "label": "Match recap",
-          "url": "https://www.fifa.com/watch/6Hjp3RWmtqQoTtFlQZ2Etn?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_101)",
-          "duration": "02:14"
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=Ho_u5uaCH40",
+          "duration": null
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=France vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452533&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4481&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_6650\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
@@ -1766,7 +1766,7 @@
   ],
   "meta": {
     "total_matches": 52,
-    "last_updated": "2026-07-14T21:34:27.619Z",
+    "last_updated": "2026-07-14T22:04:32.521Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
