@@ -30,8 +30,8 @@
         "id": null
       },
       "away_team": {
-        "name": "TBD",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "England",
+        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
         "id": null
       },
       "home_score": null,
@@ -58,8 +58,8 @@
         "id": null
       },
       "away_team": {
-        "name": "TBD",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
+        "name": "Argentina",
+        "flag_url": "https://flagcdn.com/w80/ar.webp",
         "id": null
       },
       "home_score": null,
@@ -72,7 +72,7 @@
   ],
   "meta": {
     "total_matches": 52,
-    "last_updated": "2026-07-15T20:59:01.130Z",
+    "last_updated": "2026-07-15T21:09:06.220Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
