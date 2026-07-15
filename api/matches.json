@@ -1725,7 +1725,7 @@
       },
       "away_team": {
         "name": "TBD",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&urlcheck=1&dpr=2&pid=BingSports",
+        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
         "id": null
       },
       "home_score": null,
@@ -1753,7 +1753,7 @@
       },
       "away_team": {
         "name": "TBD",
-        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&urlcheck=1&dpr=2&pid=BingSports",
+        "flag_url": "https://www.bing.com/th/id/OSB.soccerteamdefault.png?w=24&h=24&qlt=90&o=6&dpr=2&pid=BingSports",
         "id": null
       },
       "home_score": null,
@@ -1766,7 +1766,7 @@
   ],
   "meta": {
     "total_matches": 52,
-    "last_updated": "2026-07-15T20:28:46.611Z",
+    "last_updated": "2026-07-15T20:38:51.315Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
