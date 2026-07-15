@@ -1653,7 +1653,7 @@
       "time": null,
       "label": "2026-07-14",
       "date": "2026-07-14",
-      "date_raw": "Today",
+      "date_raw": "Yesterday",
       "stage": "semi_final",
       "group": "Semifinals",
       "home_team": {
@@ -1682,7 +1682,7 @@
   ],
   "meta": {
     "total_matches": 52,
-    "last_updated": "2026-07-14T23:34:47.132Z",
+    "last_updated": "2026-07-15T00:04:52.326Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
