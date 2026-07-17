@@ -17,11 +17,11 @@
       "id": "53452539",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452539",
       "status": "scheduled",
-      "status_text": "Sat, Jul 18 9:00 PM",
+      "status_text": "Tomorrow 9:00 PM",
       "time": "9:00 PM",
       "label": "2026-07-18T21:00:00Z",
       "date": "2026-07-18",
-      "date_raw": "Sat, Jul 18",
+      "date_raw": "Tomorrow",
       "stage": "third_place",
       "group": "3rd place play-off",
       "home_team": {
@@ -72,7 +72,7 @@
   ],
   "meta": {
     "total_matches": 52,
-    "last_updated": "2026-07-16T23:43:35.127Z",
+    "last_updated": "2026-07-17T00:13:40.243Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
