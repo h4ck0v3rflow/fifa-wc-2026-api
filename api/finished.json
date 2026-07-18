@@ -796,40 +796,6 @@
       "link": "https://www.bing.com/sportsdetails?q=Germany vs Paraguay&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452541&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4711&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4789&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2379\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
-      "id": "53452547",
-      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547",
-      "status": "finished",
-      "status_text": "FT",
-      "time": null,
-      "label": "2026-06-30",
-      "date": "2026-06-30",
-      "date_raw": "Tue, Jun 30",
-      "stage": "round_of_32",
-      "group": "Round of 32",
-      "home_team": {
-        "name": "Netherlands",
-        "flag_url": "https://flagcdn.com/w80/nl.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4705"
-      },
-      "away_team": {
-        "name": "Morocco",
-        "flag_url": "https://flagcdn.com/w80/ma.webp",
-        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4778"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "winner": "draw",
-      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526",
-      "highlights": [
-        {
-          "label": "Match highlights",
-          "url": "https://www.youtube.com/watch?v=qeE9-cygsyo",
-          "duration": null
-        }
-      ],
-      "link": "https://www.bing.com/sportsdetails?q=Netherlands vs Morocco&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_53452547&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4705&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4778&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_16526\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
-    },
-    {
       "id": "53452561",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_53452561",
       "status": "finished",
@@ -1715,8 +1681,8 @@
     }
   ],
   "meta": {
-    "total_matches": 52,
-    "last_updated": "2026-07-18T11:19:31.324Z",
+    "total_matches": 51,
+    "last_updated": "2026-07-18T11:49:36.421Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
