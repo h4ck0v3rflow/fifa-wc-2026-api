@@ -354,6 +354,40 @@
       "link": "https://www.bing.com/sportsdetails?q=Senegal vs Iraq&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457016&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4739&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4767&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2294\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
+      "id": "66457002",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457002",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-06-27",
+      "date": "2026-06-27",
+      "date_raw": "Sat, Jun 27",
+      "stage": "group",
+      "group": "Group H",
+      "home_team": {
+        "name": "Uruguay",
+        "flag_url": "https://flagcdn.com/w80/uy.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4725"
+      },
+      "away_team": {
+        "name": "Spain",
+        "flag_url": "https://flagcdn.com/w80/es.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4698"
+      },
+      "home_score": 0,
+      "away_score": 1,
+      "winner": "away",
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=w4jgG2CXGY4",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Uruguay vs Spain&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457002&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4725&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4698&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2401\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
       "id": "66457004",
       "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457004",
       "status": "finished",
@@ -454,6 +488,40 @@
         }
       ],
       "link": "https://www.bing.com/sportsdetails?q=New Zealand vs Belgium&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66456990&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_4784&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4717&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_2293\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
+    },
+    {
+      "id": "66457050",
+      "sportradar_id": "SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050",
+      "status": "finished",
+      "status_text": "FT",
+      "time": null,
+      "label": "2026-06-27",
+      "date": "2026-06-27",
+      "date_raw": "Sat, Jun 27",
+      "stage": "group",
+      "group": "Group L",
+      "home_team": {
+        "name": "Panama",
+        "flag_url": "https://flagcdn.com/w80/pa.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_5164"
+      },
+      "away_team": {
+        "name": "England",
+        "flag_url": "https://flagcdn.com/w80/gb-eng.webp",
+        "id": "SportRadar_Soccer_InternationalWorldCup_2026_Team_4713"
+      },
+      "home_score": 0,
+      "away_score": 2,
+      "winner": "away",
+      "venue_id": "SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981",
+      "highlights": [
+        {
+          "label": "Match highlights",
+          "url": "https://www.youtube.com/watch?v=jhSTAI98KgM",
+          "duration": null
+        }
+      ],
+      "link": "https://www.bing.com/sportsdetails?q=Panama vs England&gameid=SportRadar_Soccer_InternationalWorldCup_2026_Game_66457050&league=Soccer_InternationalWorldCup&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=UTC&IANATimezoneId=UTC&ISOTimezoneKey=UTC&seasonyear=2026&team=SportRadar_Soccer_InternationalWorldCup_2026_Team_5164&team2=SportRadar_Soccer_InternationalWorldCup_2026_Team_4713&venueid={\"id\":\"SportRadar_Soccer_InternationalWorldCup_2026_Venue_1981\"}:version-1&segment=sports&isl2=true&form=ARENL2&"
     },
     {
       "id": "66457052",
@@ -1715,8 +1783,8 @@
     }
   ],
   "meta": {
-    "total_matches": 50,
-    "last_updated": "2026-07-23T01:49:39.921Z",
+    "total_matches": 52,
+    "last_updated": "2026-07-23T02:19:44.825Z",
     "source": "Bing Sports (SportRadar)",
     "url": "https://www.bing.com/sportsdetails?q=fifa%20world%20cup%20live%20scores&sport=Soccer&scenario=League&league=Soccer_InternationalWorldCup&seasonyear=2026&segment=sports"
   }
